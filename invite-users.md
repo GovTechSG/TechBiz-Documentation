@@ -101,14 +101,14 @@ Refer to the following for more information on the required details.
 
 4. In **Upload user list** section, select **Choose a file**.
 
-5. Select the saved file and upload it.
-
 > **Notes:**
 >
 > Usernames should contain the following:
 > - Start and end with alphanumeric characters.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
-> - Two consecutive '.' is not allowed.
+> - Two consecutive '.' is not allowed
+
+5. Select the saved file and upload it.
 
 6. Click **Submit**.
 

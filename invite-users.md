@@ -38,7 +38,7 @@ There are 3 different invitation types:
 
 4.  Select the required **invitation type**, enter the required details and click **Submit**.
 
-For more information on each type of invitation, refer to the following:
+For more information on each invitation type, refer to the following:
 
 * [Email invitation](#email-invitation)
 * [Create account](#create-account)
@@ -47,15 +47,11 @@ For more information on each type of invitation, refer to the following:
 
 ### Email invitation
 
-1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
-
-2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
-
-3. Click **Email invitation**.
+1.From **Invitation type**, select **Email invitation**.
 
  <kbd>![email_invite](/images/invitation-email.png ':size=100%')</kbd>
 
-4. Enter the required details and click **Submit**.
+2. Enter the required details and click **Submit**.
 
  <kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
 
@@ -69,15 +65,11 @@ Refer to the following for more information on the required details.
 
 ### Create account
 
-1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
-
-2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
-
-3. Click **Create account**.
+1. From **Invitation type**, select **Create account**.
 
  <kbd>![create_acct](/images/create-account.png ':size=100%')</kbd>
 
-4. Enter the required details and click **Submit**.
+2. Enter the required details and click **Submit**.
 
  <kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
 
@@ -93,22 +85,26 @@ Refer to the following for more information on the required details.
 
 ### Batch upload
 
-1. Click **Download excel template link**.
+1. From **Invitation type**, select **Batch upload**.
+
+2. Click **Download excel template link**.
 
   <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
-
-2. Open the downloaded xlsx file, specify the required details and save the file.
-
-4. In **Upload user list** section, select **Choose a file**.
-
-5. Select the saved file and upload it.
-
-> **Notes:**
+  
+> **Notes**
 >
 > Usernames should contain the following:
 > - Start and end with alphanumeric characters.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
 > - Two consecutive '.' is not allowed.
+
+3. Open the downloaded xlsx file, specify the required details and save the file.
+
+4. In **Upload user list** section, select **Choose a file**.
+
+  <kbd>![downloadtemplate](/images/choose-file.png ':size=100%')</kbd>
+
+5. Select the saved file and upload it.
 
 6. Click **Submit**.
 
@@ -126,13 +122,13 @@ Refer to the following for more information on the required details.
   <kbd>![remove](/images/reset.png ':size=100%')</kbd>
 
 
->**Notes:**
+>**Notes**
 >
->When an invitation is unsuccessful, you will receive an error notification during submission. You need to do the following:
+> When an invitation is unsuccessful, you will receive an error notification during submission. You need to do the following:
 >
->- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
->    - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
->- To troubleshoot [batch upload](#batch-upload) issues:
+> To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
+> - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
+> - To troubleshoot [batch upload](#batch-upload) issues:
 >    1. In the user list of the uploaded file, click the ellipsis on the row with errors.
 >    2. Click **View details**.
 >    3. Amend the required details and click **Save**.
@@ -158,6 +154,6 @@ The page will indicate "No record found" when no users have been invited. If you
 
 >**Notes:**
 > - Only users invited via TechBiz portal will be displayed on this list. 
-> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through create account](#create-account)  or [batch upload](#batch-upload). 
-> - Click Resend invite to re-invite users through email. Invitations can be sent once a day. The button is available after invites have been sent.
+> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create account](#create-account)  or [batch upload](#batch-upload). 
+> - Click **Resend invite** to re-invite users through email. Invitations can be sent once a day. The button is available after invites have been sent.
 

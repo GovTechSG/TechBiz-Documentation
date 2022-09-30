@@ -159,4 +159,4 @@ The page will indicate "No record found" when no users have been invited. If you
 >**Notes:**
 > - Only users invited via TechBiz portal will be displayed on this list. 
 > - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through create account](#create-account)  or [batch upload](#batch-upload). 
-> - Click Resend invite to re-invite users through email. Invitations can be sent once a day. 
+> - Click Resend invite to re-invite users through email. Invitations can be sent once a day. The button is available after invites have been sent.

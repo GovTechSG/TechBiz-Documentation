@@ -57,7 +57,7 @@ For more information on each type of invitation, refer to the following:
 
 4. Enter the required details and click **Submit**.
 
-<kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+ <kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
@@ -79,7 +79,7 @@ Refer to the following for more information on the required details.
 
 4. Enter the required details and click **Submit**.
 
-<kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
+ <kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
@@ -95,7 +95,7 @@ Refer to the following for more information on the required details.
 
 1. Click **Download excel template link**.
 
- <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
+  <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
 
 2. Open the downloaded xlsx file, specify the required details and save the file.
 
@@ -112,11 +112,11 @@ Refer to the following for more information on the required details.
 
 6. Click **Submit**.
 
-<kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>
+ <kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>
 
   - To view or edit user details, click the ellipsis on the row and click **View details**.
 
-<kbd>![view-details](/images/view-details.png ':size=100%')</kbd>
+ <kbd>![view-details](/images/view-details.png ':size=100%')</kbd>
 
   - To delete a single user, click **Remove**.
 

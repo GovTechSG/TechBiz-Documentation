@@ -48,7 +48,7 @@ For more information on each invitation type, refer to the following:
 ### Email invitation
 
 1. From **Invitation type**, select **Email invitation**.
-2. 
+
  <kbd>![email_invite1](/images/invitation-email.png ':size=100%')</kbd>
 
 2. Enter the required details and click **Submit**.

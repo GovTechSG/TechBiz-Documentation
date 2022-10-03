@@ -127,7 +127,7 @@ Refer to the following for more information on the required details.
 > When an invitation is unsuccessful, you will receive an error notification during submission. You need to do the following:
 >
 > To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
-> - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
+> - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID shown on the error notification.
 > - To troubleshoot [batch upload](#batch-upload) issues:
 >    1. In the user list of the uploaded file, click the ellipsis on the row with errors.
 >    2. Click **View details**.

@@ -137,19 +137,15 @@ Refer to the following for more information on the required details.
 
 ## View status of invited users
 
-Public officers can view the status of the users they have invited using TechBiz portal. The Invite User status displays the TechPass and SEED onboarding status of the invited users.
+Public officers can view the status of the users they have invited using TechBiz portal. **Invite User Status** displays the TechPass and SEED onboarding status of the invited users.
 
 ### To view the status of invited users
 
-1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
-
-2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite users**.
-
-3. Go to **Invite user status**.
+From **Invitation type**, select **Invite User Status*.
 
 The page will indicate "No record found" when no users have been invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 
-<kbd><img src="images/invite_user_status.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/invite-stats.png" alt="drawing" width="100%"/></kbd>
 
 
 >**Notes:**

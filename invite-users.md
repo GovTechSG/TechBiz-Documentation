@@ -47,9 +47,9 @@ For more information on each invitation type, refer to the following:
 
 ### Email invitation
 
-1.From **Invitation type**, select **Email invitation**.
-
- <kbd>![email_invite](/images/invitation-email.png ':size=100%')</kbd>
+1. From **Invitation type**, select **Email invitation**.
+2. 
+ <kbd>![email_invite1](/images/invitation-email.png ':size=100%')</kbd>
 
 2. Enter the required details and click **Submit**.
 
@@ -98,7 +98,7 @@ Refer to the following for more information on the required details.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
 > - Two consecutive '.' is not allowed.
 
-3. Open the downloaded xlsx file, specify the required details and save the file.
+3. Open the downloaded .xlsx file extension, specify the required details and save the file.
 
 4. In **Upload user list** section, select **Choose a file**.
 

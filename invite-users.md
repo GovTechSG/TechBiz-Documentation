@@ -1,6 +1,6 @@
 # Invite users
 
-Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
+Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products and [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) is needed to access SGTS products from the Internet device. TechBiz allows public officers to send SEED and TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors. 
 
 Public officers and vendors with \<your_name>@\<acronym for your agency>.gov.sg can also use the TechPass OTP service to create accounts. A TechPass account will automatically be created upon approval. 
 

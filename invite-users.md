@@ -2,10 +2,11 @@
 
 Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
 
+Public officers and vendors with \<your_name>@\<acronym for your agency>.gov.sg can also use the TechPass OTP service to create accounts. A TechPass account will automatically be created upon approval. 
+
 >**Notes:**
 > - Public officers and vendors using a [non-SE GSIB](glossary) device can also use [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) 
  Existing TechPass users can also request for [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
-> - Public officers can also use the TechPass OTP service to create accounts. A TechPass account will automatically be created upon approval. 
 > - SEED provisioning is needed to access SGTS products from the Internet device. If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions. If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
 ## Prerequisites
@@ -14,15 +15,13 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
-    - Organisation email address 
+    - Organisation email address
     - **First name** and **Last name**
     - **Contact number**
     - **Organisation**
     - **Department** (optional)
     - **TechPass username** (for vendors)
 
-> Note:
-> - Organisation email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg.
 
 ## Invite users to TechPass
 

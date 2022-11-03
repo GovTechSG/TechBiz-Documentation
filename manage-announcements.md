@@ -15,11 +15,11 @@ Administrators can:
 1. In **Overview**, select Manage announcements.
 2. Click **Add new**.
 3. Have the following information ready before proceeding:
-  - Product
-  - Title
-  - Start and end date
-  - Content
-  - Relevant image assets
+    - Product
+    - Title
+    - Start and end date
+    - Content
+    - Relevant image assets
 
 > **Note:** You can include .jpeg, .svg, .png and .gif images. Files must be less than 10MB.
 
@@ -69,7 +69,6 @@ Administrators can:
 A confirmation message will be displayed to verify that the announcement has been unpublished.
 
 > **Notes:**
-
 > - There are 3 different statuses.
 > - **Publishing** refers to announcements that have been saved and will be published on the start date.
 > - **Published** refers to announcements that are currently active.

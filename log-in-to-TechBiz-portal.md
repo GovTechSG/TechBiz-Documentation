@@ -16,6 +16,8 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 
 ## Log in with TechPass OTP
 
+Public officers and vendors with \<your_name>@\<acronym for your agency>.gov.sg can also use the TechPass OTP service to create accounts. A TechPass account will automatically be created upon approval. 
+
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
 
 2.  Click **Get Started**.

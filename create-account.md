@@ -1,8 +1,9 @@
 # TechBiz account
 
+
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to have an account in TechBiz.
 
-An account allows agencies to subscribe to SGTS products, add systems within SGTS manage subscription plans and view billing details. An agency can have multiple accounts for multiple systems.
+An account allows agencies to subscribe to SGTS products, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system. Refer to FAQ for more information.
 
 ## Create account
 
@@ -30,9 +31,9 @@ Prerequisites
 
 2. Click **Create account**.
 
-3. Agree to the terms and conditions of the **GovTech Universal Service Terms** and **SGTS Service Sheet**.
+3. To download the agreement, click **Download the SGTS agreement** link.
 
-4. To download the agreement, click **Download the SGTS agreement** link.
+4. Agree to the terms and conditions of the **GovTech Universal Service Terms** and **SGTS Service Sheet**.
 
 5. Click **Next**.
 
@@ -40,31 +41,31 @@ Prerequisites
 
 6. Enter the following **Account details**.
 
+> **Notes:**
+> - All fields are mandatory, unless mentioned otherwise.
+> - Click **Save draft** at any point before submitting your request. Your draft will be saved automatically subsequently.  
+> - You can access the saved draft within 14 days to continue with the account creation request.
+
 | **Field Name** | **Description** |
 | --- | --- |
 | **Agency name** | Select your agency name from the drop-down list. |
-| **Account name** | Enter the account name. Account name can contain alphanumeric characters. |
+| **Account name** | Enter the account name.</br>Account name can contain alphanumeric characters. |
 | **Account ID** | A unique **Account ID** is automatically generated and cannot be edited. Your **Account ID** is common across all SGTS products that your agency has subscribed to under this account.
-
-> **Notes:**
-> - All fields are mandatory, unless mentioned otherwise.
-> - Click **Save draft** at any point before submitting your request.
-> - You can access the saved draft within 14 days to continue with the account creation request.
 
 7. Enter the **Subscription admins** details.
 
+> **Notes:**
+> - **Primary subscription admin** and **Secondary subscription admin** must be public officers with a valid organisation email address.
+> - If the public officer does not have a TechPass account, it will be created automatically after the system account creation request is approved.
+
 | **Field Name** | **Description** |
 | --- | --- |
-| **Primary subscription admin** | This section allows you to enter the details of the **Primary subscription admin**. The requestor is assigned as the **Primary subscription admin** by default.</br> Note: **Primary subscription admin** cannot be the **Secondary subscription admin** or vice-versa. |
+| **Primary subscription admin** | This section allows you to enter the details of the **Primary subscription admin**. The requestor is assigned as the **Primary subscription admin** by default.</br></br>Note: **Primary subscription admin** cannot be the **Secondary subscription admin** or vice-versa. |
 | **Email address** | The organisation email address of the requestor is automatically displayed and cannot be edited. |
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.</br> Note: These details are masked except for the first and last character of first and last names, and the last 3 digits of the contact number. |
 | **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin**. |
 | **Email address** | Enter the organisation email address of the **Secondary subscription admin**.|
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter details manually. |
-
-> **Notes:**
-> - **Primary subscription admin** and **Secondary subscription admin** must be public officers with a valid organisation email address.
->  - If the public officer does not have a TechPass account, it will be created automatically after the system account creation request is approved.
 
 8. Enter the **Billing details**.
 
@@ -88,7 +89,6 @@ Prerequisites
 > **Note:** While selecting a date, you will not be able to select 3 consecutive working days from the current date and before the last 3 working days of the month. For more information, refer to the field description table.
 
 13. In **Select a plan** , provide the subscription plan details.
-14. If you are subscribing to more than one SGTS product, repeat **steps 11-13** and click **Next**.
 
 | **Field Name** | **Description** |
 | --- | --- |
@@ -97,12 +97,13 @@ This is the date when your agency intends to start using the subscribed SGTS pro
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 
-15. In **Approver details** , enter the required information and click **Next**.
+14. If you are subscribing to more than one SGTS product, repeat **steps 11-13** and click **Next**.
 
-**Notes:**
+15. In **Approver details**, enter the required information and click **Next**.
 
-  - **Approver** must be a public officer with a valid organisation email address.
-  - **Approver** needs to be a Deputy director and above.
+> **Notes:**
+> - **Approver** must be a public officer with a valid organisation email address.
+> - **Approver** needs to be a Deputy director and above.
 
 | **Field Name** | **Description** |
 | --- | --- |
@@ -112,7 +113,8 @@ This is the date when your agency intends to start using the subscribed SGTS pro
 | **Remarks to Approver** | This field is optional.</br>Specify the reasons for submitting this request.|
 
 16. Verify if the information displayed on this page is correct and then click **Submit**.
-17. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit.**
+
+17. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
 
 A confirmation message will be displayed to verify that the account has been submitted for approval.
 

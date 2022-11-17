@@ -82,11 +82,11 @@ Prerequisites
 
 11. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS products.
 
-> **Note:** You will be able to see a tab for each SGTS product that you have selected.
+> **Note:** There is a tab for each SGTS product that you have selected.
 
 12. By default, the date displayed is automatically generated. Click **Start date** to select the required date.
 
-> **Note:** While selecting a date, you will not be able to select 3 consecutive working days from the current date and before the last 3 working days of the month. For more information, refer to the field description table.
+> **Note:** You cannot select 3 consecutive working days from the current date and 3 working days before end of the month. For more information, refer to the field description table.
 
 13. In **Select a plan** , provide the subscription plan details.
 

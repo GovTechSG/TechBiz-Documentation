@@ -129,6 +129,8 @@ When a public officer submits a request to create an account, the **Approver** r
 2. Click the link provided in the email.
 
 3. [Log in to TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal) using your non-SE GSIB.
+
+> **Note**: **Approver** can access TechBiz portal using [TechPass](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal?id=log-in-with-techpass) or [TechPass OTP](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal?id=log-in-with-techpass-otp).
  
 4. Select the account to be approved.
 

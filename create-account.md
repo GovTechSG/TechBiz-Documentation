@@ -73,7 +73,7 @@ Prerequisites
 | --- | --- |
 | **Email address** | Enter the organisation email address of the **Billing admin**. </br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually. |
-| **Agency department**</br>M.br<**Cost center**</br></br></br**Fund center** | Enter your department name.</br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br>Enter the **fund center** details.</br>Note: The above field details are applicable to GovTech accounts only. |
+| **Agency department**</br></br>**Cost center**</br></br>**Fund center** | Enter your department name.</br></br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br>Enter the **fund center** details.</br>Note: The above field details are applicable to GovTech accounts only. |
 | **SBU code** | Applicable only for agencies other than GovTech. </br>Enter the **Sub business unit**.</br>Note: To view the complete list of agency departments and business units, refer to [list of ministries and statutory boards.](https://www.vendors.gov.sg/UsefulReferences/MinStatuaryBoards.aspx) |
 
 9. Click **Next**.

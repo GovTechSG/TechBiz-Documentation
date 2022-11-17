@@ -110,7 +110,7 @@ Prerequisites
 | **Upload documents** | This field is optional. </br>Click **Choose a file** to upload supporting documents. For example, approval email.</br>- Total files uploaded can be up to 10MB. There is a bar to indicate the amount of file size used.</br>- A maximum of 50 files can be attached for each account creation request- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>- File names can contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
 | **Remarks to Approver** | This field is optional.</br></br>Specify the reasons for submitting this request.|
 
-16. Verify if the information displayed on this page is correct and then click **Submit**.
+16. Verify if the information displayed on this page is correct and click **Submit**.
 
 17. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
 
@@ -120,7 +120,7 @@ A confirmation message will be displayed to verify that the account has been sub
 
 When a public officer submits a request to create an account, the **Approver** receives an email and a notification on the TechBiz portal to process the request. **Subscription admins** and **Billing admin** will also be notified.
 
-> **Note:** Only a deputy director or above can approve the account request.
+> **Note:** Only a Deputy director or above can approve the account request.
 
 **To approve or reject a system account creation request**
 
@@ -134,11 +134,11 @@ When a public officer submits a request to create an account, the **Approver** r
 
 <kbd><img src="images/select-acc.png" alt="drawing" width="100%"/></kbd>
 
-5. If required, enter remarks for the requestor.
+5. Enter remarks for the requestor if required.
 
 <kbd><img src="images/approver-remark.png" alt="drawing" width="100%"/></kbd>
 
-6. Acknowledge that you have verified the information provided by the requestor.
+6. Acknowledge that the information provided by the requestor is verified .
 
 <kbd><img src="images/app-tick.png" alt="drawing" width="100%"/></kbd>
 

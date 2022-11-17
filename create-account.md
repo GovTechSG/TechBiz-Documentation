@@ -138,7 +138,7 @@ When a public officer submits a request to create an account, the **Approver** r
 
 <kbd><img src="images/approver-remark.png" alt="drawing" width="100%"/></kbd>
 
-6. Acknowledge that the information provided by the requestor is verified .
+6. Acknowledge that the information provided by the requestor is verified.
 
 <kbd><img src="images/app-tick.png" alt="drawing" width="100%"/></kbd>
 

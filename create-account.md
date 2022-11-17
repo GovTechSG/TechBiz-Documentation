@@ -107,8 +107,7 @@ Prerequisites
 | **Field Name** | **Description** |
 | --- | --- |
 | **Approver name, email, and designation** | Enter the approver's full name, organisation email address, and designation. |
-| **Upload documents** | This field is optional. </br>Click **Choose a file** to upload supporting documents. For example, approval email.
-</br>- Total files uploaded can be up to 10MB.</br>- A maximum of 50 files can be attached for each account creation request- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>- File names can contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
+| **Upload documents** | This field is optional. </br>Click **Choose a file** to upload supporting documents. For example, approval email.</br>- Total files uploaded can be up to 10MB.</br>- A maximum of 50 files can be attached for each account creation request- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>- File names can contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
 | **Remarks to Approver** | This field is optional.</br>Specify the reasons for submitting this request.|
 
 16. Verify if the information displayed on this page is correct and then click **Submit**.

@@ -92,7 +92,7 @@ Prerequisites
 
 | **Field Name** | **Description** |
 | --- | --- |
-| **Select subscription period** | Select the start date of the subscription. </br>This is the date when your agency intends to start using the subscribed SGTS products. </br>Note: While selecting a date, you will not be able to select 3 consecutive working days from the current date and the last 3 business days of the month as we need time for the following: </br>- **Agency approver** to approve system account request</br>- **Technical admin/Subscription admin** to configure the product details. </br>- SGTS Product teams to provision the required resources. |
+| **Select subscription period** | Select the start date of the subscription. </br>This is the date when your agency intends to start using the subscribed SGTS products. </br>Note: While selecting a date, you will not be able to select 3 consecutive working days from the current date and the last 3 working days of the month as we need time for the following: </br>- **Agency approver** to approve system account request</br>- **Technical admin/Subscription admin** to configure the product details. </br>- SGTS Product teams to provision the required resources. |
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 

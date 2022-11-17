@@ -73,7 +73,7 @@ Prerequisites
 | --- | --- |
 | **Email address** | Enter the organisation email address of the **Billing admin**. </br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually. |
-| **Agency department**</br>**Cost center**</br>**Fund center** | Enter your department name.</br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br>Enter the **fund center** details.</br>Note: The above field details are applicable to GovTech accounts only. |
+| **Agency department**</br>M.br<**Cost center**</br></br></br**Fund center** | Enter your department name.</br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br>Enter the **fund center** details.</br>Note: The above field details are applicable to GovTech accounts only. |
 | **SBU code** | Applicable only for agencies other than GovTech. </br>Enter the **Sub business unit**.</br>Note: To view the complete list of agency departments and business units, refer to [list of ministries and statutory boards.](https://www.vendors.gov.sg/UsefulReferences/MinStatuaryBoards.aspx) |
 
 9. Click **Next**.
@@ -92,8 +92,7 @@ Prerequisites
 
 | **Field Name** | **Description** |
 | --- | --- |
-| **Select subscription period** | Select the start date of the subscription.
-This is the date when your agency intends to start using the subscribed SGTS products. </br>Note: While selecting a date, you will not be able to select 3 consecutive working days from the current date and the last 3 business days of the month as we need time for the following: </br>- **Agency approver** to approve system account request</br>- **Technical admin/Subscription admin** to configure the product details. </br>- SGTS Product teams to provision the required resources. |
+| **Select subscription period** | Select the start date of the subscription. </br>This is the date when your agency intends to start using the subscribed SGTS products. </br>Note: While selecting a date, you will not be able to select 3 consecutive working days from the current date and the last 3 business days of the month as we need time for the following: </br>- **Agency approver** to approve system account request</br>- **Technical admin/Subscription admin** to configure the product details. </br>- SGTS Product teams to provision the required resources. |
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 

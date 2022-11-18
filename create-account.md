@@ -121,7 +121,7 @@ A confirmation message will be displayed to verify that the account has been sub
 
 ## Manage account
 
-Primary subscription administrator can edit draft account and send approval reminder on TechBiz portal.
+Primary subscription administrator can edit draft account details and send approval reminder on TechBiz portal.
 
 **To edit draft account** 
 

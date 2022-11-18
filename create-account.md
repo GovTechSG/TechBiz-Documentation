@@ -144,7 +144,7 @@ The administrator can continue with the [create account](/create-account.md) pro
 
 4. Click **select reminder for approval**.
 
-<kbd><img src="images/approval-reminder-copy.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/approval-reminder-2.png" alt="drawing" width="100%"/></kbd>
 
 The approver will receive a reminder email to approve the account.
 

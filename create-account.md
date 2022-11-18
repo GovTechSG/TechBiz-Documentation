@@ -31,7 +31,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 2. Click **Create account**.
 
-3. Ensure the above information is ready and click **Next**.
+3. Ensure the above information in prerequisites is ready and click **Next**.
 
 4. To download the agreement, click **Download the SGTS agreement** link.
 
@@ -47,6 +47,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 > - All fields are mandatory, unless mentioned otherwise.
 > - At any point, before submitting the account creation request, click Save Draft to save the specified account details as a draft.
 > - You can access the saved draft within 14 days to continue with the account creation request.
+> - Refer to [Manage account](#manage-account) for more information on accessing drafts.
 
 | **Field Name** | **Description** |
 | --- | --- |
@@ -90,7 +91,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 > **Note:** You cannot select 3 consecutive working days from the current date and 3 working days before the end of the month. For more information, refer to the field description table.
 
-14. In **Select a plan** , provide the subscription plan details.
+14. In **Select a plan**, provide the subscription plan details.
 
 | **Field Name** | **Description** |
 | --- | --- |
@@ -98,7 +99,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 
-15. If you are subscribing to more than one SGTS product, repeat **steps 11-13** and click **Next**.
+15. If you are subscribing to more than one SGTS product, repeat **steps 12-14** and click **Next**.
 
 16. In **Approver details**, enter the required information and click **Next**.
 
@@ -118,7 +119,11 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 A confirmation message will be displayed to verify that the account has been submitted for approval.
 
-**To edit draft account**
+## Manage account
+
+Primary subscription administrator can edit draft account and send approval reminder on TechBiz portal.
+
+**To edit draft account** 
 
 1. In **Overview**, click **Manage accounts**.
 

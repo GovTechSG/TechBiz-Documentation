@@ -39,7 +39,7 @@ The primary and secondary subscription administrator can manually trigger an app
 
 1. In **Overview**, click **Manage accounts**.
 
-2. Select **Pending** from the **Status** drop-down to view all the draft accounts.
+2. Select **Pending** from the **Status** drop-down to view all the pending accounts.
 
 3. Select the required account.
 

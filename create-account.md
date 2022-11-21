@@ -166,3 +166,5 @@ The primary and secondary subscription administrator can manually trigger an app
 <kbd><img src="images/approval-reminder-2.png" alt="drawing" width="100%"/></kbd>
 
 The approver will receive a reminder email to approve the account.
+
+  

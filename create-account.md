@@ -124,11 +124,11 @@ To manually trigger an approval reminder, click (send a reminder for account app
 
 # Manage account
 
-Primary subscription administrator can edit a draft and submit the draft. Both primary and secondary subscription administrators can manually trigger an approval reminder on TechBiz portal.
+Primary subscription administrator can continue or edit a draft and submit the draft. Both primary and secondary subscription administrators can manually trigger an approval reminder on TechBiz portal.
 
 ## Edit a draft
 
-The primary subscription administrator can edit an account draft.
+The primary subscription administrator can continue or edit an account draft.
 
 1. In **Overview**, click **Manage accounts**.
 

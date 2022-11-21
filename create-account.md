@@ -119,7 +119,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 A confirmation message is displayed to verify that the account has been submitted for approval.
 
-To manually trigger an approval reminder, click [send a reminder](#send-a-reminder-for-account-approval)
+To manually trigger an approval reminder, click [send a reminder](#send-a-reminder-for-account-approvalsend-a-reminder-for-account-approval)
  for account approval.
 
 # Manage account
@@ -132,7 +132,7 @@ The primary subscription administrator can continue or edit an account draft.
 
 1. In **Overview**, click **Manage accounts**.
 
-2.  Pick **draft** in the status dropdown list and select the account.
+2. Pick **draft** in the status dropdown list and select the account.
 
 3. The primary subscription administrator can continue with the [account creation](/create-account.md).
 
@@ -159,7 +159,7 @@ The primary and secondary subscription administrator can manually trigger an app
 
 1. In **Overview**, click **Manage accounts**.
 
-2.  Pick **pending** in the status dropdown list and select the account.
+2. Pick **pending** in the status dropdown list and select the account.
 
 3. Click **select reminder for approval**.
 

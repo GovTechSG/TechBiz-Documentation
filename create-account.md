@@ -117,7 +117,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 18. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
 
-A confirmation message will be displayed to verify that the account has been submitted for approval.
+A confirmation message is displayed to verify that the account has been submitted for approval.
 
 ## Manage account
 

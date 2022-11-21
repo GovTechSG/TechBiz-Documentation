@@ -161,7 +161,7 @@ The primary and secondary subscription administrator can manually trigger an app
 
 2.  Pick **pending** in the status dropdown list and select the account.
 
-4. Click **select reminder for approval**.
+3. Click **select reminder for approval**.
 
 <kbd><img src="images/approval-reminder-2.png" alt="drawing" width="100%"/></kbd>
 

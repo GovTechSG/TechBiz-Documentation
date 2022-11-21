@@ -18,7 +18,7 @@ You can access the saved draft within 14 days from the date of account creation 
 
 ## Submit draft
 
-The primary subscription administrator can submit the completed draft.
+The primary subscription administrator can submit the draft upon completion.
 
 1. In **Overview**, click **Manage accounts**.
 

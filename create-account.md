@@ -46,8 +46,8 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 > **Notes:**
 > - All fields are mandatory, unless mentioned otherwise.
 > - At any point, before submitting the account creation request, click Save Draft to save the specified account details as a draft.
-> - You can access the saved draft within 14 days to continue with the account creation request.
-> - Refer to [Manage account](#manage-account) for more information on accessing drafts.
+> - You can (access the saved draft)[#manage-account] within 14 days to continue with the account creation request.
+
 
 | **Field Name** | **Description** |
 | --- | --- |
@@ -119,60 +119,50 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 A confirmation message is displayed to verify that the account has been submitted for approval.
 
-## Manage account
-
-Primary subscription administrator can edit draft account details and send approval reminder on TechBiz portal.
-
-**To edit draft account** 
-
-1. In **Overview**, click **Manage accounts**.
-
-2. Enter **account name** in **search bar** and select **draft** in **Status**.
-
-3. Select the account.
-
-The administrator can continue with the [create account](/create-account.md) procedure.
+To manually trigger an approval reminder, click (send a reminder for account approval)[#send-a-reminder-for-account-approval]
 
 
-**To send reminder for account approval**
+# Manage account
+
+Primary subscription administrator can edit a draft and submit the draft. Both primary and secondary subscription administrators can manually trigger an approval reminder on TechBiz portal.
+
+## Edit a draft
+
+The primary subscription administrator can edit an account draft.
 
 1. In **Overview**, click **Manage accounts**.
 
-2. Enter **account name** in **search bar** and select **pending** in **Status**.
+2.  Pick **draft** in the status dropdown list and select the account.
 
-3. Select the account.
+3. The primary subscription administrator can continue with the [account creation](/create-account.md).
+
+You can access the saved draft within 14 days from the date of account creation to continue with the request.
+
+## Submit a draft
+
+The primary subscription administrator can submit the completed draft.
+
+1. In **Overview**, click **Manage accounts**.
+
+2. Pick **draft** in the status dropdown list and select the account.
+
+3. Complete the remaining steps.
+
+4. Click **Submit**.
+
+A confirmation message is displayed to verify that the account has been submitted for approval.
+
+
+## Send a reminder for account approval
+
+The primary and secondary subscription administrator can manually trigger an approval reminder.
+
+1. In **Overview**, click **Manage accounts**.
+
+2.  Pick **pending** in the status dropdown list and select the account.
 
 4. Click **select reminder for approval**.
 
 <kbd><img src="images/approval-reminder-2.png" alt="drawing" width="100%"/></kbd>
 
 The approver will receive a reminder email to approve the account.
-
-
-## Account approval
-
-When a public officer submits a request to create an account, the **Approver** receives an email and a notification on the TechBiz portal to process the request. **Subscription admins** and **Billing admin** will also be notified.
-
-> **Note:** Only a Deputy director or above can approve the account request.
-
-**To approve or reject an account creation request**
-
-1. Review the attachments in the email notification or in the TechBiz portal.
-
-2. Click the link provided in the email.
-
-3. [Log in to TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal) using your non-SE GSIB.
-
-> **Note**: **Approver** can access TechBiz portal using [TechPass](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal?id=log-in-with-techpass) or [TechPass OTP](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal?id=log-in-with-techpass-otp).
- 
-4. Select the account to be approved.
-
-5. Enter remarks for the requestor if required.
-
-6. Acknowledge that the information provided by the requestor is verified.
-
-7. Click **Approve** or **Reject**.
-
-<kbd><img src="images/approve-reject.png" alt="drawing" width="100%"/></kbd>
-
-The requestor will receive the outcome of the approval request through email. **Subscription** and **Billing admins** will also be notified. The account will be listed on the **Accounts** page with an **approved** status when the request is approved.

@@ -18,5 +18,4 @@
   
 **Resources**
   - [Glossary](glossary.md)
-  -hi
 

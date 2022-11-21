@@ -122,49 +122,4 @@ A confirmation message is displayed to verify that the account has been submitte
 To manually trigger an approval reminder, click [send a reminder](#send-a-reminder-for-account-approvalsend-a-reminder-for-account-approval)
  for account approval.
 
-# Manage account
-
-Primary subscription administrator can continue or edit a draft and submit the draft. Both primary and secondary subscription administrators can manually trigger an approval reminder on TechBiz portal.
-
-## Edit a draft
-
-The primary subscription administrator can continue or edit an account draft.
-
-1. In **Overview**, click **Manage accounts**.
-
-2. Pick **draft** in the status dropdown list and select the account.
-
-3. The primary subscription administrator can continue with the [account creation](/create-account.md).
-
-You can access the saved draft within 14 days from the date of account creation to continue with the request.
-
-## Submit a draft
-
-The primary subscription administrator can submit the completed draft.
-
-1. In **Overview**, click **Manage accounts**.
-
-2. Pick **draft** in the status dropdown list and select the account.
-
-3. Complete the remaining steps.
-
-4. Click **Submit**.
-
-A confirmation message is displayed to verify that the account has been submitted for approval.
-
-
-## Send a reminder for account approval
-
-The primary and secondary subscription administrator can manually trigger an approval reminder.
-
-1. In **Overview**, click **Manage accounts**.
-
-2. Pick **pending** in the status dropdown list and select the account.
-
-3. Click **select reminder for approval**.
-
-<kbd><img src="images/approval-reminder-2.png" alt="drawing" width="100%"/></kbd>
-
-The approver will receive a reminder email to approve the account.
-
   

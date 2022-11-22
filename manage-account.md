@@ -12,7 +12,7 @@ The primary subscription administrator can continue editing a draft account at a
 
 1. In **Overview**, click **Manage accounts**.
 
-2. Select **Draft** from the **Status** drop-down to view all the draft accounts.
+2. Select **Draft** from the **Status** dropdown list to view all the draft accounts.
 
 3. Select the required account to edit the details.
 
@@ -26,7 +26,7 @@ The primary subscription administrator can submit the draft upon completion.
 
 1. In **Overview**, click **Manage accounts**.
 
-2. Select **Draft** from the **Status** drop-down to view all the draft accounts.
+2. Select **Draft** from the **Status** dropdown list to view all the draft accounts.
 
 3. Select the required account to edit the details.
 
@@ -43,7 +43,7 @@ The primary and secondary subscription administrator can manually trigger an app
 
 1. In **Overview**, click **Manage accounts**.
 
-2. Select **Pending** from the **Status** drop-down to view all the pending accounts.
+2. Select **Pending** from the **Status** dropdown list to view all the pending accounts.
 
 3. Select the required account.
 

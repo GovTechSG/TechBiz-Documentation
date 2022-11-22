@@ -1,8 +1,12 @@
 # Manage account
 
-This section guides how subscription administrators can edit and manage account details on TechBiz.
+This section guides how subscription administrators can edit and manage account details on TechBiz. 
 
-## Edit draft
+## Manage draft
+
+Primary subscription administrator can continue or edit a draft and submit the draft. Both primary and secondary subscription administrators can manually trigger an approval reminder on TechBiz portal.
+
+### Edit draft
 
 The primary subscription administrator can continue editing a draft account at any point after saving the draft.
 
@@ -16,7 +20,7 @@ The primary subscription administrator can continue editing a draft account at a
 
 You can access the saved draft within 14 days from the date of account creation to continue with the request.
 
-## Submit draft
+### Submit draft
 
 The primary subscription administrator can submit the draft upon completion.
 

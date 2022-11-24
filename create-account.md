@@ -66,10 +66,10 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 | --- | --- |
 | **Primary subscription admin** | This section allows you to enter the details of the **Primary subscription admin**. The requestor is assigned as the **Primary subscription admin** by default.</br></br>Note: **Primary subscription admin** cannot be the **Secondary subscription admin** or vice-versa. |
 | &nbsp; **Email address** | The organisation email address of the requestor is automatically displayed and cannot be edited. |
-| &nbsp; **First name, Last name, &nbsp; &nbsp; and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of first and last names, and the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
+| &nbsp; **First name, Last name, &nbsp; &nbsp; &nbsp; and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of first and last names, and the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
 | **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin**. |
 | &nbsp; **Email address** | Enter the organisation email address of the **Secondary subscription admin**.|
- &nbsp; **First name, Last name,&nbsp; &nbsp; and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter details manually. |
+ &nbsp; **First name, Last name, &nbsp; &nbsp; &nbsp; and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter details manually. |
 
 9. Enter the **Billing details**.
 

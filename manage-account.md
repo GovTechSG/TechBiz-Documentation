@@ -2,6 +2,54 @@
 
 This section guides how subscription administrators can edit and manage account details on TechBiz. 
 
+## Edit account details
+
+The **subscription administrator** has to complete the following steps:
+
+1. In **Overview,** click **Manage accounts**.
+
+2. Select **Approved** from the **Status** dropdown list to view all the **approved** accounts.
+
+3. Select the required account.
+
+4. Click **Account details**.
+
+5. Click **Edit**.
+
+6. Modify the required details and click **Submit**.
+
+> **Note**: If an administrator is removed, it will revoke their access to the account.
+
+7. Click **View and download summary** to download the information in .pdf extension.
+
+> **Note**: Refer to **Create account** for the required details.
+
+## View approver details
+
+1. In **Overview,** click **Manage accounts**.
+
+2. Select **Approved** from the **Status** dropdown list to view all the **approved** accounts.
+
+3. Select the required account.
+
+4. Click **Approved by**.
+
+5. The following details is displayed:
+
+<kbd><img src="images/app-by.png" alt="drawing" width="100%"/></kbd>
+
+## View attachments submitted for account approval and subscription
+
+1. In **Overview,** click **Manage accounts**.
+2. Select **Approved** from the **Status** dropdown list to view all the **approved** accounts.
+3. Select the required account.
+4. Click **Attachments**.
+5. The following details is displayed:
+
+<kbd><img src="images/view-att.png" alt="drawing" width="100%"/></kbd>
+
+1. Click the attachments in the item list to download the .pdf file.
+
 ## Manage draft
 
 Primary subscription administrator can continue or edit a draft and submit the draft. Both primary and secondary subscription administrators can manually trigger an approval reminder on TechBiz portal.

@@ -16,7 +16,7 @@
   - [Manage announcements](manage-announcements.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
   - [Notifications](notifications.md)
-  
+  - [FAQs](faq.md)
 **Resources**
   - [Glossary](glossary.md)
 

@@ -7,9 +7,8 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 
 > **Note**: Agencies can opt for one account with multiple systems or multiple accounts for each system. Refer to [FAQs](faq.md) for more information.
 
-## Create account
 
-**Prerequisites**
+## Prerequisites
 
 - Public officers using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device can create an account.
 
@@ -27,7 +26,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
   - Subscription plans for the required SGTS product(s).
   - Supporting documents. (Optional)
 
-**To create a TechBiz account**
+### Create a TechBiz account
 
 1. In **Overview**, click **Manage accounts**.
 

@@ -71,13 +71,14 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 | **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin**. |
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email address** | Enter the organisation email address of the **Secondary subscription admin**.|
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First and last name** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of first and last names. </br></br>If not, the requestor needs to enter them manually. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: The details are masked except for the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact number** | The contact number will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: The details are masked except for the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
 9. Enter the **Billing details**.
 
 | **Field Name** | **Description** |
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin**. </br></br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
-| **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually. |
+| **First and last name** | TThese details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. Note: These details are masked except for the first and last character of first and last names. </br></br> |
+| **Contact number** | The contact number will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. Note: The details are masked except for the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
 | **Agency department**</br></br>**Cost center**</br></br></br>**Fund center** | Enter your department name.</br></br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br>Enter the **fund center** details.</br></br>Note: The above field details are applicable to GovTech accounts only. |
 | **SBU code** | Applicable only for agencies other than GovTech. </br>Enter the **Sub business unit**.</br></br>Note: To view the complete list of agency departments and business units, refer to [list of ministries and statutory boards.](https://www.vendors.gov.sg/UsefulReferences/MinStatuaryBoards.aspx) |
 

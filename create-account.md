@@ -47,7 +47,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 > **Notes:**
 > - All fields are mandatory, unless mentioned otherwise.
 > - At any point, before submitting the account creation request, click Save Draft to save the specified account details as a draft.
-> - You can access the [saved draft](#manage-account) within 14 days to continue with the account creation request.
+> - You can access the saved draft within 14 days to continue with the account creation request.
 
 
 | **Field Name** | **Description** |
@@ -119,8 +119,3 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 18. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
 
 A confirmation message is displayed to verify that the account has been submitted for approval.
-
-To manually trigger an approval reminder, click [send a reminder](#send-a-reminder-for-account-approvalsend-a-reminder-for-account-approval)
- for account approval.
-
-  

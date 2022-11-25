@@ -74,7 +74,10 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First name** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of the first name. </br></br>If not, the requestor needs to enter them manually. |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Last name** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of the last name. </br></br>If not, the requestor needs to enter them manually. |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact number** | The contact number will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: The details are masked except for the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
+
+
 9. Enter the **Billing details**.
+
 
 | **Field Name** | **Description** |
 | :------------------------------------------ |:-------------|

@@ -4,7 +4,7 @@ When a public officer submits a request to create an account, the **Approver** r
 
 > **Note:** Only a Deputy director or above can approve the account request.
 
-## To approve or reject an account creation request
+## Approve or reject an account creation request
 
 1. Review the attachments in the email notification or in the TechBiz portal.
 

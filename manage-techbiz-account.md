@@ -4,11 +4,11 @@
 
 This section guides how subscription admins can edit and manage approved TechBiz account(s).
 
-- Change subscription and billing admins
-- View subscription details
-- Edit subscription details
-- Subscribe to other SGTS products
-- Cancel subscription
+- [Change subscription and billing admins](#change-subscription-and-billing-information)
+- [View subscription details](#view-subscription-details)
+- [Edit subscription details](#view-subscription-details)
+- [Subscribe to other SGTS products](#subscribe-to-other-sgts-products)
+- [Cancel subscription](#cancel-subscription)
 
 ## Audience
 
@@ -41,7 +41,7 @@ Note: The Billing admin of a TechBiz account can view the account and subscripti
 
 > **Note:**
 > - As the admins are public officers, their TechPass ID is the same as their organisational email address.
-> - To edit other details of a subscription or billing admin, the respective administrators must update their TechPass profile from the [TechPass portal](https://portal.techpass.suite.gov.sg). For more information, see [[**TechPass user guide**](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/edit-profile).
+> - To edit other details of a subscription or billing admin, the respective administrators must update their TechPass profile from the [TechPass portal](https://portal.techpass.suite.gov.sg). For more information, see [**TechPass user guide**](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/edit-profile).
 
 7. To change the SBU code, go to the **Billing information** section, and enter the new SBU code.
 8. Click **Submit**.

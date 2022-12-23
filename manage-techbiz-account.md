@@ -5,10 +5,6 @@
 This section guides how subscription admins can edit and manage approved TechBiz account(s).
 
 - [Change subscription and billing admins](#change-subscription-and-billing-information)
-- [View subscription details](#view-subscription-details)
-- [Edit subscription details](#view-subscription-details)
-- [Subscribe to other SGTS products](#subscribe-to-other-sgts-products)
-- [Cancel subscription](#cancel-subscription)
 
 ## Audience
 
@@ -47,6 +43,28 @@ Note: The Billing admin of a TechBiz account can view the account and subscripti
 8. Click **Submit**.
 
 A confirmation message is displayed.
+
+# Manage subscriptions
+
+This section guides how subscription admins can do the following for an existing subscription:
+
+- [View subscription details](#view-subscription-details)
+- [Edit subscription details](#view-subscription-details)
+- [Subscribe to other SGTS products](#subscribe-to-other-sgts-products)
+- [Cancel subscription](#cancel-subscription)
+
+## Audience
+
+- Primary and secondary subscription admins of a TechBiz account.
+- Billing admin of a TechBiz account.
+
+Note: The Billing admin of a TechBiz account can view the account and subscription details but can't edit the details.
+
+## Prerequisites
+
+- You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device.
+- You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
+- An approved [**TechBiz account**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account).
 
 ## View subscription details
 

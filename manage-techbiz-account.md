@@ -73,7 +73,7 @@ The **Plan details** are displayed.
 
 ## Edit subscription details
 
-**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS products to the existing subscriptions](#subscribe-to-other-sgts-products)
+**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS products to the existing subscriptions](#subscribe-to-other-sgts-products).
 
 **To edit subscription details of a TechBiz account**
 

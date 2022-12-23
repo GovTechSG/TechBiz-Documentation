@@ -26,7 +26,7 @@ An account allows agencies to subscribe to SGTS products, add systems to the acc
   - Subscription plans for the required SGTS product(s).
   - Supporting documents. (Optional)
 
-### Create a TechBiz account
+## Create a TechBiz account
 
 1. In **Overview**, click **Manage accounts**.
 

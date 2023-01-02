@@ -5,6 +5,7 @@
 This section guides how subscription admins can edit and manage approved TechBiz account(s).
 
 - [Change subscription and billing admins](#change-subscription-and-billing-information)
+- [Manage subscriptions](#manage-subscriptions)
 
 ## Audience
 

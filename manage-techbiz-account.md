@@ -128,7 +128,7 @@ Subscription admins can subscribe to other SGTS products using TechBiz portal.
 
 5. Select the required SGTS products and click **Next**.
 
-For more information, Go to [**Create Account**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account) and follow from step 11 onwards to complete the subscription.
+For more information, go to [**Create Account**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account) and follow from step 11 onwards to complete the subscription.
 
 ## Cancel subscription
 

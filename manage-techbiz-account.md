@@ -12,7 +12,7 @@ This section guides how subscription admins can edit and manage approved TechBiz
 - Primary and secondary subscription admins of a TechBiz account.
 - Billing admin of a TechBiz account.
 
-Note: The Billing admin of a TechBiz account can view the account and subscription details but can't edit the details.
+> **Note:** The Billing admin of a TechBiz account can view the account and subscription details but can't edit the details.
 
 ## Prerequisites
 
@@ -59,7 +59,7 @@ This section guides how subscription admins can do the following for an existing
 - Primary and secondary subscription admins of a TechBiz account.
 - Billing admin of a TechBiz account.
 
-Note: The Billing admin of a TechBiz account can view the account and subscription details but can't edit the details.
+> **Note:** The Billing admin of a TechBiz account can view the account and subscription details but can't edit the details.
 
 ## Prerequisites
 

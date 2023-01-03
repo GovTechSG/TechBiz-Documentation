@@ -16,7 +16,7 @@ Following roles and permissions are available for agencies to administer their s
 - View system subscription details
 - View billing details
 
-?> **Note:** **Primary subscription admin** can’t be the same as **Secondary subscription admin** or vice-versa.
+> **Note:** **Primary subscription admin** can’t be the same as **Secondary subscription admin** or vice-versa.
 
 ## Technical admin permissions
 

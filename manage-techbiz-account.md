@@ -4,7 +4,7 @@
 
 This section guides how subscription admins can edit and manage approved TechBiz account(s).
 
-- [Change subscription and billing admins](#change-subscription-and-billing-information)
+- [Change subscription admins and billing admins](#change-subscription-admins-and-billing-information)
 
 ## Audience
 
@@ -19,7 +19,7 @@ This section guides how subscription admins can edit and manage approved TechBiz
 - You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
 - An approved [**TechBiz account**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account).
 
-## Change subscription and billing information
+## Change subscription admins and billing information
 
 **Subscription admins** can remove and add a new subscription admin or update the billing information.
 

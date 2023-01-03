@@ -50,7 +50,7 @@ A confirmation message is displayed.
 This section guides how subscription admins can do the following for an existing subscription:
 
 - [View subscription details](#view-subscription-details)
-- [Edit subscription details](#view-subscription-details)
+- [Edit subscription details](#edit-subscription-details)
 - [Subscribe to other SGTS products](#subscribe-to-other-sgts-products)
 - [Cancel subscription](#cancel-subscription)
 

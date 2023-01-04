@@ -26,7 +26,7 @@ A TechBiz account allows agencies to subscribe to SGTS products, add systems to 
   - Subscription plans for the required SGTS product(s).
   - Supporting documents. (Optional)
 
-### Create a TechBiz account
+## Create TechBiz account
 
 1. In **Overview**, click **Manage accounts**.
 

@@ -14,6 +14,6 @@ The [TechBiz portal](https://portal.techbiz.suite.gov.sg) is a web-based console
 
 -   [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
 
--   [Create system account](create-system.md)
+-   [TechBiz account](create-techbiz-account.md)
 
 -   [Invite users](invite-users.md)

@@ -3,7 +3,7 @@
 
 This section guides how Primary subscription admin can manually trigger an approval reminder when the account is pending approval.
 
-- Send reminder for account approval
+- [Send reminder for account approval](#send-reminder-for-account-approval)
 
 ## Audience
 

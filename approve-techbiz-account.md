@@ -1,4 +1,4 @@
-# Account approval
+# Approve TechBiz account
 
 When a public officer submits a request to create an account, the **Approver** receives an email and a notification on the TechBiz portal to process the request. **Subscription admins** and **Billing admin** will also be notified.
 

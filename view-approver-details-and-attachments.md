@@ -2,7 +2,7 @@
 
 This section guides how subscription admins can view approver details and submitted attachments when required.
 
-- View approver details and submitted attachments
+- [View approver details and submitted attachments](#view-approver-details-and-attachments)
 
 ## Audience
 

@@ -3,7 +3,7 @@
 This section guides how Primary subscription admin can resubmit the account application when the account is rejected.
 
 
-- Resubmit TechBiz account application
+- [Resubmit TechBiz account application](#resubmit-techbiz-account-application)
 
 ## Audience
 

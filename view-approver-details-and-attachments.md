@@ -1,4 +1,4 @@
-# View approver details and attachments**
+# View approver details and attachments
 
 This section guides how subscription admins can view approver details and submitted attachments when required.
 

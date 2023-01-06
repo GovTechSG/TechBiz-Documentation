@@ -10,7 +10,6 @@
   - [Manage TechBiz account](manage-techbiz-account.md)
     - [Manage subscriptions](manage-subscriptions.md)
   - [Invite users](invite-users.md)
-  - [Account approval](account-approval.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
   - [Notifications](notifications.md)
   - [FAQs](faq.md)

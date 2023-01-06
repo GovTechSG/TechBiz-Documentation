@@ -27,7 +27,7 @@ Subscription admins can create a TechBiz system using a TechBiz account.
 1. From the sidebar, click **Accounts.**
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
-4. Click **SYSTEMS** tab \> **Create** system.
+4. Click **SYSTEMS** tab \> **Create system**.
 
 <kbd><img src="images/create-sys.png" alt="drawing" width="100%"/></kbd>
 
@@ -43,7 +43,7 @@ Subscription admins can create a TechBiz system using a TechBiz account.
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes** , **I have a DGP ID** or **No, I do not have a DGP ID**. </br> </br> Note: Refer to [FAQ](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/faq) for more information. |
 | **Sub-system ID and description** | The sub-system DGP ID and description will be available if **Yes, I have a DGP ID** is selected. Select your DGP System ID. The System description will automatically appear. </br></br>Note: If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it when it is available. |
 
-6. Enter the **technical**** admin** details.
+6. Enter the **technical admin** details.
 
 | **Field Name** | **Description** |
 | --- | --- |

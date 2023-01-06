@@ -7,12 +7,15 @@
     [Send reminder for account approval](send-reminder-for-account-approval.md)
     - [Resubmit TechBiz account application](resubmit-techbiz-account-application.md)
     - [View approver details and attachments](view-approver-details-and-attachments.md)
+    - [Notifications](notifications.md)
+    - [Admin roles and permissions](admin-roles-and-permissions.md)
+    - [FAQs](faq.md)
   - [Manage TechBiz account](manage-techbiz-account.md)
     - [Manage subscriptions](manage-subscriptions.md)
   - [Invite users](invite-users.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
-  - [Notifications](notifications.md)
   - [FAQs](faq.md)
+  - [TechBiz system](techbiz-system.md)
 **Resources**
   - [Glossary](glossary.md)
 

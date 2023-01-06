@@ -27,7 +27,7 @@ The following details are displayed.
 
 > **Note:** Click **View and download summary to** download the details in .pdf file.
 
-1. Click **ATTACHMENTS** tab to view the submitted attachments.
+5. Click **ATTACHMENTS** tab to view the submitted attachments.
 
 The following details are displayed.
 

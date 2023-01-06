@@ -16,7 +16,7 @@ This section guides how subscription admins can do the following:
 
 - You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device.
 - You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
-- An approved[**TechBiz account.**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account)
+- An approved [**TechBiz account.**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account)
 
 ## Create TechBiz system
 

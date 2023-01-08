@@ -1,6 +1,6 @@
 # Manage draft account
 
-This section guides how Primary subscription admin can continue with the draft and submit the complete draft.
+This section guides how Primary subscription admin can continue with the draft and submit the completed draft.
 
 - [Edit draft](#edit-draft)
 - [Submit completed draft](#submit-completed-draft)

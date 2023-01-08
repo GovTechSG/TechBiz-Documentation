@@ -17,7 +17,7 @@ This section guides how subscription admins can view approver details and submit
 **To view approver details and submitted attachments**
 
 1. From the sidebar, click **Accounts**.
-2. Select the required **status from Status** dropdown list to view all the accounts in the required status.
+2. Select the required status from **Status** dropdown list to view all the accounts in the required status.
 3. Select the required account.
 4. Click **APPROVED BY** tab to view approver details.
 
@@ -33,4 +33,4 @@ The following details are displayed.
 
 <kbd><img src="images/view-att.png" alt="drawing" width="100%"/></kbd>
 
-6. Click the attachments in the item list to download the .pdf file.
+6. Click the attachments in the item list to download the files.

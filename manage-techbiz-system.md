@@ -7,7 +7,7 @@ This section guides how subscription and technical admins can edit and manage Te
 ## Audience
 
 - Subscription admins of a TechBiz account.
-- Technical admins of a TechBiz system.
+- Technical admins of a TechBiz account.
 
 ## Prerequisites
 

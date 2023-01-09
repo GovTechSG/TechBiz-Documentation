@@ -63,3 +63,39 @@ The system will appear on the **Systems** page with **Pending Configuration** as
 <kbd><img src="images/pending-config.png" alt="drawing" width="100%"/></kbd>
 
 To complete the system configuration, go to **Add and configure subscribed products**.
+
+## Add and configure subscribed products
+
+Agencies need to add the subscribed SGTS products required for the system(s) and configure the products for each TechBiz system.
+
+This section guides how subscription admins and technical admins can do the following:
+
+- Add and configure subscribed products
+
+**To add and configure subscribed products**
+
+1. From the sidebar, click **Accounts**.
+2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
+3. Select the required account.
+4. Go to **SYSTEMS** tab.
+5. Choose the required system and click **Manage**.
+6. Go to **PRODUCTS** tab \> **Add Products**.
+
+> **Note:** Each SGTS product will have different requirements for product configuration. **Tip**: Click the triangle to view product configuration instructions for the required SGTS products.
+
+<details>
+  <summary style="font-size:20px;font-weight:bold">SHIP-HATS</summary>
+
+7. Click **SHIP-HATS**.
+8. Click **Next**.
+
+<kbd><img src="images/add-prod-next.png" alt="drawing" width="100%"/></kbd>
+
+9. Click **Submit**.
+
+<kbd><img src="images/add-prod-submit.png" alt="drawing" width="100%"/></kbd>
+
+A confirmation message is displayed.
+
+
+  </details>

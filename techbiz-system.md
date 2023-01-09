@@ -81,7 +81,7 @@ Agencies need to add the subscribed SGTS products required for the system(s) and
 5. Choose the required system and click **Manage**.
 6. Go to **PRODUCTS** tab \> **Add Products**.
 
-> **Note:** Each SGTS product will have different requirements for product configuration. **Tip**: Click the triangle to view product configuration instructions for the required SGTS products.
+> **Note:** Each SGTS product will have different requirements for product configuration. Click the triangle to view product configuration instructions for the required SGTS products.
 
 <details>
   <summary style="font-size:20px;font-weight:bold">SHIP-HATS</summary>

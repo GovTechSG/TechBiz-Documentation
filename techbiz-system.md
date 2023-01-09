@@ -7,10 +7,14 @@ Agencies need to add and configure TechBiz systems to manage the subscribed SGTS
 This section guides how subscription admins can do the following:
 
 - Create TechBiz system
+- Add and configure subscribed products
 
 ## Audience
 
 - Primary and secondary subscription admins of a TechBiz account.
+- Technical admins of a TechBiz account
+
+> **Note:** The Technical admin of a TechBiz account can add and configure subscribed SGTS products but can't create a new system.
 
 ## Prerequisites
 
@@ -67,10 +71,6 @@ To complete the system configuration, go to **Add and configure subscribed produ
 ## Add and configure subscribed products
 
 Agencies need to add the subscribed SGTS products required for the system(s) and configure the products for each TechBiz system.
-
-This section guides how subscription admins and technical admins can do the following:
-
-- Add and configure subscribed products
 
 **To add and configure subscribed products**
 

@@ -95,7 +95,5 @@ Agencies need to add the subscribed SGTS products required for the system(s) and
 
 <kbd><img src="images/add-prod-submit.png" alt="drawing" width="100%"/></kbd>
 
-A confirmation message is displayed.
-
-
+Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/access-ship-hats-portal) for a guide to SHIP-HATS portal.
   </details>

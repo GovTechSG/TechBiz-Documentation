@@ -1,5 +1,5 @@
 **Getting Started**
-  - [Overview](techbiz-overview.md)
+  - [Overview](techBiz-overview.md)
   - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
   - [TechBiz account](techbiz-account.md)
   - [Manage TechBiz account](manage-techbiz-account.md)

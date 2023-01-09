@@ -6,8 +6,8 @@ Agencies need to add and configure TechBiz systems to manage the subscribed SGTS
 
 This section guides how subscription admins can do the following:
 
-- Create TechBiz system
-- Add and configure subscribed products
+- [Create TechBiz system](#create-techbiz-system)
+- [Add and configure subscribed products](#add-and-configure-subscribed-products)
 
 ## Audience
 

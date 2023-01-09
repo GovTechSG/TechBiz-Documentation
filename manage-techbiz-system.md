@@ -3,7 +3,6 @@
 This section guides how subscription and technical admins can edit and manage TechBiz system(s).
 
 - Edit system
-- Add and configure subscribed products
 
 ## Audience
 

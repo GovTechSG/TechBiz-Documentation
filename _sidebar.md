@@ -12,6 +12,7 @@
     - [Manage subscriptions](manage-subscriptions.md)
   - [TechBiz system](techbiz-system.md)
   - [Invite users](invite-users.md)
+   - [Manage system](manage-techbiz-system.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
   - [FAQs](faq.md)
 **Resources**

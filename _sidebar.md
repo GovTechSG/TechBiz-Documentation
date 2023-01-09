@@ -1,6 +1,7 @@
 **Getting Started**
   - [Overview](techbiz-overview.md)
   - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
+  - [Invite users](invite-users.md)
   - [TechBiz account](techbiz-account.md)
     - [Manage draft account](manage-draft-account.md)
     - [Approve TechBiz account](approve-techbiz-account.md)
@@ -8,14 +9,11 @@
     - [Resubmit TechBiz account application](resubmit-techbiz-account-application.md)
     - [View approver details and attachments](view-approver-details-and-attachments.md)
     - [Notifications](notifications.md)
-    - [Admin roles and permissions](admin-roles-and-permissions.md)
-    - [FAQs](faq.md)
   - [Manage TechBiz account](manage-techbiz-account.md)
     - [Manage subscriptions](manage-subscriptions.md)
-  - [Invite users](invite-users.md)
+  - [TechBiz system](techbiz-system.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
   - [FAQs](faq.md)
-  - [TechBiz system](techbiz-system.md)
 **Resources**
   - [Glossary](glossary.md)
 

@@ -27,7 +27,7 @@ The primary subscription admin can continue editing a draft account after saving
 4. Continue with the [account creation.](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account)
 5. Click **Save draft** to save. 
 
-<kbd><img src="images/save-draft.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/save-d.png" alt="drawing" width="100%"/></kbd>
 
 > **Note:** You can access the saved draft within 14 days from the date of account creation to continue with the request. The draft will be automatically deleted after 14 days.
 

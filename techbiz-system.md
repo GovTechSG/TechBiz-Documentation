@@ -12,7 +12,7 @@ This section guides how subscription admins can do the following:
 ## Audience
 
 - Primary and secondary subscription admins of a TechBiz account.
-- Technical admins of a TechBiz account
+- Technical admins of a TechBiz account.
 
 > **Note:** The Technical admin of a TechBiz account can add and configure subscribed SGTS products but can't create a new system.
 

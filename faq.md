@@ -18,7 +18,7 @@ All agencies are required to onboard DGP as part of the efforts to strength ICT&
 <details>
 <summary style="font-size:20px;font-weight:bold">Can I use SGTS products if I have not provided the DGP ID?   </summary>
 
-Yes. However, you must register the system in DGP and provide the DGP ID on the TechBiz portal. If you have not provided the DGP ID, TechBiz sends automated reminder emails to the subscription admin to provide the DGP ID. 
+Yes. However, you must register the system in DGP and provide the DGP ID on the TechBiz portal. 
 
 </details>
      <hr />

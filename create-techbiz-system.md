@@ -1,6 +1,16 @@
 # Create TechBiz system
 
-Subscription admins can create a TechBiz system using a TechBiz account.
+This sections guides how subscription admins can create a TechBiz system using a TechBiz account.
+
+## Audience
+
+- Subscription admins of a TechBiz account.
+
+## Prerequisites
+
+- You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device.
+- You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
+- An approved **TechBiz account**.
 
 **To create TechBiz system**
 

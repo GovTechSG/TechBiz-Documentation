@@ -4,7 +4,7 @@ This section guides how Public officers can create a TechBiz account.
 
 - [Create TechBiz account](#create-techbiz-account)
 
-## Audience
+## Audience 
 
 - Public officers with a valid organisation email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
 

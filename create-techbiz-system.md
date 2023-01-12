@@ -1,6 +1,10 @@
 # Create TechBiz system
 
-Subscription admins can create a TechBiz system using a TechBiz account.
+This sections guides how subscription admins can create a TechBiz system using a TechBiz account.
+
+## Audience
+
+- Subscription admins of a TechBiz account.
 
 **To create TechBiz system**
 

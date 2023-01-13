@@ -4,4 +4,4 @@ The [TechBiz portal](https://portal.techbiz.suite.gov.sg)  is a one-stop service
 
 ## Prerequisites
 
-- Public officers with a valid organisation email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.

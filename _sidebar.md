@@ -2,7 +2,7 @@
   - [Overview](techBiz-overview.md)
   - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
   - [TechBiz account](techbiz-account.md)
-  - [Request for TechBiz account](request-techbiz-account.md)
+  - [Request for TechBiz account](request-for-techbiz-account.md)
     - [Manage draft request](manage-draft-request.md)
     - [Send reminder for account approval](send-reminder-for-account-approval.md)
   - [Approve or Reject TechBiz account](approve-or-reject-techbiz-account.md)

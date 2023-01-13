@@ -2,7 +2,7 @@
 
 This section guides how subscription and technical admins can edit and manage TechBiz system(s).
 
-- [Edit system](#edit-system)
+- [Edit TechBiz system](#edit-techbiz-system)
 
 ## Audience
 
@@ -16,7 +16,7 @@ This section guides how subscription and technical admins can edit and manage Te
 - An approved **TechBiz account**.
 - A **TechBiz system**.
 
-**Edit System**
+## Edit TechBiz system
 
 **Subscription admins and technical admins** can edit system description, update the status of your DGP sub-system and add sub-system ID, remove and add new technical admins.
 
@@ -35,7 +35,7 @@ This section guides how subscription and technical admins can edit and manage Te
 
 <kbd><img src="images/dgp-button.png" alt="drawing" width="100%"/></kbd>
 
-Note: The **DGP sub-system ID** dropdown list appears when **Yes, I have a DGP ID** is selected.
+> **Note:** The **DGP sub-system ID** dropdown list appears when **Yes, I have a DGP ID** is selected.
 
 8. Select the required sub-system ID from the **DGP sub-system ID** dropdown list.
 

@@ -5,7 +5,7 @@
   - [Request for TechBiz account](request-for-techbiz-account.md)
     - [Manage draft request](manage-draft-request.md)
     - [Send reminder for account approval](send-reminder-for-account-approval.md)
-  - [Approve or Reject TechBiz account](approve-or-reject-techbiz-account.md)
+  - [Approve or reject TechBiz account](approve-or-reject-techbiz-account.md)
   - [Resubmit TechBiz account application](resubmit-techbiz-account-application.md)
   - [TechBiz system](techbiz-system.md)
   - [Create TechBiz system](create-techbiz-system.md)

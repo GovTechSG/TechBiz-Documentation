@@ -1,12 +1,21 @@
-# Create TechBiz account
+# Request for TechBiz account
 
-This section guides how Public officers can create a TechBiz account.
+This section guides how Public officers can request for a TechBiz account.
 
 - [Create TechBiz account](#create-techbiz-account)
 
 ## Audience 
 
-- Public officers with a valid organisation email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
+
+The following table tells you the different types of admins in TechBiz portal.
+
+ | Role  | Request for TechBiz account | Manage TechBiz account  | Add TechBiz system | Configure TechBiz system | View account details and download information |
+| ------------- |:-------------| :------------- | :------------- |
+| Primary subscription admin     | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
+| Secondary subscription admin | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
+| Billing admin   | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span>| <span style="color: green;">&#x2611;</span> |
+| Technical admin   | <span style="color: red;">&#x2612;</span>  | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
 
 ## Prerequisites
 

@@ -12,12 +12,11 @@ This sections guides how subscription admins can create a TechBiz system using a
 - You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
 - An approved **TechBiz account**.
 
-**To create TechBiz system**
+**To create a TechBiz system**
 
 1. From the sidebar, click **Accounts**.
-2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
-3. Select the required account.
-4. Click **SYSTEMS** tab \> **Create system**.
+2. Go to the required TechBiz account.
+3. Click **SYSTEMS** \> **Create system**.
 
 <kbd><img src="images/create-sys.png" alt="drawing" width="100%"/></kbd>
 
@@ -38,31 +37,30 @@ This sections guides how subscription admins can create a TechBiz system using a
 | **Field Name** | **Description** |
 | --- | --- |
 | **Technical admin** | A Technical admin can edit and manage systems. This section allows you to enter the details of the Technical admin. There can be up to three technical admins. </br></br> **Note:** Public officers and vendors can be technical admins. |
-| **Email address** | Enter the organisation email address. |
+| **Email address** | Enter the organisation email address of the Technical admin. |
 | **First name, Last name, Contact number and Organisation**. | Enter the first name, last name, contact number and the organisation of the Technical admin. |
 
 7. Click **Add another** to add more technical admins.
 8. Click **Next**.
 9. Review the system details and click **Submit**.
 
-The system records appears on the **Systems** page with **Pending Configuration** status.
+The system record appears on the **Systems** page with status as **Pending Configuration**.
 
 <kbd><img src="images/pending-config.png" alt="drawing" width="100%"/></kbd>
 
-Proceed to configure subscribed products.
+Proceed to complete the configuration.
 
-## Add and configure subscribed products
+## Add and configure products
 
 Agencies need to add the subscribed SGTS products required for the system(s) and configure the products for each TechBiz system.
 
 **To add and configure subscribed products**
 
 1. From the sidebar, click **Accounts**.
-2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
-3. Select the required account.
-4. Go to **SYSTEMS** tab.
-5. Choose the required system and click **Manage**.
-6. Go to **PRODUCTS** tab \> **Add Products**.
+2. Go to the required TechBiz account.
+3. Click **SYSTEMS**.
+4. Choose the required system and click **Manage**.
+5. Go to **PRODUCTS** \> **Add Products**.
 
 > **Note:** Each SGTS product will have different requirements for product configuration. Click the triangle to view product configuration instructions for the required SGTS products.
 
@@ -77,6 +75,11 @@ Agencies need to add the subscribed SGTS products required for the system(s) and
 9. Click **Submit**.
 
 <kbd><img src="images/add-prod-submit.png" alt="drawing" width="100%"/></kbd>
+
+The system record appears on the **Systems** page with status as **Provisioned**.
+
+<kbd><img src="images/sys-prov.png" alt="drawing" width="100%"/></kbd>
+
 
 Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/access-ship-hats-portal) for a guide to SHIP-HATS portal.
 

@@ -26,11 +26,11 @@ This sections guides how subscription admins can create a TechBiz system using a
 
 | **Field Name** | **Description** |
 | --- | --- |
-| **System name** | Enter the system name.</br><br/> Note: System name can have a minimum of 1 character and maximum of 50 characters. |
+| **System name** | Enter the system name.</br><br/> **Note:** System name can have a minimum of 1 character and maximum of 50 characters. |
 | **TechBiz system ID** | A unique TechBiz system ID is automatically generated and cannot be edited. The TechBiz system ID is common across all subscribed SGTS products under this account. |
 | **System Description** | Enter the description of the system. |
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes** , **I have a DGP ID** or **No, I do not have a DGP ID**. </br> </br> Note: Refer to [FAQ](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/faq) for more information. |
-| **Sub-system ID and description** | The sub-system DGP ID and description will be available if **Yes, I have a DGP ID** is selected. Select your DGP System ID. The System description will automatically appear. </br></br>Note: If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it when it is available. |
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes** , **I have a DGP ID** or **No, I do not have a DGP ID**. </br> </br> **Note:** Refer to [FAQ](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/faq) for more information. |
+| **Sub-system ID and description** | The sub-system DGP ID and description will be available if **Yes, I have a DGP ID** is selected. Select your DGP System ID. The System description will automatically appear. </br></br> **Note:** If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it when it is available. |
 
 6. Enter the **technical admin** details.
 

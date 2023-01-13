@@ -48,4 +48,4 @@ The system record appears on the **Systems** page with status as **Pending Confi
 
 <kbd><img src="images/pending-config.png" alt="drawing" width="100%"/></kbd>
 
-Proceed to complete the configuration.
+Proceed to [Add and configure products](add-and-configure-products.md)  complete the configuration.

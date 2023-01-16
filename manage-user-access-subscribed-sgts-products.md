@@ -4,7 +4,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
-- [Add or remove users]#(add-or-remove-users)
+- [Add or remove users](#add-or-remove-usersadd-or-remove-users)
 
 ## Audience
 

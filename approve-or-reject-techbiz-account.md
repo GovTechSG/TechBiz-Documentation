@@ -8,7 +8,7 @@ When a public officer submits a request to create an account, the **Approver** r
 
 1. Review the attachments in the email notification or in the TechBiz portal.
 
-> **Note**: **Approvers** using Gomax or SE GSIB device must respond to the email by selecting the Reply All option and copying (CC) the email to enquiries_ENP@tech.gov.sg in order to complete the approval process.
+> **Note**: **Approvers** using Gomax or SE GSIB device must respond to the email indicating **Approved* or **Rejected**. Select the **Reply All** option and copy (CC) the email to enquiries_ENP@tech.gov.sg in order to complete the approval process.
 
 2. Click the link provided in the email.
 

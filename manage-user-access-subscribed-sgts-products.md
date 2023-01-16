@@ -2,9 +2,9 @@
 
 Subscription and technical admins can control user access to the SGTS products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
-Note: Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
+> **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
-- Add or remove users
+- [Add or remove users](#add-or-remove-usersadd-or-remove-users)
 
 ## Audience
 
@@ -22,7 +22,7 @@ Note: Refer to the description text located underneath the tool label to underst
 
 Subscription and technical admins can control user access to the SGTS products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
-Note: Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
+> **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
 **To add users**
 
@@ -38,7 +38,6 @@ Note: Refer to the description text located underneath the tool label to underst
 7. Click **Manage** \> **Add users**.
 
 > **Note:**
-
 > - The usage count is linked to the corresponding subscription plan.
 > - **Usage count** displays the quantity of assigned users and the maximum number of concurrent users authorised. For example, a count of 2/33 indicates that 2 out of the total 33 subscribed users have been assigned.
 
@@ -71,3 +70,5 @@ Note: Refer to the description text located underneath the tool label to underst
 9. Click **Confirm** to delete the user.
 
 <kbd><img src="images/confirm-delete-user.png" alt="drawing" width="100%"/></kbd>
+
+The user record is removed from the **Users** list.

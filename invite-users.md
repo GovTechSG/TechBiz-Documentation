@@ -144,7 +144,7 @@ Public officers can view the status of the users they have invited using TechBiz
 
 ### To view the status of invited users
 
-From **Invitation type**, select **Invite User Status*.
+From **Invitation type**, select **Invite User Status**.
 
 The page will indicate "No record found" when no users have been invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 

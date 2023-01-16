@@ -1,4 +1,4 @@
-# Approve TechBiz account
+# Approve or reject TechBiz account
 
 When a public officer submits a request to create an account, the **Approver** receives an email and a notification on the TechBiz portal to process the request. **Subscription admins** and **Billing admin** will also be notified.
 
@@ -7,6 +7,8 @@ When a public officer submits a request to create an account, the **Approver** r
 ## Approve or reject an account creation request
 
 1. Review the attachments in the email notification or in the TechBiz portal.
+
+> **Note**: **Approvers** using SE-GSIB/GoMax device need to reply to the email. Click **Reply All** and copy (CC) the email to enquiries_ENP@tech.gov.sg in order to complete the approval process.
 
 2. Click the link provided in the email.
 

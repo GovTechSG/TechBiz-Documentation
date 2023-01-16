@@ -1,4 +1,4 @@
-# Manage draft account
+# Manage draft request
 
 This section guides how Primary subscription admin can continue with the draft and submit the completed draft.
 

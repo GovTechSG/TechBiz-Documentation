@@ -1,12 +1,21 @@
-# Create TechBiz account
+# Request for TechBiz account
 
-This section guides how Public officers can create a TechBiz account.
+This section guides how Public officers can request for a TechBiz account.
 
 - [Create TechBiz account](#create-techbiz-account)
 
 ## Audience 
 
-- Public officers with a valid organisation email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
+
+The following table tells you the different types of admins in TechBiz portal.
+
+ | Role  | Request for TechBiz account | Manage TechBiz account  | Add TechBiz system | Configure TechBiz system | View account details and download information |
+| ------------- |:-------------| :------------- | :------------- | :------------- | :------------- |
+| Primary subscription admin     | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
+| Secondary subscription admin | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
+| Billing admin   | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span>| <span style="color: green;">&#x2611;</span> |
+| Technical admin   | <span style="color: red;">&#x2612;</span>  | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
 
 ## Prerequisites
 
@@ -100,13 +109,13 @@ This section guides how Public officers can create a TechBiz account.
 
 13. By default, the date displayed is automatically generated. Click **Start date** to select the required date.
 
-> **Note:** You cannot select 3 consecutive working days from the current date and 3 working days before the end of the month. For more information, refer to the field description table.
+> **Note:** For more information, refer to the field description table.
 
 14. In **Select a plan**, provide the subscription plan details.
 
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
-| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS products. </br></br>Note: While selecting a date, you will not be able to select 3 consecutive working days from the current date and the last 3 working days of the month as we need time for the following: </br></br>- **Agency approver** to approve account request</br>- **Technical admin/Subscription admin** to configure the product details. </br>- SGTS Product teams to provision the required resources. |
+| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS products. |
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 

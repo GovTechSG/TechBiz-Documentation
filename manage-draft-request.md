@@ -25,6 +25,6 @@ The primary subscription admin can continue editing a draft account creation req
 3. Select the required account.
 4. If needed, edit the draft request. 
 
-> **Note:** For more information, refer to [Create TechBiz account](create-techbiz-account.md). 
+> **Note:** For more information, refer to [Request for TechBiz account](request-for-techbiz-account.md). 
 
 5. Click **Save draft** to save the request as draft. To submit the request, click **Next** > **Submit**.  

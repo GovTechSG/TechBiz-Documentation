@@ -71,4 +71,4 @@ Subscription and technical admins can control user access to the SGTS products t
 
 <kbd><img src="images/confirm-delete-user.png" alt="drawing" width="100%"/></kbd>
 
-The user record is removed from the users list.
+The user record is removed from the **Users** list.

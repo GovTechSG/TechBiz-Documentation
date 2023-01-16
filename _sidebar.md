@@ -10,6 +10,7 @@
   - [Manage TechBiz system](manage-techbiz-system.md)
   - [Create TechBiz system](create-techbiz-system.md)
   - [Add and configure products](add-and-configure-products.md)
+  - [Manage user access for subscribed SGTS products](manage-user-access-subscribed-sgts-products.md)
   - [Edit TechBiz system details](edit-techbiz-system-details.md)
   - [Manage TechBiz account](manage-techbiz-account.md)
   - [Manage subscriptions](manage-subscriptions.md)

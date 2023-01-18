@@ -33,7 +33,7 @@ The following table tells you the different types of admins in TechBiz portal.
   - Subscription plans for the required SGTS product(s).
   - Supporting documents. (Optional)
 
-**To create TechBiz account**
+**To request for TechBiz account**
 
 1. In **Overview**, click **Manage accounts**.
 

@@ -19,19 +19,19 @@ The following table tells you the different types of admins in TechBiz portal.
 
 - Public officers using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device can create an account.
 
-- Have the following information ready before proceeding:
-  - Name, organisation email address and handphone number
-    - **Primary subscription admin**
-    - **Secondary subscription admin**
-    - **Billing admin**
- - Name, organisation email address, and designation
-    - **Approver** (Deputy Director or above)
-  - Account name
-  - Billing details
-    - **Sub business unit (SBU)**
-    - **Agency department** name, **Cost centre** and **Fund centre**. (Only for GovTech)
-  - Subscription plans for the required SGTS product(s).
-  - Supporting documents. (Optional)
+Have the following information ready before proceeding:
+- Name, organisation email address and handphone number
+ - **Primary subscription admin**
+ - **Secondary subscription admin**
+ - **Billing admin**
+- Name, organisation email address, and designation
+ - **Approver** (Deputy Director or above)
+- Account name
+ - Billing details
+  - **Sub business unit (SBU)**
+  - **Agency department** name, **Cost centre** and **Fund centre**. (Only for GovTech)
+ - Subscription plans for the required SGTS product(s).
+ - Supporting documents. (Optional)
 
 
 ## Request for TechBiz account

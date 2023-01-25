@@ -128,6 +128,8 @@ The page will indicate "No record found" when no users have been invited. If you
 
 <kbd><img src="images/invite-stats.png" alt="drawing" width="100%"/></kbd>
 
+Refer to the following for more information.
+
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **First Name** | First name of the invited user. | 

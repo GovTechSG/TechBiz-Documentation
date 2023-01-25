@@ -1,9 +1,5 @@
 # Invite users
 
-Public officers and vendors need to have a TechPass account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products and [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) is needed to access SGTS products from the Internet device. TechBiz allows public officers to send SEED and TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors. 
-
-Public officers with \<your_name>@\<acronym for your agency>.gov.sg can also use the TechPass OTP service to create accounts. A TechPass account will automatically be created upon approval. 
-
 This feature allows Public officers to invite other Public officers and vendors to get onboarding invitation to [TechPass](http://portal.techpass.gov.sg/) and [SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed).
 
 There are 3 ways a Public officer can invite users:
@@ -74,7 +70,6 @@ Refer to the following for more information on the required details.
 **To invite multiple Public officers or vendors**
 
 1. From the sidebar, click **Invite users** > select **Batch upload**.
-
 2. Click **Download excel template link**.
 
   <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
@@ -87,13 +82,11 @@ Refer to the following for more information on the required details.
 > - Two consecutive '.' is not allowed.
 
 3. Open the downloaded .xlsx file extension, specify the required details and save the file.
-
 4. In **Upload user list** section, select **Choose a file**.
 
   <kbd>![downloadtemplate](/images/choose-file.png ':size=100%')</kbd>
 
 5. Select the saved file and upload it.
-
 6. Click **Submit**.
 
  <kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>

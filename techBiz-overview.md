@@ -1,7 +1,7 @@
 # Overview
 
-The [TechBiz portal](https://portal.techbiz.suite.gov.sg)  is a one-stop service for government agencies to subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. It simplifies contract and subscriptions management leading to time and cost savings for agencies.
+The [TechBiz portal](https://portal.techbiz.suite.gov.sg) is used for the following:
 
-## Prerequisites
+- Manage [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) subscriptions.
+- Invite Public officers and vendors to [TechPass](http://portal.techpass.gov.sg/) and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
 
-- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary.md) device.

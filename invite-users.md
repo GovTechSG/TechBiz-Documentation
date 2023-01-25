@@ -4,90 +4,76 @@ Public officers and vendors need to have a TechPass account to access [Singapore
 
 Public officers with \<your_name>@\<acronym for your agency>.gov.sg can also use the TechPass OTP service to create accounts. A TechPass account will automatically be created upon approval. 
 
->**Notes:**
-> - Public officers using a [non-SE GSIB](glossary) device can also use [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) 
- Existing TechPass users can also request for [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
-> - SEED provisioning is needed to access SGTS products from the Internet device. If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions. If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
+This feature allows Public officers to invite other Public officers and vendors to get onboarding invitation to [TechPass](http://portal.techpass.gov.sg/) and [SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed).
+
+There are 3 ways a Public officer can invite users:
+
+* [Email invitation](#email-invitation). Use this option to invite Public officers.
+* [Create account](#create-account). Use this option to invite vendors.
+* [Batch upload](#batch-upload). Use this option to invite multiple Public officers and vendors.
 
 ## Prerequisites
 
 - Public officers using a [non-SE GSIB](glossary) device can invite other public officers or vendors.
 
-- Have the following information ready before proceeding:
-  - Public officers and vendors who require a TechPass account
-    - Organisation email address
-    - **First name** and **Last name**
-    - **Contact number**
-    - **Organisation**
-    - **Department** (optional)
-    - **TechPass username** (for vendors)
+Have the following information ready before proceeding:
+- Organisational email address.
+  - For public officers, it is the Whole of Government email address of the public officer.
+  - For vendors, it should be the email address provided by the vendor.
+- **First name** and **Last name**
+- **Contact number**
+- **Organisation** (only for vendors)
+- **TechPass username** (only for vendors)
+
+> **Note:** You can use the vendor's full name as the TechPass username.
 
 
-## Invite users to TechPass
+## Email invitation
 
-1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+**To invite Public officers**
 
-2.  In **Overview**, click **Invite users**.
+1. From the sidebar, click **Invite users** > select **Email invitation**.
 
-3.  Select the invitation type.
-
-There are 3 different invitation types:
-
-| <div style="width:270px">Invitation type</div>  | When to use |
-| :------------------------------------------ |:-------------|
-| Email invitation| Select this to create a TechPass account for the following users:<br> - Public officers using a non-SE GSIB device and whose email address is in the format of \<your_name>@\<acronym for your agency>.gov.sg.<br> |
-| Create account | Select this to create a TechPass account for a vendor. |
-| Batch upload | Select this to create TechPass accounts for more than one public officer and vendor. |
-
-4.  Select the required **invitation type**, enter the required details and click **Submit**.
-
-For more information on each invitation type, refer to the following:
-
-* [Email invitation](#email-invitation)
-* [Create account](#create-account)
-* [Batch upload](#batch-upload)
-
-
-### Email invitation
-
-1. From **Invitation type**, select **Email invitation**.
-
- <kbd>![email_invite1](/images/invitation-email.png ':size=100%')</kbd>
+<kbd>![email_invite1](/images/invitation-email.png ':size=100%')</kbd>
 
 2. Enter the required details and click **Submit**.
 
- <kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+<kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers.<br> | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
-| **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
+| **Email address** | Enter the email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers.<br> | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br /><br /> **Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
+| **Reason** | Enter the **Reason** why the public officer needs a TechPass account. |
 
-### Create account
+## Create account
 
-1. From **Invitation type**, select **Create account**.
+**To invite vendors**
 
- <kbd>![create_acct](/images/create-account.png ':size=100%')</kbd>
+1. From the sidebar, click **Invite users** > select **Create account**.
+
+<kbd>![create_acct](/images/create-account.png ':size=100%')</kbd>
 
 2. Enter the required details and click **Submit**.
 
- <kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
+<kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the organisational email address of the vendor who requires a TechPass account. </br></br> **Note:** The email address must be the email address provided by the vendor.
-| **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter the required username for the TechPass account.
-| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />Note: **Department** is optional.
-| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
-| **Reason** | Enter the **Reason** why the vendor needs a TechPass account.
+| **Email address**| Enter the organisational email address of the vendor who requires a TechPass account. </br></br> **Note:** The email address must be the email address provided by the vendor. |
+| **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter the required username for the TechPass account. |
+| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />Note: **Department** is optional. |
+| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the vendor needs SEED provisioning.<br /><br />**Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
+| **Reason** | Enter the **Reason** why the vendor needs a TechPass account. |
 
-### Batch upload
+## Batch upload
 
-1. From **Invitation type**, select **Batch upload**.
+**To invite multiple Public officers or vendors**
+
+1. From the sidebar, click **Invite users** > select **Batch upload**.
 
 2. Click **Download excel template link**.
 
@@ -141,17 +127,28 @@ Refer to the following for more information on the required details.
 
 Public officers can view the status of the users they have invited using TechBiz portal. **Invite User Status** displays the TechPass and SEED onboarding status of the invited users.
 
-### To view the status of invited users
+**To view the status of invited users**
 
-From **Invitation type**, select **Invite User Status**.
+1. From the sidebar, click **Invite users** > select **Invite User Status**.
 
 The page will indicate "No record found" when no users have been invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 
 <kbd><img src="images/invite-stats.png" alt="drawing" width="100%"/></kbd>
 
+| <div style="width:270px">Field Name</div>  | Description |
+| :------------------------------------------ |:-------------|
+| **First Name** | First name of the invited user. | 
+| **Last Name** | Last name of the invited user. |
+| **Email adress** | Organisational email address of the invited user. |
+| **Organisation** | Name of the vendor organisation. |
+| **Department** | Name of the vendor's department. |
+| **Date of Invite** | Date of user invitation to TechPass. |
+| **TechPass Status** | TechPass status of the user. |
+| **SEED Status** | SEED status of the user.|
+| **Resend invite** | The button is displayed when user has not onboarded to TechPass. |
 
 >**Notes:**
 > - Only users invited via TechBiz portal will be displayed on this list. 
-> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create account](#create-account)  or [batch upload](#batch-upload). 
+> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create account](#create-account) or [batch upload](#batch-upload). 
 > - Click **Resend invite** to re-invite users through email. Invitations can be sent once a day. The button is available after invites have been sent.
 

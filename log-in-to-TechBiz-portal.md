@@ -25,9 +25,7 @@ Users can log in to TechBiz portal using your [TechPass](https://www.developer.t
 ## Log in with TechPass
 
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
-
 2.  Click **Login with TechPass**.
-
 3.  Follow the on-screen instructions and approve the sign-in request.
 
 ## Log in with TechPass OTP
@@ -40,11 +38,8 @@ Public officers whose organisational email address format is \<your_name>@\<acro
 > - Refer to [TechPass documentation](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) to complete the onboarding process.
 
 1.  Go to the [TechBiz portal](http://portal.techbiz.suite.gov.sg/).
-
 2.  Click **Get Started**.
-
 3.  Enter your organisational email address in **Email** and click **Next**.   
 You will receive an OTP at the specified email address.
-
 4.  Enter the **OTP** and click **Submit**.
 

@@ -1,27 +1,28 @@
 # Invite users
 
-This feature allows Public officers to invite other Public officers and vendors to get onboarding invitation to [TechPass](http://portal.techpass.gov.sg/) and [SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed).
+Public officers can now use TechBiz portal to invite other public officers and vendors to [TechPass]https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
 
-There are 3 ways a Public officer can invite users:
+There are three ways a public officer can invite users:
 
-* [Email invitation](#email-invitation). Use this option to invite Public officers.
-* [Create account](#create-account). Use this option to invite vendors.
-* [Batch upload](#batch-upload). Use this option to invite multiple Public officers and vendors.
+1. [Email invitation](#email-invitation) - Use this option to invite public officers.
+2. [Create user account](#create-user-account) - Use this option to invite vendors.
+3. [Batch upload](#batch-upload) - Use this option to invite more than one public officers and/or vendors.
 
 ## Prerequisites
 
-- Public officers using a [non-SE GSIB](glossary) device can invite other public officers or vendors.
+- You should be a public officer with a [non-SE GSIB](glossary) device.
 
-Have the following information ready before proceeding:
+> **Note:** 
+> - Have the following details of the invitee before proceeding.
+> - While inviting a vendor, enter the vendor's full name as the TechPass username.
+
 - Organisational email address.
   - For public officers, it is the Whole of Government email address of the public officer.
-  - For vendors, it should be the email address provided by the vendor.
+  - For vendors, it should be the email address provided by the vendor organisation.
 - **First name** and **Last name**
 - **Contact number**
-- **Organisation** (only for vendors)
-- **TechPass username** (only for vendors)
+- **Organisation** and **TechPass username** (only for vendors)
 
-> **Note:** You can use the vendor's full name as the TechPass username.
 
 
 ## Email invitation
@@ -34,16 +35,17 @@ Have the following information ready before proceeding:
 
 2. Enter the required details and click **Submit**.
 
-<kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+<kbd>![email_invite](/images/email_invite3.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address** | Enter the email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers.<br> | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br /><br /> **Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
+| **Email address** | Enter the email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers.<br> |
+| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Select **Yes** if the public officer needs SEED provisioning.<br /><br /> **Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account. |
 
-## Create account
+## Create user account
 
 **To invite vendors**
 
@@ -107,7 +109,7 @@ Refer to the following for more information on the required details.
 >
 > When an invitation is unsuccessful, you will receive an error notification during submission. You need to do the following:
 >
-> To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
+> To troubleshoot [email invitation](#email-invitation) or [create account](#create-user-account) issues:
 > - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID shown on the error notification.
 > - To troubleshoot [batch upload](#batch-upload) issues:
 >    1. In the user list of the uploaded file, click the ellipsis on the row with errors.

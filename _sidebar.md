@@ -4,22 +4,24 @@
   - [Invite users](invite-users.md)
   - [TechBiz account](techbiz-account.md)
   - [Request for TechBiz account](request-for-techbiz-account.md)
+  - [Create TechBiz system](create-techbiz-system.md)
+  - [Add and configure products](add-and-configure-products.md)
 - **Manage TechBiz account requests**
   - [Edit and submit draft request](manage-draft-request.md)
   - [Send reminder for request approval](send-reminder-for-account-approval.md)
   - [Approve or reject TechBiz account request](approve-or-reject-techbiz-account.md)
   - [Resubmit TechBiz account creation request](resubmit-techbiz-account-application.md)
-- [**Manage TechBiz system**](manage-techbiz-system.md)
-  - [Create TechBiz system](create-techbiz-system.md)
-  - [Add and configure products](add-and-configure-products.md)
+- **Manage TechBiz system**
+  - [Manage TechBiz system](manage-techbiz-system.md)
   - [Manage user access for subscribed SGTS products](manage-user-access-subscribed-sgts-products.md)
   - [Edit TechBiz system details](edit-techbiz-system-details.md)
-- [**Manage TechBiz account**](manage-techbiz-account.md)
+- **Manage TechBiz account**
+  - [Manage TechBiz account](manage-techbiz-account.md)
   - [Manage subscriptions](manage-subscriptions.md)
   - [View approver details and attachments](view-approver-details-and-attachments.md)
   - [Notifications](notifications.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
 - **Resources**
-  -  [FAQs](faq.md)
+  - [FAQs](faq.md)
   - [Glossary](glossary.md)
 

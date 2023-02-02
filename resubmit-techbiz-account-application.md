@@ -1,4 +1,4 @@
-# Resubmit TechBiz account application
+# Resubmit TechBiz creation request
 
 This section guides how Primary subscription admin can resubmit the account application when the account is rejected.
 

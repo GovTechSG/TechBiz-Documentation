@@ -106,7 +106,7 @@ Have the following information ready before proceeding:
 
 | **Field Name** | **Description** |
 | :------------------------------------------ |:-------------|
-| **Email address** | Enter the organisation email address of the **Billing admin**. </br></br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
+| **Email address** | Enter the organisational email address of the **Billing admin**. </br></br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
 | **First name** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account.</br></br> Note: These details are masked except for the first and last character of the first name. |
 | **Last name** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br>  Note: These details are masked except for the first and last character of the last name. |
 | **Contact number** | The contact number will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br> Note: The details are masked except for the last 3 digits of the contact number. </br></br> If not, the requestor needs to enter them manually. |

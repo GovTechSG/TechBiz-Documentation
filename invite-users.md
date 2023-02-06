@@ -1,12 +1,12 @@
 # Invite users
 
-Public officers can now use TechBiz portal to invite other public officers and vendors to [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
+Public officers can now use TechBiz portal to invite and create [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) account for other public officers and vendors, and invite them to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
 
-There are three ways a public officer can invite users:
+There are three ways a public officer can create TechPass account for other users:
 
 1. [Email invitation](#email-invitation) - Use this option to invite public officers.
-2. [Create user account](#create-user-account) - Use this option to invite vendors.
-3. [Batch upload](#batch-upload) - Use this option to invite more than one public officer and vendor.
+2. [Create single account](#create-single-account) - Use this option to invite public officers and vendors.
+3. [Batch upload](#batch-upload) - Use this option to create more than one TechPass account for a public officer and vendor.
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ Have the following details of the invitee before proceeding:
 
 **To invite public officers**
 
-1. From the sidebar, click **Invite users** > select **Email invitation**.
+1. From the sidebar, click **Create TechPass account** > select **Email invitation**.
 
 <kbd><img src="images/invitation-email.png" alt="drawing" width="100%"/></kbd>
 
@@ -43,11 +43,11 @@ Refer to the following for more information on the required details.
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Select **Yes** if the public officer needs SEED provisioning.<br /><br /> **Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account. |
 
-## Create user account
+## Create single account
 
-**To invite vendors**
+**To invite public officers and vendors**
 
-1. From the sidebar, click **Invite users** > select **Create account**.
+1. From the sidebar, click **Create TechPass account** > select **Create account**.
 
 <kbd><img src="images/create-account.png" alt="drawing" width="100%"/></kbd>
 
@@ -65,11 +65,14 @@ Refer to the following for more information on the required details.
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the vendor needs SEED provisioning.<br /><br />**Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
 | **Reason** | Enter the **Reason** why the vendor needs a TechPass account. |
 
-## Batch upload
+## Create multiple accounts
 
-**To invite multiple Public officers or vendors**
+**To invite multiple public officers or vendors**
 
-1. From the sidebar, click **Invite users** > select **Batch upload**.
+1. From the sidebar, click **Create TechPass account** > select **Create multiple accounts**.
+
+<kbd><img src="images/create-multiple-acc.png" alt="drawing" width="100%"/></kbd>
+
 2. Click **Download excel template link**.
 
 <kbd><img src="images/download-template.png" alt="drawing" width="100%"/></kbd>
@@ -100,18 +103,18 @@ A confirmation message is displayed.
 
 <kbd><img src="images/reset.png" alt="drawing" width="100%"/></kbd>
 
-## View status of invited users
+## User creation status
 
-Public officers can view the status of the users they have invited using TechBiz portal. **Invite User Status** displays the TechPass and SEED onboarding status of the invited users.
+Public officers can view the status of the users they have invited using TechBiz portal. **User creation status** displays the TechPass and SEED onboarding status of the invited users.
 
 **To view the status of invited users**
 
-1. From the sidebar, click **Invite users** > select **Invite User Status**.
+1. From the sidebar, click **Create TechPass account** > select **User creation status**.
 
 <kbd><img src="images/invite-stats.png" alt="drawing" width="100%"/></kbd>
 
-2.  Click **Resend invite** to re-invite users. Invitations can be re-sent once a day.
+2.  Click **Resend invite** to re-invite users. Invitations can be resubmitted once a day.
 
 >**Notes:**
 > - Only users invited via TechBiz portal will be displayed on this list. 
-> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create account](#create-account) or [batch upload](#batch-upload). 
+> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create single account](#create-single-account) or [create multiple account](#create-multiple-account). 

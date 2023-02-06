@@ -107,7 +107,7 @@ Have the following information ready before proceeding:
 | **Field Name** | **Description** |
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin**. </br></br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
-| **First name** | TThese details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account.</br></br> Note: These details are masked except for the first and last character of the first name. |
+| **First name** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account.</br></br> Note: These details are masked except for the first and last character of the first name. |
 | **Last name** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br>  Note: These details are masked except for the first and last character of the last name. |
 | **Contact number** | The contact number will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br> Note: The details are masked except for the last 3 digits of the contact number. </br></br> If not, the requestor needs to enter them manually. |
 | **Agency department**</br></br>**Cost center**</br></br></br>**Fund center** | Enter your department name.</br></br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br></br>Enter the **fund center** details.</br></br>Note: The above field details are applicable to GovTech accounts only. |
@@ -117,10 +117,10 @@ Have the following information ready before proceeding:
 
   </details>
 
-## Step 3. Select SGTS products 
+## Step 3. Select SGTS products and plans
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products for subscription</summary>
+  <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products and plans for subscription</summary>
     
 
 **To select SGTS products for subscription**
@@ -146,7 +146,15 @@ Have the following information ready before proceeding:
 
 5. If you are subscribing to more than one SGTS product, repeat **steps 12-14** and click **Next**.
 
-6. In **Approver details**, enter the required information and click **Next**.
+## Step 4. Enter approval details and submit subscription account request
+
+<details>
+  <summary style="font-size:20px;font-weight:bold">Steps to enter approver details</summary>
+    
+
+**To enter approver details and submit subscription account request**
+
+1. In **Approver details**, enter the required information and click **Next**.
 
 > **Notes:**
 > - **Approver** must be a public officer with a valid organisation email address.
@@ -158,9 +166,9 @@ Have the following information ready before proceeding:
 | **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
 | **Remarks to Approver** | This field is optional.</br></br> Specify the reasons for submitting this request.|
 
-7. Verify if the information displayed on this page is correct and click **Submit**.
+2. Verify if the information displayed on this page is correct and click **Submit**.
 
-8. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
+3. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
 
 A confirmation message is displayed to verify that the account has been submitted for approval.
 

@@ -6,7 +6,7 @@ There are three ways a public officer can create TechPass account for other user
 
 1. [Email invitation](#email-invitation) - Use this option to invite public officers.
 2. [Create single account](#create-single-account) - Use this option to invite public officers and vendors.
-3. [Batch upload](#batch-upload) - Use this option to create more than one TechPass account for a public officer and vendor.
+3. [Create multiple accounts](#create-multiple-accounts) - Use this option to create more than one TechPass account for a public officer and vendor.
 
 ## Prerequisites
 

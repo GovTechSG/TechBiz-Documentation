@@ -61,7 +61,9 @@ Have the following information ready before proceeding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Enter subscription account details</summary>
     
+
 **To enter subscription account details**
+
 
 1. Enter the following **Account details**.
 
@@ -120,7 +122,9 @@ Have the following information ready before proceeding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products for subscription</summary>
     
+
 **To select SGTS products for subscription**
+
 
 1. In **Select product(s)**, choose the required **SGTS products** and click **Next**.
 

@@ -38,8 +38,10 @@ Have the following information ready before proceeding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet</summary>
     
+
 **To agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet**
  
+
 1. From the sidebar, click **Subscription accounts** > **Create subscription account**.
 
 2. Ensure the above information in prerequisites is ready and click **Next**.

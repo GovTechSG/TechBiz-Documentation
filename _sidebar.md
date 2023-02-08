@@ -2,7 +2,7 @@
   - [Overview](techBiz-overview.md)
   - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
   - [Create TechPass account for public officers and vendors](invite-users.md)
-  - [TechBiz subscription account](techbiz-saccount.md)
+  - [TechBiz subscription account](techbiz-account.md)
   - [Request for TechBiz subscription account](request-for-techbiz-account.md)
   - [Create TechBiz system](create-techbiz-system.md)
   - [Add and configure products](add-and-configure-products.md)

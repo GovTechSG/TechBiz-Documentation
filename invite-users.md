@@ -6,7 +6,7 @@ There are three ways a public officer can create TechPass account for other user
 
 1. [Email invitation](#email-invitation) - Use this option to invite public officers.
 2. [Create single account](#create-single-account) - Use this option to invite public officers and vendors.
-3. [Create multiple accounts](#create-multiple-accounts) - Use this option to create more than one TechPass account for a public officer and vendor.
+3. [Create multiple accounts](#create-multiple-accounts) - Use this option to invite multiple public officers and vendors.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ There are three ways a public officer can create TechPass account for other user
 
 Have the following details of the invitee before proceeding:
 
-- Organisational email address of the invitee.
+- **Organisational email address** of the invitee.
   - For public officers, it is the Whole of Government email address of the public officer.
   - For vendors, it should be the email address of the invitee provided by the vendor organisation.
 - **First name** and **Last name** of the invitee. While inviting a vendor, enter the vendor's full name as the TechPass username.
@@ -47,7 +47,7 @@ Refer to the following for more information on the required details.
 
 **To invite public officers and vendors**
 
-1. From the sidebar, click **Create TechPass account** > select **Create account**.
+1. From the sidebar, click **Create TechPass account** > select **Create single account**.
 
 <kbd><img src="images/create-account.png" alt="drawing" width="100%"/></kbd>
 
@@ -61,7 +61,7 @@ Refer to the following for more information on the required details.
 | :------------------------------------------ |:-------------|
 | **Email address**| Enter the organisational email address of the vendor who requires a TechPass account. </br></br> **Note:** The email address must be the email address provided by the vendor. |
 | **TechPass username** | Enter the required username for the TechPass account. </br></br> **Note**: TechPass username is not required for a public officer. |
-| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />Note: **Department** is optional. |
+| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />**Note: Department** is optional. |
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the vendor needs SEED provisioning.<br /><br />**Note**: SEED provisioning is needed to access SGTS products from the Internet device. |
 | **Reason** | Enter the **Reason** why the vendor needs a TechPass account. |
 

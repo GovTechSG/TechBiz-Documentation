@@ -1,11 +1,13 @@
 # Log in to TechBiz portal 
 
-Users can log in to TechBiz portal using your [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account. Alternatively, if you are a Public officer and you do not have a TechPass account, you can use [TechPass OTP service](#log-in-with-techpass-otp) to log in to TechBiz portal.
+You can log in to TechBiz portal using a [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) account. Alternatively, if you are a public officer and do not have a TechPass account, you can use [TechPass OTP service](#log-in-with-techpass-otp) to log in to the TechBiz portal.
 
 > **Note:** 
 >
-> - The [TechPass OTP service](#log-in-with-techpass-otp) is only available for Public officers.
-> - The options and menus varies on whether you are a Public officer or vendor after you have logged in.
+> - The [TechPass OTP service](#log-in-with-techpass-otp) is only applicable for public officers without a TechPass account.
+> - TechBiz options and features that are available may vary based on the logged-in user. For example, the invite user option is not available for vendors.
+
+This document guides you to do the following:
 
 - [Log in with TechPass](#log-in-with-techpass)
 - [Log in with TechPass OTP](#log-in-with-techpass-otp)
@@ -13,33 +15,32 @@ Users can log in to TechBiz portal using your [TechPass](https://www.developer.t
 ## Audience
 
 - Public officers.
-- Vendors with a Technical admin role access.
+- Vendors who have the Technical admin role in a TechBiz account.
 
 ## Prerequisites
 
 - You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device.
-- TechPass account.
+- An active TechPass account.
 
-> **Note**: If you are a Public officer without a TechPass account, you can log in using [TechPass OTP service](#log-in-with-techpass-otp). A TechPass account will automatically be provisioned after logging in using [TechPass OTP service](#log-in-with-techpass-otp).
 
 ## Log in with TechPass
 
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
-2.  Click **Login with TechPass**.
-3.  Follow the on-screen instructions and approve the sign-in request.
+2.  Click **Log in with TechPass**.
+3.  Follow the on-screen instructions and approve your sign-in.
 
 ## Log in with TechPass OTP
 
-Public officers whose organisational email address format is \<your_name>@\<acronym for your agency>.gov.sg can use TechPass OTP service to login to TechBiz portal. 
-
-> **Note:** 
->
-> - If you are logged in to TechBiz portal using TechPass OTP, you will be immediately provisioned with a TechPass account. An onboarding invitation email will be sent to this email address.
-> - Refer to [TechPass documentation](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) to complete the onboarding process.
+Public officers whose organisational email address format is \<your_name>@\<acronym for your agency>.gov.sg, can use TechPass OTP service to login to TechBiz portal. 
 
 1.  Go to the [TechBiz portal](http://portal.techbiz.suite.gov.sg/).
 2.  Click **Get Started**.
-3.  Enter your organisational email address in **Email** and click **Next**.   
-You will receive an OTP at the specified email address.
-4.  Enter the **OTP** and click **Submit**.
+3.  Enter your organisational email address in **Email** and click **Next**. You will receive an OTP at this email address.
+4.  Enter the **OTP** and click **Submit** to log in to the TechBiz portal.
 
+You are now logged in to the TechBiz portal.
+
+> **Note:** 
+>
+> - When you log in to the TechBiz portal using TechPass OTP, you will be immediately provisioned with a TechPass account. An onboarding invitation email will be sent to activate the provisioned TechPass account.
+> - Refer to [TechPass documentation](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-public-officers-using-non-se-machines) to complete the onboarding process.

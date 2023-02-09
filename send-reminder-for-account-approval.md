@@ -1,5 +1,5 @@
 
-# Send reminder for account approval
+# Send reminder for request approval
 
 This section guides how Primary subscription admin can manually trigger an approval reminder when the account is pending approval.
 

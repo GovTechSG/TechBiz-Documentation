@@ -1,9 +1,15 @@
 # Request for TechBiz subscription account
 
-Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md)
+Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md).
 
 This document guides you to the following:
 
+- [Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet](#step-1---agree-to-the-terms-and-conditions-of-the-govtech-universal-service-terms-and-sgts-service-sheet)
+- [Step 2 - Enter subscription account details](#step-2---enter-subscription-account-details)
+- [Step 3 - Select SGTS products for subscription](#step-3---select-sgts-products-for-subscription)
+- [Step 4 - Select plans for subscription](#step-4---select-plans-for-subscription)
+- [Step 5 - Enter approval details](#step-5---enter-approval-details)
+- [Step 6 - Submit subscription account request](#step-6---submit-subscription-account-request)
 
 ## Audience 
 
@@ -29,14 +35,14 @@ Have the following information ready before proceeding:
  - **Billing admin**
 - Name, organisation email address, and designation
  - **Approver** (Deputy Director or above)
-- Subsciption account name
+- Subscription account name
 - Billing details
   - **Sub business unit (SBU)**
   - **Agency department** name, **Cost centre** and **Fund centre**. (Only for GovTech)
  - Subscription plans for the required SGTS product(s).
  - Supporting documents. (Optional)
 
-## Step 1. Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
+## Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet</summary>
@@ -59,7 +65,7 @@ Have the following information ready before proceeding:
 
   </details>
 
-## Step 2. Enter subscription account details
+## Step 2 - Enter subscription account details
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Enter subscription account details</summary>
@@ -72,7 +78,7 @@ Have the following information ready before proceeding:
 
 > **Notes:**
 > - All fields are mandatory, unless mentioned otherwise.
-> - At any point, before submitting the account creation request, click Save Draft to save the specified account details as a draft.
+> - At any point, before submitting the account creation request, click **Save Draft** to save the specified account details as a draft.
 > - You can access the saved draft within 14 days to continue with the account creation request.
 
 
@@ -120,7 +126,7 @@ Have the following information ready before proceeding:
 
   </details>
 
-## Step 3. Select SGTS products for subscription
+## Step 3 - Select SGTS products for subscription
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products for subscription</summary>
@@ -129,11 +135,11 @@ Have the following information ready before proceeding:
 **To select SGTS products for subscription**
 
 
-1. In **Select product(s)**, choose the required **SGTS products** and click **Next**.
+In **Select product(s)**, choose the required **SGTS products** and click **Next**.
 
   </details>
 
-## Step 4. Select plans for subscription
+## Step 4 - Select plans for subscription
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to select plans for subscription</summary>
@@ -158,10 +164,11 @@ Have the following information ready before proceeding:
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 
-4. If you are subscribing to more than one SGTS product, repeat **steps 12-14** and click **Next**.
+4. If you are subscribing to more than one SGTS product, repeat **steps 2-3** and click **Next**.
+
   </details>
 
-## Step 5. Enter approval details 
+## Step 5 - Enter approval details 
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to enter approver details</summary>
@@ -177,11 +184,11 @@ Have the following information ready before proceeding:
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
 | **Approver name, email, and designation** | Enter the approver's full name, organisation email address, and designation. |
-| **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
+| **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request.</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
 | **Remarks to Approver** | This field is optional.</br></br> Specify the reasons for submitting this request.|
 
 
-## Step 6. Submit subscription account request
+## Step 6 - Submit subscription account request
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to submit subscription account request</summary>

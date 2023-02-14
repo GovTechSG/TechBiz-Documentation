@@ -1,6 +1,15 @@
 # Request for TechBiz subscription account
 
-This section guides how Public officers can request for a TechBiz subscription account.
+Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md).
+
+This document guides you to the following:
+
+- [Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet](#step-1---agree-to-the-terms-and-conditions-of-the-govtech-universal-service-terms-and-sgts-service-sheet)
+- [Step 2 - Enter subscription account details](#step-2---enter-subscription-account-details)
+- [Step 3 - Select SGTS products for subscription](#step-3---select-sgts-products-for-subscription)
+- [Step 4 - Select plans for subscription](#step-4---select-plans-for-subscription)
+- [Step 5 - Enter approval details](#step-5---enter-approval-details)
+- [Step 6 - Submit subscription account request](#step-6---submit-subscription-account-request)
 
 ## Audience 
 
@@ -17,23 +26,23 @@ The following table tells you the different types of admins in TechBiz portal.
 
 ## Prerequisites
 
-- Public officers using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device can create an account.
+- Public officers using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device can create a subscription account.
 
 Have the following information ready before proceeding:
-- Name, organisation email address and handphone number
+- Name, organisational email address and handphone number
  - **Primary subscription admin**
  - **Secondary subscription admin**
  - **Billing admin**
 - Name, organisation email address, and designation
  - **Approver** (Deputy Director or above)
-- Account name
- - Billing details
+- Subscription account name
+- Billing details
   - **Sub business unit (SBU)**
   - **Agency department** name, **Cost centre** and **Fund centre**. (Only for GovTech)
  - Subscription plans for the required SGTS product(s).
  - Supporting documents. (Optional)
 
-## Step 1. Request for TechBiz subscription account
+## Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet</summary>
@@ -56,7 +65,7 @@ Have the following information ready before proceeding:
 
   </details>
 
-## Step 2. Enter subscription account details
+## Step 2 - Enter subscription account details
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Enter subscription account details</summary>
@@ -69,7 +78,7 @@ Have the following information ready before proceeding:
 
 > **Notes:**
 > - All fields are mandatory, unless mentioned otherwise.
-> - At any point, before submitting the account creation request, click Save Draft to save the specified account details as a draft.
+> - At any point, before submitting the account creation request, click **Save Draft** to save the specified account details as a draft.
 > - You can access the saved draft within 14 days to continue with the account creation request.
 
 
@@ -117,26 +126,37 @@ Have the following information ready before proceeding:
 
   </details>
 
-## Step 3. Select SGTS products and plans
+## Step 3 - Select SGTS products for subscription
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products and plans for subscription</summary>
+  <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products for subscription</summary>
     
 
 **To select SGTS products for subscription**
 
 
-1. In **Select product(s)**, choose the required **SGTS products** and click **Next**.
+In **Select product(s)**, choose the required **SGTS products** and click **Next**.
 
-2. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS products.
+  </details>
+
+## Step 4 - Select plans for subscription
+
+<details>
+  <summary style="font-size:20px;font-weight:bold">Steps to select plans for subscription</summary>
+    
+
+**To select SGTS products for subscription**
+
+
+1. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS products.
 
 > **Note:** There is a tab for each SGTS product that you have selected.
 
-3. By default, the date displayed is automatically generated. Click **Start date** to select the required date.
+2. By default, the date displayed is automatically generated. Click **Start date** to select the required date.
 
 > **Note:** For more information, refer to the field description table.
 
-4. In **Select a plan**, provide the subscription plan details.
+3. In **Select a plan**, provide the subscription plan details.
 
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
@@ -144,15 +164,16 @@ Have the following information ready before proceeding:
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 
-5. If you are subscribing to more than one SGTS product, repeat **steps 12-14** and click **Next**.
+4. If you are subscribing to more than one SGTS product, repeat **steps 2-3** and click **Next**.
 
-## Step 4. Enter approval details and submit subscription account request
+  </details>
+
+## Step 5 - Enter approval details 
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to enter approver details</summary>
-    
 
-**To enter approver details and submit subscription account request**
+**To enter approver details**
 
 1. In **Approver details**, enter the required information and click **Next**.
 
@@ -163,13 +184,22 @@ Have the following information ready before proceeding:
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
 | **Approver name, email, and designation** | Enter the approver's full name, organisation email address, and designation. |
-| **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
+| **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request.</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
 | **Remarks to Approver** | This field is optional.</br></br> Specify the reasons for submitting this request.|
 
-2. Verify if the information displayed on this page is correct and click **Submit**.
 
-3. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
+## Step 6 - Submit subscription account request
 
-A confirmation message is displayed to verify that the account has been submitted for approval.
+<details>
+  <summary style="font-size:20px;font-weight:bold">Steps to submit subscription account request</summary>
+    
+
+**To submit subscription account request**
+
+1. In **Summary**, verify if the information displayed on this page is correct and click **Submit**.
+
+2. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
+
+A confirmation message is displayed to verify that the subscription account has been submitted for approval.
 
  </details>

@@ -187,9 +187,9 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 | **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request.</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
 | **Remarks to Approver** | This field is optional.</br></br> Specify the reasons for submitting this request.|
 
- </details>
- 
- 
+
+  </details>
+
 ## Step 6 - Submit subscription account request
 
 <details>

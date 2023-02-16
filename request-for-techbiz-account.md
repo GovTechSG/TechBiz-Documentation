@@ -189,6 +189,7 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 
  </details>
  
+ 
 ## Step 6 - Submit subscription account request
 
 <details>

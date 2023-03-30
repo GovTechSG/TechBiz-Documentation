@@ -1,15 +1,21 @@
-# Request for TechBiz subscription account
+# Create subscription account
+
+To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to have an account in TechBiz.
+
+A TechBiz account allows agencies to subscribe to SGTS products, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
+
+> **Note**: Agencies can opt for one account with multiple systems or multiple accounts for each system. Refer to [FAQs](faq.md) for more information.
 
 Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md).
 
 This document guides you to the following:
 
-- [Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet](#step-1---agree-to-the-terms-and-conditions-of-the-govtech-universal-service-terms-and-sgts-service-sheet)
-- [Step 2 - Enter subscription account details](#step-2---enter-subscription-account-details)
-- [Step 3 - Select SGTS products for subscription](#step-3---select-sgts-products-for-subscription)
-- [Step 4 - Select plans for subscription](#step-4---select-plans-for-subscription)
-- [Step 5 - Enter approval details](#step-5---enter-approval-details)
-- [Step 6 - Submit subscription account request](#step-6---submit-subscription-account-request)
+- [Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet](#step-1-agree-to-the-terms-and-conditions-of-the-govtech-universal-service-terms-and-sgts-service-sheet)
+- [Step 2 - Enter subscription account details](#step-2-enter-subscription-account-details)
+- [Step 3 - Select SGTS products for subscription](#step-3-select-sgts-products-for-subscription)
+- [Step 4 - Select plans for subscription](#step-4-select-plans-for-subscription)
+- [Step 5 - Enter approval details](#step-5-enter-approval-details)
+- [Step 6 - Submit subscription account request](#step-6-submit-subscription-account-request)
 
 ## Audience 
 

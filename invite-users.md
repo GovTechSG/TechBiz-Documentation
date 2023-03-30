@@ -1,5 +1,4 @@
-# Create TechPass accounts for public officers and vendors
-
+# Create TechPass accounts
 Public officers can now use TechBiz portal to invite and create [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) account for other public officers and vendors, and invite them to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
 
 There are three ways a public officer can create TechPass account for other users:

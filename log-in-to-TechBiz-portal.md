@@ -27,6 +27,8 @@ This document guides you to do the following:
 
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
 2.  Click **Log in with TechPass**.
+
+![login-tp](images/login-tp.png)
 3.  Follow the on-screen instructions and approve your sign-in.
 
 ## Log in with TechPass OTP
@@ -35,8 +37,16 @@ Public officers whose organisational email address format is \<your_name>@\<acro
 
 1.  Go to the [TechBiz portal](http://portal.techbiz.suite.gov.sg/).
 2.  Click **Get Started**.
+
+![login-otp-tp](images/login-tp-otp.png)
+
 3.  Enter your organisational email address in **Email** and click **Next**. You will receive an OTP at this email address.
+
+![email](images/enter-email-otp.png)
+
 4.  Enter the **OTP** and click **Submit** to log in to the TechBiz portal.
+
+![submit](images/get-otp.png)
 
 You are now logged in to the TechBiz portal.
 

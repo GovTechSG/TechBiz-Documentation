@@ -10,6 +10,6 @@ When a public officer submits a request to create an account, the **Approver** r
 2. Respond to the email indicating **Approved** or **Rejected**. Select the **Reply All** option in order to complete the approval process.
 
 > **Note**
-- The requestor will be notified through email. 
-- The **subscription** and **billing admins** will also be notified. 
-- The account's status is displayed as **approved** when the request is approved.
+> - The requestor will be notified through email. 
+> - The **subscription** and **billing admins** will also be notified. 
+> - The account's status is displayed as **approved** when the request is approved.

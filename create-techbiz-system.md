@@ -1,4 +1,4 @@
-# Create TechBiz system
+# Create system
 
 This sections guides how subscription admins can create a TechBiz system using a TechBiz account.
 

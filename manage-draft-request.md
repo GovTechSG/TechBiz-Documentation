@@ -1,4 +1,4 @@
-## Edit and submit draft request
+## Edit and submit draft
 
 This section guides how Primary subscription admin can continue with the draft and submit the completed draft.
 
@@ -13,7 +13,7 @@ This section guides how Primary subscription admin can continue with the draft a
 - A **TechBiz account** in draft status.
 - The draft account creation request must be submitted within 14 days from the date it was first saved. 
 
-## Edit and submit draft request
+## Edit and submit draft
 
 The primary subscription admin can continue editing a draft account creation request and submit it. 
 

@@ -1,4 +1,4 @@
-# Manage TechBiz account
+# Manage account
 
 ## Overview
 

@@ -88,7 +88,7 @@ Subscription admins can subscribe to other SGTS products using TechBiz portal.
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
-4. Click **SUBSCRIPTIONS** tab \> **Add subscription**.
+4. Click **SUBSCRIBED PRODUCTS** tab \> **Add subscription**.
 
 <kbd><img src="images/add-sub.png" alt="drawing" width="100%"/></kbd>
 

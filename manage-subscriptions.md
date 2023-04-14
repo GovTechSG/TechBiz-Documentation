@@ -29,11 +29,15 @@ Billing and subscription admins can view the subscription plans and their detail
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
-4. Click **SUBSCRIPTIONS** tab.
+4. Click **SUBSCRIBED PRODUCTS** tab.
 
 <kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
 
-5. To view the plan details of a SGTS product, select the required product and click the **Plan name**.
+5. Select the required product to edit. For example, SHIP-HATS.
+
+<kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
+
+6. To view the plan details of a SGTS product, select the required product and click the **Plan name**.
 
 <kbd><img src="images/view-sub.png" alt="drawing" width="100%"/></kbd>
 
@@ -52,25 +56,28 @@ The **Plan details** are displayed.
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
-4. Click **SUBSCRIPTIONS** tab.
-5. Select the required product to edit. For example, SHIP-HATS.
+4. Click **SUBSCRIBED PRODUCTS** tab.
 
 <kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
 
-11. Click **Edit subscription**.
+5. Select the required product to edit. For example, SHIP-HATS.
+
+<kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
+
+6. Click **Edit subscription**.
 
 <kbd><img src="images/edit-sub.png" alt="drawing" width="100%"/></kbd>
 
-12. You can edit the **Start date,** increase plans and add-ons. To decrease a plan, contact the respective SGTS support team.
-13. Click **Next**.
+7. You can increase plans and add-ons. To decrease a plan, contact the respective SGTS support team.
+8. Click **Next**.
 
 <kbd><img src="images/change-sub-next.png" alt="drawing" width="100%"/></kbd>
 
-14. Review the changes and click **Submit**.
+9. Review the changes and click **Submit**.
 
 <kbd><img src="images/change-sub-submit.png" alt="drawing" width="100%"/></kbd>
 
-15. When prompted to confirm the changes, click **Confirm**.
+10. When prompted to confirm the changes, click **Confirm**.
 
 ## Subscribe to other SGTS products
 
@@ -87,7 +94,7 @@ Subscription admins can subscribe to other SGTS products using TechBiz portal.
 
 5. Select the required SGTS products and click **Next**.
 
-For more information, go to [**Request for TechBiz account**](request-for-techbiz-account.md) and follow from step 11 onwards to complete the subscription.
+For more information, go to [**Create subscription account**](request-for-techbiz-account.md) and follow from step 11 onwards to complete the subscription.
 
 ## Cancel subscription
 

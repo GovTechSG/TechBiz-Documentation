@@ -37,6 +37,8 @@ Subscription and technical admins can control user access to the SGTS products t
 
 7. Click **Manage** \> **Add users**.
 
+<kbd><img src="images/user-manage-add.png" alt="drawing" width="100%"/></kbd>
+
 > **Note:**
 > - The usage count is linked to the corresponding subscription plan.
 > - **Usage count** displays the quantity of assigned users and the maximum number of concurrent users authorised. For example, a count of 2/33 indicates that 2 out of the total 33 subscribed users have been assigned.
@@ -50,6 +52,25 @@ Subscription and technical admins can control user access to the SGTS products t
 9. Click **Submit**.
 
 <kbd><img src="images/submit-user.png" alt="drawing" width="100%"/></kbd>
+
+**To add multiple users**
+
+1. Click **Batch upload**.
+
+<kbd><img src="images/batch-upload-man.png" alt="drawing" width="100%"/></kbd>
+
+2. Download the **excel template**. Enter the required details on the excel sheet and save the file.
+
+<kbd><img src="images/excel-batch.png" alt="drawing" width="100%"/></kbd>
+
+3. Click **Choose a file**. Select the required file.
+
+<kbd><img src="images/choose-file-batch.png" alt="drawing" width="100%"/></kbd>
+
+4. Click **Submit**.
+
+<kbd><img src="images/submit-batch.png" alt="drawing" width="100%"/></kbd>
+
 
 **To remove users**
 

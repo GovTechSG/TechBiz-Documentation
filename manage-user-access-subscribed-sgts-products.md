@@ -72,9 +72,9 @@ Subscription and technical admins can control user access to the SGTS products t
 <kbd><img src="images/submit-batch.png" alt="drawing" width="100%"/></kbd>
 
 
-**To remove users**
+**To remove a user**
 
-1. From the sidebar, click **Accounts.**
+1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
 4. Click **USER MANAGEMENT** tab.
@@ -93,3 +93,17 @@ Subscription and technical admins can control user access to the SGTS products t
 <kbd><img src="images/confirm-delete-user.png" alt="drawing" width="100%"/></kbd>
 
 The user record is removed from the **Users** list.
+
+**To delete multiple users**
+
+1. Select the users.
+
+<kbd><img src="images/remove-selected.png" alt="drawing" width="100%"/></kbd>
+
+2. Click **Remove selected**.
+
+<kbd><img src="images/remove-selected-confirm.png" alt="drawing" width="100%"/></kbd>
+
+3. Click **Confirm**.
+
+A confirmation message is displayed. 

@@ -26,10 +26,13 @@ Subscription and technical admins can control user access to the SGTS products t
 
 **To add users**
 
-1. From the sidebar, click **Accounts.**
+1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
 4. Click **USER MANAGEMENT** tab.
+
+<kbd><img src="images/user-man.png" alt="drawing" width="100%"/></kbd>
+
 5. Select the required product from the **Products** dropdown list to select the SGTS product tools to manage.
 6. Select the required tool to add users. For example, GitLab.
 
@@ -94,7 +97,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 The user record is removed from the **Users** list.
 
-**To delete multiple users**
+**To remove multiple users**
 
 1. Select the users.
 

@@ -45,6 +45,8 @@ Subscription and technical admins can control user access to the SGTS products t
 > **Note:**
 > - The usage count is linked to the corresponding subscription plan.
 > - **Usage count** displays the quantity of assigned users and the maximum number of concurrent users authorised. For example, a count of 2/33 indicates that 2 out of the total 33 subscribed users have been assigned.
+
+
 8. Enter the name or email address of the user.
 
 <kbd><img src="images/add-users-mgmt.png" alt="drawing" width="100%"/></kbd>

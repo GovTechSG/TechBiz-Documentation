@@ -45,12 +45,14 @@ Subscription and technical admins can control user access to the SGTS products t
 > **Note:**
 > - The usage count is linked to the corresponding subscription plan.
 > - **Usage count** displays the quantity of assigned users and the maximum number of concurrent users authorised. For example, a count of 2/33 indicates that 2 out of the total 33 subscribed users have been assigned.
-
 8. Enter the name or email address of the user.
 
 <kbd><img src="images/add-users-mgmt.png" alt="drawing" width="100%"/></kbd>
 
-> **Note:** User needs to have a TechPass account for their names to appear in the dropdown list.
+> **Note:** 
+> - User needs to have a TechPass account for their names to appear in the dropdown list.
+> - Each user can only be added to one subscription account. Attempting to add a user to multiple subscription accounts will result in an error. 
+> - To add a user to a specific service, such as GitLab, Atlassian, SonarQube, or others, the user needs to access the service itself and configure their user account accordingly. Each service may have its own dedicated user management interface or settings panel where users can add, modify, or remove user accounts.
 
 9. Click **Submit**.
 
@@ -74,6 +76,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 <kbd><img src="images/submit-batch.png" alt="drawing" width="100%"/></kbd>
 
+> **Note**: Admins may encounter common errors such as users already associated with another subscription account, users without a TechPass account, and incorrect email addresses.
 
 **To remove a user**
 

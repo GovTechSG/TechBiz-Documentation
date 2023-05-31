@@ -25,7 +25,6 @@ Following roles and permissions are available for agencies to administer their s
 - Manage users
 - Provide product configuration details
 - View subscription details
-- View billing details
 
 ## Billing admin permissions
 

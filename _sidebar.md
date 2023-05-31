@@ -23,4 +23,4 @@
 **Resources**
 - [FAQs](faq.md)
 - [Glossary](glossary.md)
-
+- [What's New](whats-new/2023.md)

@@ -2,9 +2,10 @@
 
 ## Overview
 
-This section guides how subscription admins can edit and manage approved TechBiz account(s).
+This section guides how subscription admins can edit, manage approved TechBiz account(s) and view approver details and submitted attachments when required..
 
 - [Change subscription admins and billing admins](#change-subscription-admins-and-billing-information)
+- [View approver details and submitted attachments](#view-approver-details-and-attachments)
 
 ## Audience
 
@@ -19,11 +20,9 @@ This section guides how subscription admins can edit and manage approved TechBiz
 - You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
 - An approved [**TechBiz account**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account).
 
-## Change subscription admins and billing information
+### Change subscription admins and billing information
 
 **Subscription admins** can remove and add a new subscription admin or update the billing information.
-
-**To change the subscription admin or the billing info of a TechBiz account**
 
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
@@ -44,3 +43,26 @@ This section guides how subscription admins can edit and manage approved TechBiz
 8. Click **Submit**.
 
 A confirmation message is displayed.
+
+
+### View approver details and submitted attachments
+
+
+1. From the sidebar, click **Accounts**.
+2. Select the required status from **Status** dropdown list to view all the accounts in the required status.
+3. Select the required account.
+4. Click **APPROVED BY** tab to view approver details.
+
+The following details are displayed.
+
+<kbd><img src="images/approved-by.png" alt="drawing" width="100%"/></kbd>
+
+> **Note:** Click **View and download summary to** download the details in .pdf file.
+
+5. Click **ATTACHMENTS** tab to view the submitted attachments.
+
+The following details are displayed.
+
+<kbd><img src="images/view-att.png" alt="drawing" width="100%"/></kbd>
+
+6. Click the attachments in the item list to download the files.

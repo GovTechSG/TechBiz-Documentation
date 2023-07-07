@@ -4,7 +4,7 @@
     - [What's New](whats-new/2023.md)
 - **Getting started**
     - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
-    - [Create subscription account](request-for-techbiz-account.md)
+    - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
     - [Create system](create-techbiz-system.md)
     - [Manage system](manage-techbiz-system.md)
     - [Manage account](manage-techbiz-account.md)
@@ -12,10 +12,7 @@
     - [Add and configure products](add-and-configure-products.md)
 - **Additional features**
     - [Create TechPass accounts](invite-users.md)
-    - [Manage draft request](manage-draft-request.md)
     - [Approve or reject account request](approve-or-reject-techbiz-account.md)
-    - [Send reminder for Account Request](send-reminder-for-account-approval.md)
-    - [Resubmit Account Request](resubmit-techbiz-account-application.md)
     - [View approver details](view-approver-details-and-attachments.md)
     - [Notifications](notifications.md)
 

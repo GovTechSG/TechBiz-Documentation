@@ -62,7 +62,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 **To add multiple users**
 
-1. Click **Batch upload**.
+1. Click **Batch add**.
 
 <kbd><img src="images/batch-upload-man.png" alt="drawing" width="100%"/></kbd>
 

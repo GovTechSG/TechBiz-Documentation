@@ -1,3 +1,3 @@
-- **What's New**
+- **What's new**
   - [2023](./whats-new/2023.md)
   - [Back to main](/)

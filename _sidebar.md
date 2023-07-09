@@ -1,7 +1,7 @@
 - **Overview**
     - [Home](home.md)
     - [Overview](techBiz-overview.md)
-    - [What's New](whats-new/2023.md)
+    - [What's new](whats-new/2023.md)
 - **Getting started**
     - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
     - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
@@ -19,3 +19,4 @@
 - **Support**
     - [FAQs](faq.md)
     - [Glossary](glossary.md)
+    - [Terms and policies](tnp.md)

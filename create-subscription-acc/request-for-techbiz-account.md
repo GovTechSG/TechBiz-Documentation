@@ -8,15 +8,6 @@ A TechBiz account allows agencies to subscribe to SGTS products, add systems to 
 
 Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md).
 
-This document guides you to the following:
-
-- [Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet](#step-1-agree-to-the-terms-and-conditions-of-the-govtech-universal-service-terms-and-sgts-service-sheet)
-- [Step 2 - Enter subscription account details](#step-2-enter-subscription-account-details)
-- [Step 3 - Select SGTS products for subscription](#step-3-select-sgts-products-for-subscription)
-- [Step 4 - Select plans for subscription](#step-4-select-plans-for-subscription)
-- [Step 5 - Enter approval details](#step-5-enter-approval-details)
-- [Step 6 - Submit subscription account request](#step-6-submit-subscription-account-request)
-
 ## Audience 
 
 - Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
@@ -49,12 +40,6 @@ Have the following information ready before proceeding:
  - Supporting documents. (Optional)
 
 ## Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet</summary>
-    
-
-**To agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet**
  
 
 1. From the sidebar, click **Subscription accounts** > **Create subscription account**.
@@ -69,16 +54,8 @@ Have the following information ready before proceeding:
 
 <kbd><img src="images/ust.png" alt="drawing" width="100%"/></kbd>
 
-  </details>
 
 ## Step 2 - Enter subscription account details
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">Enter subscription account details</summary>
-    
-
-**To enter subscription account details**
-
 
 1. Enter the following **Account details**.
 
@@ -130,28 +107,15 @@ Have the following information ready before proceeding:
 
 4. Click **Next**.
 
-  </details>
+
 
 ## Step 3 - Select SGTS products for subscription
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">Steps to select SGTS products for subscription</summary>
-    
-
-**To select SGTS products for subscription**
 
 
 In **Select product(s)**, choose the required **SGTS products** and click **Next**.
 
-  </details>
 
 ## Step 4 - Select plans for subscription
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">Steps to select plans for subscription</summary>
-    
-
-**To select SGTS products for subscription**
 
 
 1. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS products.
@@ -172,14 +136,10 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 
 4. If you are subscribing to more than one SGTS product, repeat **steps 2-3** and click **Next**.
 
-  </details>
+
 
 ## Step 5 - Enter approval details 
 
-<details>
-  <summary style="font-size:20px;font-weight:bold">Steps to enter approver details</summary>
-
-**To enter approver details**
 
 1. In **Approver details**, enter the required information and click **Next**.
 
@@ -194,15 +154,9 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 | **Remarks to Approver** | This field is optional.</br></br> Specify the reasons for submitting this request.|
 
 
-  </details>
 
 ## Step 6 - Submit subscription account request
 
-<details>
-  <summary style="font-size:20px;font-weight:bold">Steps to submit subscription account request</summary>
-    
-
-**To submit subscription account request**
 
 1. In **Summary**, verify if the information displayed on this page is correct and click **Submit**.
 
@@ -210,4 +164,3 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 
 A confirmation message is displayed to verify that the subscription account has been submitted for approval.
 
- </details>

@@ -1,4 +1,4 @@
-# Manage account
+# Manage subscription account
 
 ## Overview
 

@@ -39,7 +39,7 @@ Have the following information ready before proceeding:
  - Subscription plans for the required SGTS product(s).
  - Supporting documents. (Optional)
 
-## Step 1 - Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
+## Step 1: Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
  
 
 1. From the sidebar, click **Subscription accounts** > **Create subscription account**.
@@ -55,7 +55,7 @@ Have the following information ready before proceeding:
 <kbd><img src="images/ust.png" alt="drawing" width="100%"/></kbd>
 
 
-## Step 2 - Enter subscription account details
+## Step 2: Enter subscription account details
 
 1. Enter the following **Account details**.
 
@@ -109,13 +109,13 @@ Have the following information ready before proceeding:
 
 
 
-## Step 3 - Select SGTS products for subscription
+## Step 3: Select SGTS products for subscription
 
 
 In **Select product(s)**, choose the required **SGTS products** and click **Next**.
 
 
-## Step 4 - Select plans for subscription
+## Step 4: Select subscription plans
 
 
 1. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS products.
@@ -138,7 +138,7 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 
 
 
-## Step 5 - Enter approval details 
+## Step 5: Enter approver details 
 
 
 1. In **Approver details**, enter the required information and click **Next**.
@@ -155,7 +155,7 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 
 
 
-## Step 6 - Submit subscription account request
+## Step 6: Submit subscription account request
 
 
 1. In **Summary**, verify if the information displayed on this page is correct and click **Submit**.

@@ -1,6 +1,6 @@
 # Add and configure products
 
-Agencies need to add the subscribed SGTS products required for the system(s) and configure the products for each TechBiz system.
+Agencies need to add the subscribed SGTS services required for the system(s) and configure the services for each TechBiz system.
 
 **To add and configure subscribed products**
 
@@ -10,7 +10,7 @@ Agencies need to add the subscribed SGTS products required for the system(s) and
 4. Choose the required system and click **Manage**.
 5. Go to **PRODUCTS** \> **Add Products**.
 
-> **Note:** Each SGTS product will have different requirements for product configuration. Click the triangle to view product configuration instructions for the required SGTS products.
+> **Note:** Each SGTS service will have different requirements for product configuration. Click the triangle to view product configuration instructions for the required SGTS service.
 
 <details>
   <summary style="font-size:20px;font-weight:bold">SHIP-HATS</summary>

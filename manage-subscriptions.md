@@ -4,7 +4,7 @@ This section guides how subscription admins can do the following for an existing
 
 - [View subscription details](#view-subscription-details)
 - [Edit subscription details](#edit-subscription-details)
-- [Subscribe to other SGTS products](#subscribe-to-other-sgts-products)
+- [Subscribe to other SGTS services](#subscribe-to-other-sgts-services)
 - [Cancel subscription](#cancel-subscription)
 
 ## Audience
@@ -22,7 +22,7 @@ This section guides how subscription admins can do the following for an existing
 
 ## View subscription details
 
-Billing and subscription admins can view the subscription plans and their details of the SGTS products subscribed using a TechBiz account.
+Billing and subscription admins can view the subscription plans and their details of the SGTS services subscribed using a TechBiz account.
 
 **To view the subscription details of a TechBiz account**
 
@@ -33,11 +33,11 @@ Billing and subscription admins can view the subscription plans and their detail
 
 <kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required product to edit. For example, SHIP-HATS.
+5. Select the required services to edit. For example, SHIP-HATS.
 
 <kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
 
-6. To view the plan details of a SGTS product, select the required product and click the **Plan name**.
+6. To view the plan details of a SGTS service, select the required service and click the **Plan name**.
 
 <kbd><img src="images/view-sub.png" alt="drawing" width="100%"/></kbd>
 
@@ -49,7 +49,7 @@ The **Plan details** are displayed.
 
 ## Edit subscription details
 
-**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS products to the existing subscriptions](#subscribe-to-other-sgts-products).
+**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS services to the existing subscriptions](#subscribe-to-other-sgts-services).
 
 **To edit subscription details of a TechBiz account**
 
@@ -60,7 +60,7 @@ The **Plan details** are displayed.
 
 <kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required product to edit. For example, SHIP-HATS.
+5. Select the required service to edit. For example, SHIP-HATS.
 
 <kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
 
@@ -79,9 +79,9 @@ The **Plan details** are displayed.
 
 10. When prompted to confirm the changes, click **Confirm**.
 
-## Subscribe to other SGTS products
+## Subscribe to other SGTS services
 
-Subscription admins can subscribe to other SGTS products using TechBiz portal.
+Subscription admins can subscribe to other SGTS services using TechBiz portal.
 
 **To subscribe to other SGTS products**
 
@@ -92,7 +92,7 @@ Subscription admins can subscribe to other SGTS products using TechBiz portal.
 
 <kbd><img src="images/add-sub.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required SGTS products and click **Next**.
+5. Select the required SGTS services and click **Next**.
 
 For more information, go to [**Create subscription account**](request-for-techbiz-account.md) and follow from step 4 onwards to complete the subscription.
 

@@ -13,7 +13,7 @@ Government standard image build (GSIB) is a standard operating environment (SOE)
 A non-secured email (SE) GSIB device.
 
 **Account**
-A TechBiz account allows agencies to subscribe to SGTS products, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
+A TechBiz account allows agencies to subscribe to SGTS services, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
 
 **System**
 

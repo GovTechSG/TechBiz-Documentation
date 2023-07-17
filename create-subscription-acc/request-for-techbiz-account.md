@@ -2,7 +2,7 @@
 
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) services, agencies need to have an account in TechBiz.
 
-A TechBiz account allows agencies to subscribe to SGTS products, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
+A TechBiz account allows agencies to subscribe to SGTS services, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
 
 > **Note**: Agencies can opt for one account with multiple systems or multiple accounts for each system. Refer to [FAQs](faq.md) for more information.
 
@@ -69,7 +69,7 @@ Have the following information ready before proceeding:
 | :------------------------------------------ | ------------------ |
 | **Agency name** | Select your agency name from the drop-down list. |
 | **Account name** | Enter the account name.</br>Account name can only contain alphanumeric characters. |
-| **Account ID** | A unique **Account ID** is automatically generated and cannot be edited. Your **Account ID** is common across all SGTS products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account ID** |
+| **Account ID** | A unique **Account ID** is automatically generated and cannot be edited. Your **Account ID** is common across all SGTS services that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account ID** |
 
 2. Enter the **Subscription admins** details.
 
@@ -109,18 +109,18 @@ Have the following information ready before proceeding:
 
 
 
-## Step 3: Select SGTS products for subscription
+## Step 3: Select SGTS services for subscription
 
 
-In **Select product(s)**, choose the required **SGTS products** and click **Next**.
+In **Select product(s)**, choose the required **SGTS service(s)** and click **Next**.
 
 
 ## Step 4: Select subscription plans
 
 
-1. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS products.
+1. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS service(s).
 
-> **Note:** There is a tab for each SGTS product that you have selected.
+> **Note:** There is a tab for each SGTS service that you have selected.
 
 2. By default, the date displayed is automatically generated. Click **Start date** to select the required date.
 
@@ -130,7 +130,7 @@ In **Select product(s)**, choose the required **SGTS products** and click **Next
 
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
-| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS products. |
+| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS services. |
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a product and their charges. |
 

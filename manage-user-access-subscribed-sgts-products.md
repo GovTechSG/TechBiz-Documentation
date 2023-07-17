@@ -1,6 +1,6 @@
 # Manage user access
 
-Subscription and technical admins can control user access to the SGTS services they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
+Subscription and technical admins can control user access to the SGTS Services they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
@@ -20,7 +20,7 @@ Subscription and technical admins can control user access to the SGTS services t
 
 ## Add or remove users
 
-Subscription and technical admins can control user access to the SGTS services they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
+Subscription and technical admins can control user access to the SGTS Services they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 

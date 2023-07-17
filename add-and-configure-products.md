@@ -1,6 +1,6 @@
 # Add and configure products
 
-Agencies need to add the subscribed SGTS services required for the system(s) and configure the services for each TechBiz system.
+Agencies need to add the subscribed SGTS Services required for the system(s) and configure the Services for each TechBiz system.
 
 **To add and configure subscribed products**
 

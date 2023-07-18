@@ -34,7 +34,7 @@ This sections guides how subscription admins can create a TechBiz system using a
 | **TechBiz system ID** | A unique TechBiz system ID is automatically generated and cannot be edited. The TechBiz system ID is common across all subscribed SGTS products under this account. |
 | **System Description** | Enter the description of the system. |
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes** , **I have a DGP ID** or **No, I do not have a DGP ID**. </br> </br> **Note:** Refer to [FAQ](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/faq) for more information. |
-| **Sub-system ID and description** | The sub-system DGP ID and description will be available if **Yes, I have a DGP ID** is selected. Select your DGP System ID. The System description will automatically appear. </br></br> **Note:** If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it when it is available. |
+| **Sub-system ID and description** | The sub-system DGP ID and description will be available if **Yes, I have a DGP ID** is selected. Select your DGP System ID. The System description will automatically appear. </br></br> **Note:** If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it when it is available. <br><br> For more information, approach your assigned DGP Agency Coordinator. Refer to [Role of Agency Coordinator and Contributor](https://ssp.dgp.tech.gov.sg/Faq) </br></br> |
 
 6. Enter the **technical admin** details.
 

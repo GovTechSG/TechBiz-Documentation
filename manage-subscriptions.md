@@ -4,7 +4,7 @@ This section guides how subscription admins can do the following for an existing
 
 - [View subscription details](#view-subscription-details)
 - [Edit subscription details](#edit-subscription-details)
-- [Subscribe to other SGTS Services](#subscribe-to-other-sgts-services)
+- [Subscribe to other SGTS Products](#subscribe-to-other-sgts-products)
 - [Cancel subscription](#cancel-subscription)
 
 ## Audience
@@ -22,7 +22,7 @@ This section guides how subscription admins can do the following for an existing
 
 ## View subscription details
 
-Billing and subscription admins can view the subscription plans and their details of the SGTS Services subscribed using a TechBiz account.
+Billing and subscription admins can view the subscription plans and their details of the SGTS Products subscribed using a TechBiz account.
 
 **To view the subscription details of a TechBiz account**
 
@@ -49,7 +49,7 @@ The **Plan details** are displayed.
 
 ## Edit subscription details
 
-**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS Services to the existing subscriptions](#subscribe-to-other-sgts-services).
+**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS Products to the existing subscriptions](#subscribe-to-other-sgts-products).
 
 **To edit subscription details of a TechBiz account**
 
@@ -79,9 +79,9 @@ The **Plan details** are displayed.
 
 10. When prompted to confirm the changes, click **Confirm**.
 
-## Subscribe to other SGTS Services
+## Subscribe to other SGTS Products
 
-Subscription admins can subscribe to other SGTS Services using TechBiz portal.
+Subscription admins can subscribe to other SGTS Products using TechBiz portal.
 
 **To subscribe to other SGTS products**
 
@@ -92,7 +92,7 @@ Subscription admins can subscribe to other SGTS Services using TechBiz portal.
 
 <kbd><img src="images/add-sub.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required SGTS Services and click **Next**.
+5. Select the required SGTS Products and click **Next**.
 
 For more information, go to [**Create subscription account**](request-for-techbiz-account.md) and follow from step 4 onwards to complete the subscription.
 

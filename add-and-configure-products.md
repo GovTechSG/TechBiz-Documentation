@@ -45,4 +45,7 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
 
 10. Verify if the information displayed is correct before clicking **Submit**. When the Elastic deployment is successfully provisioned, the subscription and billing admins are notified via email. This email has the high-level configuration details attached in the .csv format.
 
+> **Note**: 	
+**Sizing details** is displayed only when you specify the deployment size. When you select the required size, you can see the memory size(MB) and storage size(GB) that will be provisioned for this deployment under **Sizing details**. It also displays the **Instance type** and **Number of zones** that are available for a particular instance.
+
   </details>

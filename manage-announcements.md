@@ -1,6 +1,6 @@
 # Manage announcements
 
-This section guides how administrators can create announcements and manage them on [TechBiz portal.](https://portal.techbiz.suite.gov.sg/) Announcements allow SGTS product owners to broadcast messages on TechBiz portal. It appears as a pop up after a user has logged in to TechBiz portal.
+This section guides how administrators can create announcements and manage them on [TechBiz portal](https://portal.techbiz.suite.gov.sg/). Announcements allow SGTS product owners to broadcast messages on TechBiz portal. It appears as a pop up after a user has logged in to TechBiz portal.
 
 <kbd><img src="images/announcement.png" alt="drawing" width="100%"/></kbd>
 

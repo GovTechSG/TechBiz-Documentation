@@ -1,6 +1,6 @@
 # Manage user access
 
-Subscription and technical admins can control user access to the SGTS Products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
+Subscription and technical admins can control user access to the SGTS Services they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
@@ -20,7 +20,7 @@ Subscription and technical admins can control user access to the SGTS Products t
 
 ## Add or remove users
 
-Subscription and technical admins can control user access to the SGTS Products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
+Subscription and technical admins can control user access to the SGTS Services they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
@@ -33,7 +33,7 @@ Subscription and technical admins can control user access to the SGTS Products t
 
 <kbd><img src="images/user-man.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required product from the **Products** dropdown list to select the SGTS product tools to manage.
+5. Select the required product from the **Services** dropdown list to select the SGTS service tools to manage.
 6. Select the required tool to add users. For example, GitLab.
 
 <kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>
@@ -86,7 +86,7 @@ Subscription and technical admins can control user access to the SGTS Products t
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
 4. Click **USER MANAGEMENT** tab.
-5. Select the required product from the **Products** dropdown list to select the SGTS product tools to manage.
+5. Select the required product from the **Services** dropdown list to select the SGTS product tools to manage.
 6. Select the required tool to remove users. For example, GitLab.
 
 <kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>

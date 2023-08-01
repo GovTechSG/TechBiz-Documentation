@@ -17,7 +17,7 @@ A TechBiz account allows agencies to subscribe to SGTS Services, add systems to 
 
 **System**
 
-A TechBiz system allows agencies to centrally manage and view their SGTS product subscription plans, billing details, and resource usage within a system. An agency can have multiple systems.
+A TechBiz system allows agencies to centrally manage and view their SGTS service subscription plans, billing details, and resource usage within a system. An agency can have multiple systems.
 
 **TechBiz system ID**
  

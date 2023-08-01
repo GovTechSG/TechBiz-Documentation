@@ -134,7 +134,7 @@ In **Select service(s)**, choose the required **SGTS Service(s)** and click **Ne
 | **Product agreement** | Click to view the terms and conditions of the product. |
 | **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a service and their charges. |
 
-4. If you are subscribing to more than one SGTS services, repeat **steps 2-3** and click **Next**.
+4. If you are subscribing to more than one SGTS Service, repeat **steps 2-3** and click **Next**.
 
 
 

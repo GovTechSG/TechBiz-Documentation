@@ -56,7 +56,7 @@ The **Plan details** are displayed.
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
-4. Click **SUBSCRIBED Services** tab.
+4. Click **SUBSCRIBED SERVICES** tab.
 
 <kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
 
@@ -83,7 +83,7 @@ The **Plan details** are displayed.
 
 Subscription admins can subscribe to other SGTS Services using TechBiz portal.
 
-**To subscribe to other SGTS services**
+**To subscribe to other SGTS Services**
 
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.

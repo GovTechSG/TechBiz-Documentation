@@ -1,8 +1,8 @@
-# Add and configure services
+# Add and configure Services
 
 Agencies need to add the subscribed SGTS Services required for the system(s) and configure the Services for each TechBiz system.
 
-**To add and configure subscribed services**
+**To add and configure subscribed Services**
 
 1. From the sidebar, click **Accounts**.
 2. Go to the required TechBiz account.

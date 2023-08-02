@@ -36,7 +36,7 @@ Have the following information ready before proceeding:
 - Billing details
   - **Sub business unit (SBU)**
   - **Agency department** name, **Cost centre** and **Fund centre**. (Only for GovTech)
- - Subscription plans for the required SGTS product(s).
+ - Subscription plans for the required SGTS Services(s).
  - Supporting documents. (Optional)
 
 ## Step 1: Agree to the terms and conditions of the GovTech Universal Service Terms and SGTS Service Sheet
@@ -118,7 +118,7 @@ In **Select service(s)**, choose the required **SGTS Service(s)** and click **Ne
 ## Step 4: Select subscription plans
 
 
-1. In **Select plan(s)**, go to the required product tab and select subscription plans for the selected SGTS Service(s).
+1. In **Select plan(s)**, go to the required Service tab and select subscription plans for the selected SGTS Service(s).
 
 > **Note:** There is a tab for each SGTS Service that you have selected.
 
@@ -131,8 +131,8 @@ In **Select service(s)**, choose the required **SGTS Service(s)** and click **Ne
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
 | **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS Services. |
-| **Product agreement** | Click to view the terms and conditions of the product. |
-| **Select a plan** | Select the required subscription plan for a product.</br></br>The displayed subscription plans contain details of the chargeable items in a service and their charges. |
+| **Service agreement** | Click to view the terms and conditions of the Service. |
+| **Select a plan** | Select the required subscription plan for a service.</br></br>The displayed subscription plans contain details of the chargeable items in a service and their charges. |
 
 4. If you are subscribing to more than one SGTS Service, repeat **steps 2-3** and click **Next**.
 

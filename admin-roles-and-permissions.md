@@ -12,8 +12,8 @@ Following roles and permissions are available for agencies to administer their s
 
 - Create TechBiz subscription accounts and systems
 - Manage users
-- Manage product subscriptions and plans
-- Provide product configuration details
+- Manage Service subscriptions and plans
+- Provide Serviceconfiguration details
 - View subscription details
 - View and edit billing details
 
@@ -23,7 +23,7 @@ Following roles and permissions are available for agencies to administer their s
 
 - Manage TechBiz systems
 - Manage users
-- Provide product configuration details
+- Provide Service configuration details
 - View subscription details
 
 ## Billing admin permissions

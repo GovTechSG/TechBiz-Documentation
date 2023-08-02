@@ -10,7 +10,7 @@ Agencies need to add the subscribed SGTS Services required for the system(s) and
 4. Choose the required system and click **Manage**.
 5. Go to **SERVICES** \> **Add Services**.
 
-> **Note:** Each SGTS service will have different requirements for product configuration. Click the triangle to view product configuration instructions for the required SGTS service.
+> **Note:** Each SGTS Service will have different requirements for Service configuration. Click the triangle to view Service configuration instructions for the required SGTS Service.
 
 <details>
   <summary>SHIP-HATS</summary>

@@ -112,7 +112,7 @@ Have the following information ready before proceeding:
 ## Step 3: Select SGTS Services for subscription
 
 
-In **Select service(s)**, choose the required **SGTS Service(s)** and click **Next**.
+In **Select Service(s)**, choose the required **SGTS Service(s)** and click **Next**.
 
 
 ## Step 4: Select subscription plans
@@ -130,9 +130,9 @@ In **Select service(s)**, choose the required **SGTS Service(s)** and click **Ne
 
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
-| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS Services. |
+| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS Service. |
 | **Service agreement** | Click to view the terms and conditions of the Service. |
-| **Select a plan** | Select the required subscription plan for a service.</br></br>The displayed subscription plans contain details of the chargeable items in a service and their charges. |
+| **Select a plan** | Select the required subscription plan for a Service.</br></br>The displayed subscription plans contain details of the chargeable items in a Service and their charges. |
 
 4. If you are subscribing to more than one SGTS Service, repeat **steps 2-3** and click **Next**.
 

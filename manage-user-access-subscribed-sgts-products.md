@@ -33,7 +33,7 @@ Subscription and technical admins can control user access to the SGTS Services t
 
 <kbd><img src="images/user-man.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required Service from the **Services** dropdown list to select the SGTS service tools to manage.
+5. Select the required Service from the **Services** dropdown list to select the SGTS Service tools to manage.
 6. Select the required tool to add users. For example, GitLab.
 
 <kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>
@@ -54,7 +54,7 @@ Subscription and technical admins can control user access to the SGTS Services t
 > **Note:** 
 > - User needs to have a TechPass account for their names to appear in the dropdown list.
 > - Each user can only be added to one subscription account. Attempting to add a user to multiple subscription accounts will result in an error. 
-> - To add a user to a specific service, such as GitLab, Atlassian, SonarQube, or others, the user needs to access the service itself and configure their user account accordingly. Each service may have its own dedicated user management interface or settings panel where users can add, modify, or remove user accounts.
+> - To add a user to a specific Service, such as GitLab, Atlassian, SonarQube, or others, the user needs to access the Service itself and configure their user account accordingly. Each Service may have its own dedicated user management interface or settings panel where users can add, modify, or remove user accounts.
 
 9. Click **Submit**.
 

@@ -37,7 +37,7 @@ Billing and subscription admins can view the subscription plans and their detail
 
 <kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
 
-6. To view the plan details of a SGTS service, select the required service and click the **Plan name**.
+6. To view the plan details of a SGTS Service, select the required Service and click the **Plan name**.
 
 <kbd><img src="images/view-sub.png" alt="drawing" width="100%"/></kbd>
 

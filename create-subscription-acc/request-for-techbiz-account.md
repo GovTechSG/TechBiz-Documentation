@@ -30,7 +30,7 @@ Have the following information ready before proceeding:
  - **Primary subscription admin**
  - **Secondary subscription admin**
  - **Billing admin**
-- Name, organisation email address, and designation
+- Name, organisational email address, and designation
  - **Approver** (Deputy Director or above)
 - Subscription account name
 - Billing details
@@ -68,7 +68,7 @@ Have the following information ready before proceeding:
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
 | **Agency name** | Select your agency name from the drop-down list. |
-| **Account name** | Enter the account name.</br>Account name can only contain alphanumeric characters. |
+| **Account name** | Enter the account name.</br>Account name can only contain alphanumeric characters. <br><br> When an account is created, a short name will be automatically generated as a unique identifier. This short name cannot be changed after creation.|
 | **Account ID** | A unique **Account ID** is automatically generated and cannot be edited. Your **Account ID** is common across all SGTS Services that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account ID** |
 
 2. Enter the **Subscription admins** details.
@@ -163,4 +163,5 @@ In **Select Service(s)**, choose the required **SGTS Service(s)** and click **Ne
 2. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
 
 A confirmation message is displayed to verify that the subscription account has been submitted for approval.
+
 

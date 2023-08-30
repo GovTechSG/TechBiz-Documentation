@@ -16,6 +16,14 @@ When a public officer submits a request to create an account, the **Approver** r
 5. Enter remarks for the requestor if required.
 6. Acknowledge that the information provided by the requestor is verified.
 
+<kbd><img src="images/ack.png" alt="drawing" width="100%"/></kbd>
+
+7. Click **Approve** or **Reject**.
+
+<kbd><img src="images/approve-reject-2.png" alt="drawing" width="100%"/></kbd>
+8. Confirm your approval or rejection.
+
+A success message will be displayed.
 
 ## Approve or reject an account request through email
 

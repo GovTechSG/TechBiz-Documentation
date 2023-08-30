@@ -43,13 +43,13 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
 
 9. Click **Next**.
 
-10. Verify if the information displayed is correct before clicking **Submit**. When the Elastic deployment is successfully provisioned, the subscription and billing admins are notified via email. This email has the high-level configuration details attached in the .csv format.
+10. Verify if the information displayed is correct before clicking **Submit**. When the Elastic deployment is successfully provisioned, the subscription and billing admins are notified via email. This email has the high-level configuration details attached in the *.csv* format.
 
 11. Click **Submit**.
 
 <kbd><img src="images/submit-config.png" alt="drawing" width="100%"/></kbd>
 
-12. A success message is displayed.
+12. A success message is displayed. An email with an attached pdf file will be sent to you.
 
 <kbd><img src="images/config-success.png" alt="drawing" width="100%"/></kbd>
 

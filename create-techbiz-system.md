@@ -30,7 +30,7 @@ This sections guides how subscription admins can create a TechBiz system using a
 
 | **Field Name** | **Description** |
 | --- | --- |
-| **System name** | Enter the system name.</br><br/> **Note:** System name can have a minimum of 1 character and maximum of 50 characters. |
+| **System name** | Enter the system name.</br><br/> **Note:** System name can have a minimum of 1 character and maximum of 50 characters. <br><br> When a system is created, a short name will be automatically generated as a unique identifier. This short name cannot be changed after creation. |
 | **TechBiz system ID** | A unique TechBiz system ID is automatically generated and cannot be edited. The TechBiz system ID is common across all subscribed SGTS Services under this account. |
 | **System Description** | Enter the description of the system. |
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes** , **I have a DGP ID** or **No, I do not have a DGP ID**. </br> </br> **Note:** Refer to [FAQ](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/faq) for more information. |

@@ -15,12 +15,12 @@ Agencies need to add the subscribed SGTS Services required for the system(s) and
 <details>
   <summary>SHIP-HATS</summary>
 
-7. Click **SHIP-HATS**.
-8. Click **Next**.
+6. Click **SHIP-HATS**.
+7. Click **Next**.
 
 <kbd><img src="images/add-prod-next.png" alt="drawing" width="100%"/></kbd>
 
-9. Click **Submit**.
+8. Click **Submit**.
 
 <kbd><img src="images/add-prod-submit.png" alt="drawing" width="100%"/></kbd>
 
@@ -36,24 +36,31 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
 <details>
   <summary>StackOps</summary>
 
-7. Click **StackOps**.
-8. Specify the required information for your Elastic deployment.
+6. Click **StackOps**.
+7. Specify the required information for your Elastic deployment.
 
 <kbd><img src="images/stakops-add-prod.png" alt="drawing" width="100%"/></kbd>
 
-9. Click **Next**.
+| Field name | Description |
+| --- | --- |
+| **This is a system in production**	| Select this checkbox to indicate if this deployment is for a system that is currently in production. |
+| **Cloud Service Provider** | Select your cloud service provider for the deployment. |
+| **Elastic Version Number** | Depending on the selected cloud service provider, this dropdown lists all the supported versions of ElasticSearch. |
+| **Deployment Size**	| Depending on your daily data ingestion rate, choose the required size from the following options. The options are listed in alphabetical order. <br><br>**extra small**<br>**medium**<br>**small**<br>**large** |
+| **Sizing Details** | This section is displayed only when you specify the **Deployment Size**. When you select the required size, you can see the **Memory Size (MB)** and **Storage Size (GB)** that will be provisioned for this deployment under Sizing Details. It also displays the **Instance Type** and **Number of Zones** that are available for a particular **Instance**. |
 
-10. Verify if the information displayed is correct before clicking **Submit**. When the Elastic deployment is successfully provisioned, the subscription and billing admins are notified via email. This email has the high-level configuration details attached in the *.csv* format.
 
-11. Click **Submit**.
+8. Click **Next**.
+
+9. Verify if the information displayed is correct before clicking **Submit**. When the Elastic deployment is successfully provisioned, the subscription and billing admins are notified via email. This email has the high-level configuration details attached in the *.csv* format.
+
+10. Click **Submit**.
 
 <kbd><img src="images/submit-config.png" alt="drawing" width="100%"/></kbd>
 
-12. A success message is displayed. An email with an attached pdf file will be sent to you.
+11. A success message is displayed. An email with an attached pdf file will be sent to you.
 
 <kbd><img src="images/config-success.png" alt="drawing" width="100%"/></kbd>
 
-> **Note**: 	
-**Sizing details** is displayed only when you specify the deployment size. When you select the required size, you can see the memory size(MB) and storage size(GB) that will be provisioned for this deployment under **Sizing details**. It also displays the **Instance type** and **Number of zones** that are available for a particular instance.
 
   </details>

@@ -58,7 +58,7 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
 
 <kbd><img src="images/submit-config.png" alt="drawing" width="100%"/></kbd>
 
-11. A success message is displayed. An email with an attached pdf file will be sent to you.
+11. A success message is displayed. An email with a pdf file will be sent to you.
 
 <kbd><img src="images/config-success.png" alt="drawing" width="100%"/></kbd>
 

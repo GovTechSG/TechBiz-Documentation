@@ -5,6 +5,7 @@
         - [2023](whats-new/2023.md)
 - **Getting started**
     - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
+    - [Admin roles and permissions](admin-roles-and-permissions.md)
     - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
         - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
         - [Manage draft request](create-subscription-acc/manage-draft-request.md)

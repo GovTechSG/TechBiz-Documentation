@@ -1,16 +1,16 @@
-# Add and configure Services
+# Add and configure Products
 
-Agencies need to add the subscribed SGTS Services required for the system(s) and configure the Services for each TechBiz system.
+Agencies need to add the subscribed SGTS Products required for the system(s) and configure the Products for each TechBiz system.
 
-**To add and configure subscribed Services**
+**To add and configure subscribed Products**
 
 1. From the sidebar, click **Accounts**.
 2. Go to the required TechBiz account.
 3. Click **SYSTEMS**.
 4. Choose the required system and click **Manage**.
-5. Go to **SERVICES** \> **Add Services**.
+5. Go to **Products** \> **Add Products**.
 
-> **Note:** Each SGTS Service will have different requirements for Service configuration. Click the triangle to view Service configuration instructions for the required SGTS Service.
+> **Note:** Each SGTS Product will have different requirements for Product configuration. Click the triangle to view Product configuration instructions for the required SGTS Product.
 
 <details>
   <summary>SHIP-HATS</summary>
@@ -44,8 +44,8 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
 | Field name | Description |
 | --- | --- |
 | **This is a system in production**	| Select this checkbox to indicate if this deployment is for a system that is currently in production. |
-| **Cloud Service Provider** | Select your cloud service provider for the deployment. |
-| **Elastic Version Number** | Depending on the selected cloud service provider, this dropdown lists all the supported versions of ElasticSearch. |
+| **Cloud Product Provider** | Select your cloud Product provider for the deployment. |
+| **Elastic Version Number** | Depending on the selected cloud Product provider, this dropdown lists all the supported versions of ElasticSearch. |
 | **Deployment Size**	| Depending on your daily data ingestion rate, choose the required size from the following options. The options are listed in alphabetical order. <br><br>**extra small**<br>**medium**<br>**small**<br>**large** |
 | **Sizing Details** | This section is displayed only when you specify the **Deployment Size**. When you select the required size, you can see the **Memory Size (MB)** and **Storage Size (GB)** that will be provisioned for this deployment under Sizing Details. It also displays the **Instance Type** and **Number of Zones** that are available for a particular **Instance**. |
 

@@ -69,7 +69,7 @@ Have the following information ready before proceeding:
 | :------------------------------------------ | ------------------ |
 | **Agency name** | Select your agency name from the drop-down list. |
 | **Account name** | Enter the account name.</br>Account name can only contain alphanumeric characters. <br><br> When an account is created, a short name will be automatically generated as a unique identifier. This short name cannot be changed after creation.|
-| **Account ID** | A unique **Account ID** is automatically generated and cannot be edited. Your **Account ID** is common across all SGTS Products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account ID** |
+| **Account ID** | A unique **Account ID** is automatically generated and cannot be edited. Your **Account ID** is common across all SGTS Products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account ID |
 
 2. Enter the **Subscription admins** details.
 

@@ -25,7 +25,7 @@
 
 - **Support**
     - [FAQs](faq.md)
-    - [Raise a support request](support-request.md)
+    - [Raise a service request](support-request.md)
     - [Glossary](glossary.md)
     - [Terms and policies](tnp.md)
 

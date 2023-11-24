@@ -29,7 +29,7 @@ or something like tht lol
 
 1b. *If you are subscribing to an SGTS Product*:
 
-- During your onboarding flow, select the specific product you wish to subscribe to.
+- Select the same product as the one you are onboarding to.
 
 2. Select a specific plan and indicate the desired quantity.
 

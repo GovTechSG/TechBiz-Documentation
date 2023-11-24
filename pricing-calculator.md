@@ -11,24 +11,33 @@ You may want to generate a cost estimate if you are:
 
 This Pricing Calculator is designed to provide you with a quick and accurate estimation of subscription costs.
 
+Denise C, [24/11/23 2:05 PM]
+You may want to generate cost estimate if you are:
+1) Exploring SGTS Products
+2) Subscribing to SGTS Products
+
+
+Denise C, [24/11/23 2:05 PM]
+or something like tht lol
 
 **To generate cost estimate**:
 
-1. From the sidebar, click **Pricing Calculator**.
-
-<kbd><img src="images/pricing-cal.png" alt="drawing" width="100%"/></kbd>
-
-2. Choose the product for which you want to estimate costs.
+1a. *If you are exploring SGTS Products*:
+- Navigate to the sidebar and click **Pricing Calculator** and choose the product for which you want to estimate costs.
 
 <kbd><img src="images/select-prod-cal.png" alt="drawing" width="100%"/></kbd>
 
-3. Select a specific plan and indicate the desired quantity.
+1b. *If you are subscribing to an SGTS Product*:
+
+- During your onboarding flow, select the specific product you wish to subscribe to.
+
+2. Select a specific plan and indicate the desired quantity.
 
 <kbd><img src="images/select-cal-plan.png" alt="drawing" width="100%"/></kbd>
 
 > **Note**: To select add-ons, you must first choose a plan.
 
-4. Click **Add to estimate**.
+3. Click **Add to estimate**.
 
 <kbd><img src="images/add-estimate.png" alt="drawing" width="100%"/></kbd>
 

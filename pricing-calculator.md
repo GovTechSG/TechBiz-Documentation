@@ -17,7 +17,7 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 <kbd><img src="images/select-prod-cal.png" alt="drawing" width="100%"/></kbd>
 
-> **Note**: If you are exploring SGTS Products, navigate to the sidebar and click **Pricing Calculator** and choose the product for which you want to estimate costs.
+> **Note**: If you are exploring SGTS Products, navigate to the sidebar and click **Pricing Calculator**. Choose the product for which you want to estimate costs.
 
 2. Select a **Start date** for when you want to start subscribing.
 

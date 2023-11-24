@@ -9,41 +9,42 @@ You may want to generate a cost estimate if you are:
 1. Exploring SGTS Products
 2. Subscribing to SGTS Products
 
-This Pricing Calculator is designed to provide you with a quick and accurate estimation of subscription costs.
-
-Denise C, [24/11/23 2:05 PM]
-You may want to generate cost estimate if you are:
-1) Exploring SGTS Products
-2) Subscribing to SGTS Products
-
-
-Denise C, [24/11/23 2:05 PM]
-or something like tht lol
+This Pricing calculator is designed to provide you with a quick and accurate estimation of subscription costs.
 
 **To generate cost estimate**:
 
-1a. *If you are exploring SGTS Products*:
-- Navigate to the sidebar and click **Pricing Calculator** and choose the product for which you want to estimate costs.
+1. From **Create subscription account**, under **Select products**, choose the required product(s).
 
 <kbd><img src="images/select-prod-cal.png" alt="drawing" width="100%"/></kbd>
 
-1b. *If you are subscribing to an SGTS Product*:
+> **Note**: If you are exploring SGTS Products, navigate to the sidebar and click **Pricing Calculator** and choose the product for which you want to estimate costs.
 
-- Select the same product as the one you are onboarding to.
+2. Select a **Start date** for when you want to start subscribing.
 
-2. Select a specific plan and indicate the desired quantity.
+<kbd><img src="images/select-start-date-cal.png" alt="drawing" width="100%"/></kbd>
+
+> **Note**: Not required for exploring SGTS products.
+
+3. Choose a plan and specify the desired quantity.
 
 <kbd><img src="images/select-cal-plan.png" alt="drawing" width="100%"/></kbd>
 
 > **Note**: To select add-ons, you must first choose a plan.
 
-3. Click **Add to estimate**.
+4. Select any necessary add-ons.
 
-<kbd><img src="images/add-estimate.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/add-ons-cal.png" alt="drawing" width="100%"/></kbd>
 
 The estimated cost will be displayed on the right-side panel.
 
+<kbd><img src="images/cost-estimate.png" alt="drawing" width="100%"/></kbd>
+
+
+> **Note**: If you are exploring SGTS products, click **Add to estimate**.
+
+
 **To save the cost estimate as a PDF**:
+
 - Click **Export to PDF**.
 
-<kbd><img src="images/export-pdf-cal.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/cost-estimate-add.png" alt="drawing" width="100%"/></kbd>

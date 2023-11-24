@@ -114,6 +114,7 @@ Have the following information ready before proceeding:
 
 In **Select Product(s)**, choose the required **SGTS Product(s)** and click **Next**.
 
+> **Note**: To get a cost estimate for your subscribed SGTS Products, visit [Pricing calculator](pricing-calculator.md) from and follow the instructions.
 
 ## Step 4: Select subscription plans
 

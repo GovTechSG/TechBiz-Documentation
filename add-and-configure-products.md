@@ -64,3 +64,9 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
 
 
   </details>
+
+
+
+## Estimate costs using the pricing calculator**
+
+- To get a cost estimate for your subscribed SGTS Products, visit [Pricing calculator](pricing-calculator.md) from and follow the instructions.

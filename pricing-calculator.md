@@ -6,8 +6,8 @@ The Pricing calculator in TechBiz allows subscription administrators to estimate
 
 You may want to generate a cost estimate if you are:
 
-1. Exploring SGTS Products
-2. Subscribing to SGTS Products
+1. Subscribing to SGTS Products
+2. Exploring SGTS Products
 
 This Pricing calculator is designed to provide you with a quick and accurate estimation of subscription costs.
 
@@ -37,7 +37,7 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 The estimated cost will be displayed on the right-side panel.
 
-<kbd><img src="images/cost-estimate.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/cost-estimate-2.png" alt="drawing" width="100%"/></kbd>
 
 
 > **Note**: If you are exploring SGTS products, click **Add to estimate**.

@@ -35,7 +35,7 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 <kbd><img src="images/add-ons-cal.png" alt="drawing" width="100%"/></kbd>
 
-The estimated cost will be displayed on the right-side panel.
+5. The estimated cost will be displayed on the right-side panel.
 
 <kbd><img src="images/cost-estimate-2.png" alt="drawing" width="100%"/></kbd>
 

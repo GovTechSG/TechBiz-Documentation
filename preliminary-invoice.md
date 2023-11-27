@@ -15,5 +15,5 @@ In TechBiz, the preliminary invoice provides an interim snapshot of billing deta
 
 ![TechBiz Logo](/images/inv-page.png)
 
-Note: Only the last 12 months of invoices are available for viewing.
+> **Note**: Only the last 12 months of invoices are available for viewing.
 

@@ -64,11 +64,4 @@ Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hat
   </details>
 
 
-If necessary, complete the resource configuration form.
-
-10. Click Submit.
-
-![res](submit-res.png)
-
-A confirmation message will be displayed.
 

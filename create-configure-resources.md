@@ -11,10 +11,10 @@ You need to create your system before creating your resources.
 3. Click **RESOURCES**.
 4. Click **Create Resource**.
 
-![res](create-resource.png)
+![res](images/create-resource.png)
 
 5. Select the required product.
-6. Select the **resource type**.
+6. Select the required **resource type**.
 > **Note**: Currently, this selection is not applicable for SHIP-HATS.
 7. Enter a resource name.
 
@@ -23,6 +23,46 @@ You need to create your system before creating your resources.
 8. Provide a resource description.
 
 9. Select the required system for the resource.
+
+> **Note:** Each SGTS Product will have different requirements for Resource configuration. Click the triangle to view Resource configuration instructions for the required SGTS Product.
+
+<details>
+  <summary>SHIP-HATS</summary>
+
+10. Click Submit.
+
+![submit-res](images/submit-res.png)
+
+A confirmation message will be displayed.
+
+Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/access-ship-hats-portal) for a guide to SHIP-HATS portal.
+
+  </details>
+
+<details>
+  <summary>StackOps</summary>
+
+10. Specify the required information for your Elastic deployment.
+
+![image](images/stakops-add-prod.png)
+
+| Field name | Description |
+| --- | --- |
+| **This is a system in production**	| Select this checkbox to indicate if this deployment is for a system that is currently in production. |
+| **Cloud Product Provider** | Select your cloud Product provider for the deployment. |
+| **Elastic Version Number** | Depending on the selected cloud Product provider, this dropdown lists all the supported versions of ElasticSearch. |
+| **Deployment Size**	| Depending on your daily data ingestion rate, choose the required size from the following options. The options are listed in alphabetical order. <br><br>**extra small**<br>**medium**<br>**small**<br>**large** |
+| **Sizing Details** | This section is displayed only when you specify the **Deployment Size**. When you select the required size, you can see the **Memory Size (MB)** and **Storage Size (GB)** that will be provisioned for this deployment under Sizing Details. It also displays the **Instance Type** and **Number of Zones** that are available for a particular **Instance**. |
+
+
+11. Click **Submit**.
+
+
+12. A success message will be displayed. 
+
+
+  </details>
+
 
 If necessary, complete the resource configuration form.
 

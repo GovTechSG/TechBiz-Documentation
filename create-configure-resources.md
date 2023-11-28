@@ -22,20 +22,14 @@ You need to create your system before creating your resources.
 
 8. Provide a resource description.
 
-9. Select the required system for the resource.
+9. Select the required system(s) for the resource, and if required, tag multiple systems for resource provisioning.
 
-> **Note:** Each SGTS Product will have different requirements for Resource configuration. Click the triangle to view Resource configuration instructions for the required SGTS Product.
+Each SGTS Product will have different requirements for Resource configuration. Click the triangle icon below to view Resource configuration instructions for the required SGTS Product.
 
 <details>
   <summary>SHIP-HATS</summary>
 
-10. Click Submit.
-
-![submit-res](images/submit-res.png)
-
-A confirmation message will be displayed.
-
-Go to [Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/access-ship-hats-portal) for a guide to SHIP-HATS portal.
+This step is currently not applicable for SHIP-HATS. To configure resources, please proceed to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 
   </details>
 

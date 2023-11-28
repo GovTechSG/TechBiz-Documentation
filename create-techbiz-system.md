@@ -48,8 +48,6 @@ This sections guides how subscription admins can create a TechBiz system using a
 8. Click **Next**.
 9. Review the system details and click **Submit**.
 
-The system record appears on the **Systems** page with status as **Pending Configuration**.
+The new system will appear on the **Systems** page.
 
-<kbd><img src="images/pending-config.png" alt="drawing" width="100%"/></kbd>
-
-Proceed to [Add and configure Products](add-and-configure-products.md)  complete the configuration.
+Proceed to [Create and configure Resources](create-configure-resources.md)  complete the configuration.

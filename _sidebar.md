@@ -15,7 +15,6 @@
     - [Manage system](manage-techbiz-system.md)
     - [Manage account](manage-techbiz-account.md)
     - [Manage subscriptions](manage-subscriptions.md)
-    - [Add and configure Products](add-and-configure-products.md)
     - [Create and configure Resources](create-configure-resources.md)
 - **Additional features**
     - [Create TechPass accounts](invite-users.md)

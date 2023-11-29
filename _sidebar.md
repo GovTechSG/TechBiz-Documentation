@@ -16,12 +16,14 @@
     - [Manage account](manage-techbiz-account.md)
     - [Manage subscriptions](manage-subscriptions.md)
     - [Add and configure Products](add-and-configure-products.md)
+    - [Create and configure Resources](create-configure-resources.md)
 - **Additional features**
     - [Create TechPass accounts](invite-users.md)
     - [Approve or reject account request](approve-or-reject-techbiz-account.md)
     - [Manage user access](manage-user-access-subscribed-sgts-products.md)
     - [View approver details](view-approver-details-and-attachments.md)
     - [Pricing calculator](pricing-calculator.md)
+    - [Preliminary invoice](preliminary-invoice.md)
     - [Notifications](notifications.md)
 
 - **Support**

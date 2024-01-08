@@ -1,0 +1,1 @@
+!> This documentation is obsolete. Refer to [Create subscription account](/create-subscription-acc/request-for-techbiz-account.md).

@@ -45,7 +45,7 @@ This step is currently not applicable for SHIP-HATS. To configure resources, ple
 | Field name | Description |
 | --- | --- |
 | **This is a system in production**	| Select this checkbox to indicate if this deployment is for a system that is currently in production. |
-| **Cloud Product Provider** | Select your cloud Product provider for the deployment. |
+| **Cloud Service Provider** | Select your cloud product provider for the deployment. |
 | **Elastic Version Number** | Depending on the selected cloud Product provider, this dropdown lists all the supported versions of ElasticSearch. |
 | **Deployment Size**	| Depending on your daily data ingestion rate, choose the required size from the following options. The options are listed in alphabetical order. <br><br>**extra small**<br>**medium**<br>**small**<br>**large** |
 | **Sizing Details** | This section is displayed only when you specify the **Deployment Size**. When you select the required size, you can see the **Memory Size (MB)** and **Storage Size (GB)** that will be provisioned for this deployment under Sizing Details. It also displays the **Instance Type** and **Number of Zones** that are available for a particular **Instance**. |

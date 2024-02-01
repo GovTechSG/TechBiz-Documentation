@@ -8,14 +8,15 @@
     - [Admin roles and permissions](admin-roles-and-permissions.md)
     - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
         - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
+        - [Create system](create-techbiz-system.md)
+        - [Create and configure Resources](create-configure-resources.md)
+
         - [Manage draft request](create-subscription-acc/manage-draft-request.md)
         - [Send reminder for account request](create-subscription-acc/send-reminder-for-account-approval.md)
     - [Resubmit account request](create-subscription-acc/resubmit-techbiz-account-application.md)
-    - [Create system](create-techbiz-system.md)
     - [Manage system](manage-techbiz-system.md)
     - [Manage account](manage-techbiz-account.md)
     - [Manage subscriptions](manage-subscriptions.md)
-    - [Create and configure Resources](create-configure-resources.md)
 - **Additional features**
     - [Create TechPass accounts](invite-users.md)
     - [Approve or reject account request](approve-or-reject-techbiz-account.md)

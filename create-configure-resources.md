@@ -24,6 +24,7 @@ You need to create your system before creating your resources.
 
 9. Select the required system(s) for the resource, and if required, tag multiple systems for resource provisioning.
 
+![cr](images/cr.png)
 > **Note**: StackOps currently can only tag one system to one resource.
 
 Each SGTS Product will have different requirements for Resource configuration. Click the triangle icon below to view Resource configuration instructions for the required SGTS Product.

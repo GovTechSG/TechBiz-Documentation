@@ -68,8 +68,8 @@ Have the following information ready before proceeding:
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
 | **Agency name** | Select your agency name from the drop-down list. |
-| **Subscription account name** | Enter the account name.</br>Account name can only contain alphanumeric characters. <br><br> When an account is created, a short name will be automatically generated as a unique identifier. This short name cannot be changed after creation.|
-| **Account short name** | A unique **account ID** is automatically generated and cannot be edited. Your **Account short name** is common across all SGTS Products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account short name |
+| **Subscription account name** | Enter the account name.</br>Account name can only contain alphanumeric characters.  It should only include letters, digits, '.', '-', spaces, and parentheses, and must begin with a letter or digit. <br><br> When an account is created, a short name will be automatically generated as a unique identifier. This short name cannot be changed after creation.|
+| **Account short name** | An **account shortname** This short name cannot be changed after creation. Your **Account short name** is common across all SGTS Products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account short name |
 
 2. Enter the **Subscription admins** details.
 
@@ -104,6 +104,9 @@ Have the following information ready before proceeding:
 | **Contact number** | The contact number will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br> Note: The details are masked except for the last 3 digits of the contact number. </br></br> If not, the requestor needs to enter them manually. |
 | **Agency department**</br></br>**Cost center**</br></br></br>**Fund center** | Enter your department name.</br></br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br></br>Enter the **fund center** details.</br></br>Note: The above field details are applicable to GovTech accounts only. |
 | **SBU code** | Applicable only for agencies other than GovTech. </br>Enter the **Sub business unit**.</br></br>Note: To view the complete list of agency departments and business units, refer to [list of ministries and statutory boards.](https://www.vendors.gov.sg/UsefulReferences/MinStatuaryBoards.aspx) |
+| **Payment mode** | Select the appropiate payment mode. |
+| **Customer ID** | Enter your customer ID |
+| **Related parties** | Enter the details of related parties if applicable. |
 
 4. Click **Next**.
 

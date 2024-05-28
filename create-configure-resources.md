@@ -16,7 +16,7 @@ You need to create your system before creating your resources.
 5. Select the required product.
 6. Select the required **resource type**.
 > **Note**: Currently, this selection is not applicable for SHIP-HATS.
-7. Enter a resource name.
+7. Enter a resource name. Resource names can only contain alphanumeric characters, must not exceed 50 characters, and should include only letters, digits, '.', '&', '_', '*', '@', '/', '-', spaces, and parentheses. Names must begin with a letter or digit and must contain at least one alphabet character.
 
 > **Note**: A short name will be automatically generated based on your input and cannot be altered after submission.
 

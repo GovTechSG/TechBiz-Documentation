@@ -31,4 +31,5 @@
     - [Raise a service request](support-request.md)
     - [Glossary](glossary.md)
     - [Terms and policies](tnp.md)
+    - [Service status](service-status.md)
 

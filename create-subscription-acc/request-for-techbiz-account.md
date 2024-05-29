@@ -68,7 +68,7 @@ Have the following information ready before proceeding:
 | **Field Name** | **Description** |
 | :------------------------------------------ | ------------------ |
 | **Agency name** | Select your agency name from the drop-down list. |
-| **Subscription account name** | Enter the account name.</br>Account name can only contain alphanumeric characters.  It should only include letters, digits, '.', '-', spaces, and parentheses, and must begin with a letter or digit. <br><br> When an account is created, a short name will be automatically generated as a unique identifier. This short name cannot be changed after creation.|
+| **Subscription account name** | Enter the account name.</br>Account names can only contain alphanumeric characters, must not exceed 50 characters, and should include only letters, digits, '.', '&', '_', '*', '@', '/', '-', spaces, and parentheses. Names must begin with a letter or digit and must contain at least one alphabet character. <br><br>A short name will be automatically generated as a unique identifier. The short name can be edited before submission but cannot be changed once submitted.|
 | **Account short name** | An **account shortname** This short name cannot be changed after creation. Your **Account short name** is common across all SGTS Products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account short name |
 
 2. Enter the **Subscription admins** details.

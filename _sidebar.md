@@ -1,8 +1,7 @@
 - **Overview**
     - [Home](home.md)
     - [Overview](techBiz-overview.md)
-    - [What's new](whats-new/2023.md)
-        - [2023](whats-new/2023.md)
+    - [What's new](whats-new/release-notes.md)
 - **Getting started**
     - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
     - [Admin roles and permissions](admin-roles-and-permissions.md)

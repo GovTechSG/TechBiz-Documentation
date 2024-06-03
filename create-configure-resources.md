@@ -25,7 +25,6 @@ Resource names cannot consist solely of the following words:
 - prod
 - production
 - stackops
-- staging
 - stg
 
 However, these words can be included as part of a longer name. For example, *prod-server1* or *development-environment*.

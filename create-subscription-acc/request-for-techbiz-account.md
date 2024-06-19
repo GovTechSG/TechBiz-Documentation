@@ -6,7 +6,12 @@ A TechBiz account allows agencies to subscribe to SGTS Products, add systems to 
 
 > **Note**: Agencies can opt for one account with multiple systems or multiple accounts for each system. Refer to [FAQs](faq.md) for more information.
 
+
+<!--
+Hiding this as the link is broken.
+
 Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md).
+-->
 
 ## Audience 
 

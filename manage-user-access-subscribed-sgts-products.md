@@ -1,10 +1,10 @@
 # Manage user access
 
-Subscription and technical admins can control user access to the SGTS products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
+Subscription and technical admins can control user access to the SGTS Products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
-- [Add or remove users](#add-or-remove-usersadd-or-remove-users)
+- [Add or remove users](#add-or-remove-users)
 
 ## Audience
 
@@ -20,7 +20,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 ## Add or remove users
 
-Subscription and technical admins can control user access to the SGTS products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
+Subscription and technical admins can control user access to the SGTS Products they have subscribed to. Subscription admins can manage both account and system user access, while technical admins can only manage system user access for the systems they are designated as admins.
 
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
@@ -33,7 +33,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 <kbd><img src="images/user-man.png" alt="drawing" width="100%"/></kbd>
 
-5. Select the required product from the **Products** dropdown list to select the SGTS product tools to manage.
+5. Select the required Product from the **Products** dropdown list to select the SGTS Product tools to manage.
 6. Select the required tool to add users. For example, GitLab.
 
 <kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>
@@ -54,7 +54,7 @@ Subscription and technical admins can control user access to the SGTS products t
 > **Note:** 
 > - User needs to have a TechPass account for their names to appear in the dropdown list.
 > - Each user can only be added to one subscription account. Attempting to add a user to multiple subscription accounts will result in an error. 
-> - To add a user to a specific service, such as GitLab, Atlassian, SonarQube, or others, the user needs to access the service itself and configure their user account accordingly. Each service may have its own dedicated user management interface or settings panel where users can add, modify, or remove user accounts.
+> - To add a user to a specific Product, such as GitLab, Atlassian, SonarQube, or others, the user needs to access the Product itself and configure their user account accordingly. Each Product may have its own dedicated user management interface or settings panel where users can add, modify, or remove user accounts.
 
 9. Click **Submit**.
 
@@ -62,7 +62,7 @@ Subscription and technical admins can control user access to the SGTS products t
 
 **To add multiple users**
 
-1. Click **Batch upload**.
+1. Click **Batch add**.
 
 <kbd><img src="images/batch-upload-man.png" alt="drawing" width="100%"/></kbd>
 
@@ -86,7 +86,7 @@ Subscription and technical admins can control user access to the SGTS products t
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
 4. Click **USER MANAGEMENT** tab.
-5. Select the required product from the **Products** dropdown list to select the SGTS product tools to manage.
+5. Select the required Product from the **Products** dropdown list to select the SGTS Product tools to manage.
 6. Select the required tool to remove users. For example, GitLab.
 
 <kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>

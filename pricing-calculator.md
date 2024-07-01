@@ -27,7 +27,7 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 Subscriptions will automatically include 3 GitLab Ultimate Users.
 
-<kbd><img src="automatic-inclusion.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/automatic-inclusion.png" alt="drawing" width="100%"/></kbd>
 
 3. Choose a plan and specify the desired quantity.
 

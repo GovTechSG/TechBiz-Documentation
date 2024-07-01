@@ -25,6 +25,10 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 > **Note**: Not required for exploring SGTS products.
 
+Subscriptions will automatically include 3 GitLab Ultimate Users.
+
+<kbd><img src="automatic-inclusion.png" alt="drawing" width="100%"/></kbd>
+
 3. Choose a plan and specify the desired quantity.
 
 <kbd><img src="images/select-cal-plan.png" alt="drawing" width="100%"/></kbd>
@@ -37,7 +41,7 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 5. The estimated cost will be displayed on the right-side panel.
 
-<kbd><img src="images/cost-estimate-2.png" alt="drawing" width="100%"/></kbd>
+<kbd><img src="images/cost-estimate-3.png" alt="drawing" width="100%"/></kbd>
 
 
 > **Note**: If you are exploring SGTS products, click **Add to estimate**.

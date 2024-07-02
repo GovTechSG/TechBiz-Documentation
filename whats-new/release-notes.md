@@ -1,6 +1,46 @@
 # Release notes
 
+## June 2024
+
+**4 June 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Feature** | View account/resource short name in user management page | Users can now view the account or resource short name directly on the user management page for easier reference. |
+| **Fix** | Incorrect hint text displayed for Resource Short name | Corrected the hint text for the Resource Short name field, ensuring accurate guidance for users. |
+| **Feature** | New landing page for TechBiz | TechBiz users now have access to a new, improved landing page, enhancing the user experience and navigation. |
+
+
+
+## May 2024
+
+**29 May 2024**
+
+| Type  | Change| Description |
+|-------|-------|-------------|
+| **Enhancement** | Billing report for TechBiz Billing Admin | TechBiz Billing admins (excluding agencies) can now access a billing report to understand the composition of each billing. This report facilitates mapping back to the EIB (journal & invoice finance template), providing clarity on billing details. |
+| **Enhancement** | Improved indication of pending subscription approval | Users can now clearly see which Subscribed products are pending approval by an Agency approver. A tooltip on *Pending* now explains that it refers to pending Agency approver's action to approve or reject Subscribed Products. Additionally, the *status* on Subscribed Product now includes *Pending* to indicate the same tooltip description. |
+| **Enhancement** | Indication of system type in StackOps configuration form | Subscription admins and Technical admins can now indicate whether their system is a "non-production system" or "production system" via a dropdown list in the StackOps configuration form. This enhancement ensures that users specify the system type accurately, preventing oversight and promoting better resource management. |
+| **Enhancement** | Removal of name restrictions for accounts/systems/resources | Users are no longer restricted when creating account, system, or resource names. This change provides users with more flexibility in naming, allowing them to create names without constraints. |
+| **Enhancement** | Documentation reference for creating Product resources | Users can now refer to the TechBiz documentation guide for guidance on creating Product resources. A text directive has been added to guide users to gather more information from the user guide when creating resources. |
+
+**13 May 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Fix** | Unable to open account details when creating account that subscribed to 2 products for the first time | Fixed the issue where users were unable to open account details when creating an account that subscribes to two products for the first time. |
+
+
 ## April 2024
+
+**29 April 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Feature** | Add sorting to user management group list | Users can now sort the user management group list, making it easier to find and manage specific users within groups. |
+| **Feature** | Subscribe to a new Product while waiting for current Subscribed Product to be approved | Users can now subscribe to a new product even while their current subscription is pending approval, improving flexibility and efficiency in managing multiple product subscriptions.|
+| **Feature** | Pre-defined SBU list for agencies | TechBiz now provides a pre-defined SBU (Strategic Business Unit) list for agencies to select, eliminating the need for manual text entry and reducing errors. |
+
 
 **15 April 2024**
 
@@ -11,7 +51,7 @@
 
 ## March 2024
 
-**20th March 2024**
+**20 March 2024**
 
 
 | Type  | Change| Description |
@@ -27,23 +67,4 @@
 | Type  | Change| Description |
 |-------|-------|-------------|
 | **Enhancement** | Enhanced user management search | As a Subscription admin, you can now search for users in the user management search bar to view which group(s) they belong to. The search functionality has been improved to allow searching for users by email addresses as well. |
-
-**13 February 2024**
-
-# Production release notes
-
-## May 2024
-
-**29th May 2024**
-
-Frontend version: 1.0.0-20240520.1421 | Backend version: 1.105.3-20240521.1554
-
-| Type  | Change| Description |
-|-------|-------|-------------|
-| **Enhancement** | Billing report for TechBiz Billing Admin | TechBiz Billing Admins (excluding agencies) can now access a billing report to understand the composition of each billing. This report facilitates mapping back to the EIB (journal & invoice finance template), providing clarity on billing details. |
-| **Enhancement** | Improved indication of pending subscription approval | Users can now clearly see which Subscribed Products are pending approval by an Agency approver. A tooltip on *Pending* now explains that it refers to pending Agency approver's action to approve or reject Subscribed Products. Additionally, the *status* on Subscribed Product now includes *Pending* to indicate the same tooltip description. |
-| **Enhancement** | Indication of system type in StackOps configuration form | Subscription admins and Technical admins can now indicate whether their system is a "non-production system" or "production system" via a dropdown list in the StackOps configuration form. This enhancement ensures that users specify the system type accurately, preventing oversight and promoting better resource management. |
-| **Enhancement** | Removal of name restrictions for accounts/systems/resources | Users are no longer restricted when creating account, system, or resource names. This change provides users with more flexibility in naming, allowing them to create names without constraints. |
-| **Enhancement** | Documentation reference for creating Product resources | Users can now refer to the TechBiz DocPortal's user guide for guidance on creating Product resources. A text directive has been added to guide users to gather more information from the user guide when creating resources. |
-
 

@@ -115,3 +115,20 @@ The user record is removed from the **Users** list.
 3. Click **Confirm**.
 
 A confirmation message is displayed. 
+
+<details>
+  <summary>Open Access</summary>
+
+  There is now a third user type called *DashboardViewer*. By default, it is open to Public officers to view as a dashboard.
+  
+  The different roles appear under the row/column below: 
+  
+  ![Role Access Configuration](images/dashboard-view.png)
+
+  To toggle switch (as shown in the image below) to manage access:
+  
+  ![Toggle Switch](images/toggle-switch.png)
+
+  If switched off, all users cannot access. However, specific users, including vendors, can be added.
+  
+</details>

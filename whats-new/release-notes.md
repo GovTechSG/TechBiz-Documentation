@@ -2,6 +2,15 @@
 
 ## June 2024
 
+**18 June 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Feature** | Updated pricing plan for SHIP-HATS     | We have revised the SHIP-HATS pricing plan on the TechBiz portal.|
+| **Feature** | Optional project code for subscription account creation | When creating a subscription account for GovTech Agency, the *Project Code* field is now optiona. |
+| **Feature** | Customisable plan descriptions         | We have added fields within the plan page allowing you to add any necessary descriptions. |
+
+
 **4 June 2024**
 
 | Type     | Change   | Description |

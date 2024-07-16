@@ -5,6 +5,7 @@ Subscription and technical admins can control user access to the SGTS Products t
 > **Note:** Refer to the description text located underneath the tool label to understand the functionalities that the tool controls access to.
 
 - [Add or remove users](#add-or-remove-users)
+- [Open Access](#open-access)
 
 ## Audience
 
@@ -123,11 +124,11 @@ A confirmation message is displayed.
   
   The different roles appear under the row/column below: 
   
-  ![Role Access Configuration](images/dashboard-view.png)
+  ![Role Access Configuration](images/dashboardviewer.png)
 
   To toggle switch (as shown in the image below) to manage access:
   
-  ![Toggle Switch](images/toggle-switch.png)
+  ![Toggle Switch](images/um-toggle.png)
 
   If switched off, all users cannot access. However, specific users, including vendors, can be added.
   

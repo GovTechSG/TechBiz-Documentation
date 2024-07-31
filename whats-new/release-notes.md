@@ -1,5 +1,22 @@
 # Release notes
 
+## July 2024
+
+**23 July 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Change** | Domain update | The domain has been changed from `mci.gov.sg` to `mddi.gov.sg` effective from 8th July 2024. |
+| **Feature** | Agency selection improvement | Users can now select their agency from a dropdown if their approver's agency cannot be determined. |
+
+**2 July 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Fix** | Plan quantity adjustment issue | Resolved an issue where users were unable to decrease the plan quantity to 0 when subscribed to the default plan. |
+| **Fix** | Extended support plan quantity error | Fixed an error that occurred when users tried to reduce the quantity of Extended Support plans. |
+
+
 ## June 2024
 
 **18 June 2024**

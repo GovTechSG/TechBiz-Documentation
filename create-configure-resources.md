@@ -25,7 +25,7 @@ Resource names cannot consist solely of the following words:
 - prod
 - production
 - stackops
-xsxaaxzxsxsxsxssxssx
+
 However, these words can be included as part of a longer name. For example, *prod-server1* or *development-environment*.
 
 A short name will be automatically generated as a unique identifier. The short name can be edited before submission but cannot be changed once submitted.

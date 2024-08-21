@@ -68,16 +68,21 @@ The **Plan details** are displayed.
 
 <kbd><img src="images/edit-sub.png" alt="drawing" width="100%"/></kbd>
 
-7. You can increase plans and add-ons. To decrease a plan, contact the respective SGTS support team.
-8. Click **Next**.
+7. Click **Add another** to add more secondary subscription admins. You can have up to four secondary subscription admins.
+
+<kbd><img src="images/add-sub-admin-new.png" alt="drawing" width="100%"/></kbd>
+
+8. You can increase plans and add-ons. To decrease a plan, contact the respective SGTS support team.
+   
+9. Click **Next**.
 
 <kbd><img src="images/change-sub-next.png" alt="drawing" width="100%"/></kbd>
 
-9. Review the changes and click **Submit**.
+10. Review the changes and click **Submit**.
 
 <kbd><img src="images/change-sub-submit.png" alt="drawing" width="100%"/></kbd>
 
-10. When prompted to confirm the changes, click **Confirm**.
+11. When prompted to confirm the changes, click **Confirm**.
 
 ## Subscribe to other SGTS Products
 

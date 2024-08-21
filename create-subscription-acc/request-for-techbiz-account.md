@@ -78,6 +78,10 @@ Have the following information ready before proceeding:
 
 2. Enter the **Subscription admins** details.
 
+3. Click **Add another** to add more secondary subscription admins. You can have up to four secondary subscription admins.
+
+<kbd><img src="images/add-sub-admin-new.png" alt="drawing" width="100%"/></kbd>
+
 > **Notes:**
 > - **Primary subscription admin** and **Secondary subscription admin** must be public officers with a valid organisation email address.
 > - If the public officer does not have a TechPass account, it will be created automatically after the account creation request is approved.
@@ -97,7 +101,7 @@ Have the following information ready before proceeding:
 
 
 
-3. Enter the **Billing details**.
+4. Enter the **Billing details**.
 
 
 
@@ -113,7 +117,7 @@ Have the following information ready before proceeding:
 | **Customer ID** | Enter your customer ID |
 | **Related parties** | Enter the details of related parties if applicable. |
 
-4. Click **Next**.
+5. Click **Next**.
 
 
 

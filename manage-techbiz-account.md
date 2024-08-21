@@ -38,6 +38,7 @@ This section guides how subscription admins can edit, manage approved TechBiz ac
 > - As the admins are public officers, their TechPass ID is the same as their organisational email address.
 > - To edit other details of a subscription or billing admin, the respective administrators must update their TechPass profile from the [TechPass portal](https://portal.techpass.suite.gov.sg). For more information, see [**TechPass user guide**](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/edit-profile).
 > - If an admin is removed, they will no longer have access to the account.
+> - You can have up to 4 secondary subscription admins.
 
 7. To change the SBU code, go to the **Billing information** section, and enter the new SBU code.
 8. Click **Submit**.

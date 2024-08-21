@@ -32,15 +32,19 @@ This section guides how subscription admins can edit, manage approved TechBiz ac
 <kbd><img src="images/acc-det.png" alt="drawing" width="100%"/></kbd>
 
 5. To change the primary or secondary subscription admin, enter the organisational email address of the new subscription admin.
-6. To change the billing admin, go to the **Billing admin section**, and enter the organisational email address of the new billing admin.
+6. Click **Add another** to add more secondary subscription admins. You can have up to four secondary subscription admins.
+
+<kbd><img src="images/add-sub-admin-new.png" alt="drawing" width="100%"/></kbd>
+
+7. To change the billing admin, go to the **Billing admin section**, and enter the organisational email address of the new billing admin.
 
 > **Note:**
 > - As the admins are public officers, their TechPass ID is the same as their organisational email address.
 > - To edit other details of a subscription or billing admin, the respective administrators must update their TechPass profile from the [TechPass portal](https://portal.techpass.suite.gov.sg). For more information, see [**TechPass user guide**](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/edit-profile).
 > - If an admin is removed, they will no longer have access to the account.
 
-7. To change the SBU code, go to the **Billing information** section, and enter the new SBU code.
-8. Click **Submit**.
+8. To change the SBU code, go to the **Billing information** section, and enter the new SBU code.
+9. Click **Submit**.
 
 A confirmation message is displayed.
 

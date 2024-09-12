@@ -48,25 +48,19 @@ This section guides how subscription admins can edit, manage approved TechBiz ac
 
 A confirmation message is displayed.
 
-
-### View approver details and submitted attachments
-
+### View attachments
 
 1. From the sidebar, click **Accounts**.
-2. Select the required status from **Status** dropdown list to view all the accounts in the required status.
-3. Select the required account.
-4. Click **APPROVED BY** tab to view approver details.
+2. Select the required account.
+3. Go to the **Account details** tab and scroll to the **Attachments** section.
 
-The following details are displayed.
+The following details are displayed:
 
-<kbd><img src="images/approved-by.png" alt="drawing" width="100%"/></kbd>
+![Placeholder for Attachments](/images/view-att.png)
 
-> **Note:** Click **View and download summary to** download the details in .pdf file.
+4. The attachments listed under the **Item** section are the initially approved versions.
+   - To download these initially approved attachments, click the attachment link under the **Item** section.
+   
+5. To view or download the latest version of the attachments, go to the **Latest version** section.
+   - The attachments listed here are the most up-to-date versions available for download.
 
-5. Click **ATTACHMENTS** tab to view the submitted attachments.
-
-The following details are displayed.
-
-<kbd><img src="images/view-att.png" alt="drawing" width="100%"/></kbd>
-
-6. Click the attachments in the item list to download the files.

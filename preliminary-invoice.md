@@ -8,11 +8,11 @@ In TechBiz, the preliminary invoice provides an interim snapshot of billing deta
 2. Go to the required TechBiz account.
 3. Click **Billing**.
 
-![Placeholder for Billing Tab](/images/account-billing-new-1.png)
+![Placeholder for Billing Tab](/images/billing-new-1.png)
 
 4. Scroll to **Preliminary invoice**.
 5. Choose the required month to view and click the download icon to save the preliminary invoice.
 
-![Placeholder for Preliminary Invoice Page](/images/inv-page.png)
+![Placeholder for Preliminary Invoice Page](/images/prelim-bill-new-3.png)
 
 > **Note**: Only the last 12 months of invoices are available for viewing.

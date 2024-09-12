@@ -1,4 +1,4 @@
-# Generate Preliminary Invoice
+# Generate preliminary invoice
 
 In TechBiz, the preliminary invoice provides an interim snapshot of billing details, offering insight before the finalisation of the bill.
 

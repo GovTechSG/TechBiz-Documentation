@@ -1,5 +1,49 @@
 # Release notes
 
+## October 2024
+
+**18 October 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Update** | CAM email notifications | CAM email notifications now include updates on TechPass account termination and an updated TechPass support link. |
+| **Bug fix** | Invoice download permissions | Fixed an issue where some users were unable to download invoices due to permission restrictions. |
+
+**4 October 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Feature** | Billing report email notification | Invoicing admins will now receive an email notification when a billing report is ready, making it easier to access the report in the TechBiz portal. |
+| **Update** | SHIP-HATS Exhibit C upload | The latest version of SHIP-HATS Exhibit C has been uploaded. |
+| **Change** | User invite workflow | Updated the invite workflow for TechBiz to align with TechPass by including a mobile number field for public officers. |
+
+## September 2024
+
+**23 September 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Bug fix** | Adding subscription admin | Resolved an error that occurred when adding a third subscription admin in production. |
+| **Change** | pCloudy card update | The pCloudy (Dedicated) card has been renamed to pCloudy (Shared) card for clarity. |
+| **Feature** | Notification message update | Improved notification message clarity when a subscription admin adds more admins. |
+| **Feature** | Agreement version display | The latest version title of agreements is now displayed upon upload, ensuring version accuracy. |
+
+**6 September 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Feature** | Billing tab addition | A dedicated billing tab has been created in the account details section, allowing users to access attachments related to billing. |
+
+## August 2024
+
+**16 August 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Bug fix** | Preliminary invoice footer | Fixed an issue where the preliminary invoice footer was not displayed correctly. |
+| **Feature** | Billing information link access | GovTech subscribers can now access a billing information link with cost center and fund ID details to ensure accurate billing during onboarding. |
+
+
 ## July 2024
 
 **23 July 2024**

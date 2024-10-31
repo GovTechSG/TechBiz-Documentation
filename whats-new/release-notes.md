@@ -75,6 +75,7 @@
 | **Change** | Improved system management for technical admins | Technical admins can now only perform CRUD actions on systems for which they have administrative privileges |
 | **Change** | Enhanced shortname creation visibility | Users now have visibility into the automatic creation of shortnames for their accounts. This feature enables users to easily adjust their shortnames if necessary, providing greater flexibility and customisation options. |
 
+
 ## March 2024
 
 **20 March 2024**

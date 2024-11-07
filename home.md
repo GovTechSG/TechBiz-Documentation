@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the TechBiz documentation! 
+Welcome to the TechBiz documentation!
 
 ## Popular topics
 |  |  | 

@@ -7,10 +7,9 @@ This page provides the following Information:
 
 ## Scheduled maintenance
 
-| Date            | 30 August 2024                      |
-|-----------------|-----------------------------------|
-| **Maintenance notice** | Platform maintenance activities will be conducted on Friday, 30 August 2024. During this period, users may experience intermittent connection errors while accessing TechBiz services.<br><br>**Impact**:<br/>Users may experience intermittent connection errors.<br><br> If issues persist after the maintenance window, kindly [raise a service request](http://go.gov.sg/techbiz-sr). |
-
+| Maintenance Window | Activities | Impact/Risk | Action Required |
+|---|---|---|---|
+| 14 Nov 2024 from 18:00 hrs to 19:00 hrs | Platform maintenance activities will be conducted. | User may experience intermittent connection error while accessing TechBiz Portal.  | No action required. |
 
 ## Ongoing incidents
 
@@ -19,3 +18,7 @@ No ongoing incident!
 ## Previous incidents
 
 No previous incident!
+<!--
+| Date            | 30 August 2024                      |
+|-----------------|-----------------------------------|
+| **Maintenance notice** | Platform maintenance activities will be conducted on Friday, 30 August 2024. During this period, users may experience intermittent connection errors while accessing TechBiz services.<br><br>**Impact**:<br/>Users may experience intermittent connection errors.<br><br> If issues persist after the maintenance window, kindly [raise a service request](http://go.gov.sg/techbiz-sr). |-->

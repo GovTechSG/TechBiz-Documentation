@@ -16,7 +16,7 @@ This section guides how subscription admins can edit, manage approved TechBiz ac
 
 ## Prerequisites
 
-- You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device.
+- You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
 - You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
 - An approved [**TechBiz account**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-account).
 

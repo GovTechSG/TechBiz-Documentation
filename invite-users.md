@@ -9,7 +9,7 @@ There are three ways a public officer can create TechPass account for other user
 
 ## Prerequisites
 
-- You should be a public officer with a [non-SE GSIB](glossary) device.
+- You should be a public officer with a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
 
 Have the following details of the invitee before proceeding:
 

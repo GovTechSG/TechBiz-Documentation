@@ -2,7 +2,7 @@
 
 TechBiz notifies users of their request status and tasks awaiting their action. Users will receive notifications on the TechBiz portal and also by email. 
 
-1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
+1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
 
 2. Click **Notification**.
 <kbd>

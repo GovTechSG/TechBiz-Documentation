@@ -15,7 +15,7 @@ Public officers can use TechBiz portal to request for a [TechBiz subscription ac
 
 ## Audience 
 
-- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
 
 The following table tells you the different types of admins in TechBiz portal.
 

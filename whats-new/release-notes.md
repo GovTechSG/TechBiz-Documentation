@@ -1,5 +1,13 @@
 # Release notes
 
+## November 2024
+
+**15 Nov 2024**
+
+| Type     | Change   | Description |
+|---|---|---|
+| **Feature** | **TechBiz Portal now accessible on GMD!** | If you are using an internet-enabled device that has SEED (GMD) installed, you can now easily access TechBiz Portal directly from it. No more being restricted to accessing TechBiz only through non-SE GSIB - enjoy greater flexibility and convenience!|
+
 ## July 2024
 
 **23 July 2024**

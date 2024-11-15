@@ -9,7 +9,7 @@ This page provides the following Information:
 
 | Maintenance Window | Activities | Impact/Risk | Action Required |
 |---|---|---|---|
-| 14 Nov 2024 from 18:00 hrs to 19:00 hrs | Platform maintenance activities will be conducted. | User may experience intermittent connection error while accessing TechBiz Portal.  | No action required. |
+| 22 Nov 2024 from 12:00 hrs to 13:00 hrs | Platform maintenance activities will be conducted. | User may experience intermittent connection error while accessing TechBiz Portal.  | No action required. |
 
 ## Ongoing incidents
 

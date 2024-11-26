@@ -7,7 +7,6 @@ This topic guides you how to raise a support request via the TechBiz Service Des
 
 ## Audience
 
-- Users with a TechPass account and who require general assistance with TechPass or SEED.  
 - Users who require assistance with their TechBiz Subscription Accounts.
 
 

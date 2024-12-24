@@ -2,6 +2,20 @@
 
 ## November 2024
 
+**30 Nov 2024**
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | **Free access to centrally funded product development tools** | Centrally Funded Product Development Tools is a FY24 initiative to enable the provisioning of essential product development tools across GovTech Product Teams. This initiative enhances productivity and efficiency, reducing delays in tool availability for developers after onboarding. |
+
+
+**29 Nov 2024**
+
+| Type | Change | Description |
+|---|---|---|
+| **Bug fix** | **Resolved database error for dashboard access** | Fixed an issue where certain user types encountered an error when accessing the dashboard tab in the TechBiz portal. |
+
+
 **15 Nov 2024**
 
 | Type     | Change   | Description |

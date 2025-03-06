@@ -1,64 +1,62 @@
 # Create subscription account
 
-To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) Products, agencies need to have an account in TechBiz.
+To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to have an account in TechBiz.
 
-A TechBiz account allows agencies to subscribe to SGTS Products, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
+A TechBiz account allows agencies to subscribe to SGTS products, add systems to the account, manage subscription plans and view billing details. An agency can have one account for multiple systems or an account for each system.
 
 > **Note**: Agencies can opt for one account with multiple systems or multiple accounts for each system. Refer to [FAQs](faq.md) for more information.
 
+## Free access eligibility (SHIP-HATS)
 
-<!--
-Hiding this as the link is broken.
+For GovTech officers eligible for free access, no license purchase is required for Jira or Confluence. However, note the following important points regarding the integration between TechBiz and SHIP-HATS:
 
-Public officers can use TechBiz portal to request for a [TechBiz subscription account](techbiz-subscription-account.md).
--->
+- **TechBiz subscription requirement:** Although free access users do not need a license for Jira or Confluence, a TechBiz subscription account is still required. You must first create a TechBiz subscription account.
+- **Account creation sequence:** The SHIP-HATS account can only be created after a TechBiz subscription account is in place. This sequence is essential to enable the creation of Jira or Confluence accounts.
+- **SHIP-HATS namespace:** For SHIP-HATS free access, one namespace is available without having to subscribe separately.
 
-## Audience 
+> **Note:** Ensure that the TechBiz subscription account is active before initiating the creation of the SHIP-HATS account to avoid integration issues.
+
+## Audience
 
 - Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
 
 The following table tells you the different types of admins in TechBiz portal.
 
- | Role  | Request for TechBiz subscription account | Manage TechBiz subscription account  | Add TechBiz system | Configure TechBiz system | View subscription account details and download information |
-| ------------- |:-------------| :------------- | :------------- | :------------- | :------------- |
-| Primary subscription admin     | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
-| Secondary subscription admin | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
-| Billing admin   | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span>| <span style="color: green;">&#x2611;</span> |
-| Technical admin   | <span style="color: red;">&#x2612;</span>  | <span style="color: red;">&#x2612;</span> | <span style="color: red;">&#x2612;</span> | <span style="color: green;">&#x2611;</span> | <span style="color: green;">&#x2611;</span> |
+| Role  | Request for TechBiz subscription account | Manage TechBiz subscription account | Add TechBiz system | Configure TechBiz system | View subscription account details and download information |
+| ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:|
+| Primary subscription admin (1 required) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Secondary subscription admin (1 required) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Additional subscription admins (up to 5) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Billing admin | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Technical admin | ❌ | ❌ | ❌ | ✅ | ✅ |
 
 ## Prerequisites
 
 - Public officers using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device can create a subscription account.
 
 Have the following information ready before proceeding:
-- Name, organisational email address and handphone number
- - **Primary subscription admin**
- - **Secondary subscription admin**
- - **Billing admin**
-- Name, organisational email address, and designation
- - **Approver** (Deputy Director or above)
+
+- Name, organisational email address and handphone number:
+  - **Primary subscription admin (1 required)**
+  - **Secondary subscription admin (1 required)**
+  - **Additional subscription admins (up to 5)**
+  - **Billing admin**
+- Name, organisational email address, and designation:
+  - **Approver** (Deputy Director or above)
 - Subscription account name
-- Billing details
+- Billing details:
   - **Sub business unit (SBU)**
-  - **Agency department** name, **Cost centre** and **Fund centre**. (Only for GovTech)
- - Subscription plans for the required SGTS Products(s).
- - Supporting documents. (Optional)
+  - **Agency department** name, **Cost centre** and **Fund centre** (only for GovTech)
+- Subscription plans for the required SGTS product(s)
+- Supporting documents (optional)
 
 ## Step 1: Agree to the terms and conditions of the GovTech Universal Product Terms and SGTS Product Sheet
- 
 
 1. From the sidebar, click **Subscription accounts** > **Create subscription account**.
-
 2. Ensure the above information in prerequisites is ready and click **Next**.
-
-4. To download the agreement, click **Download the SGTS agreement** link.
-
-5. Agree to the terms and conditions of the **GovTech Universal Product Terms** and **SGTS Product Sheet**.
-
-6. Click **Next**.
-
-<kbd><img src="images/ust.png" alt="drawing" width="100%"/></kbd>
-
+3. To download the agreement, click **Download the SGTS agreement** link.
+4. Agree to the terms and conditions of the **GovTech Universal Product Terms** and **SGTS Product Sheet**.
+5. Click **Next**.
 
 ## Step 2: Enter subscription account details
 
@@ -66,115 +64,76 @@ Have the following information ready before proceeding:
 
 > **Notes:**
 > - All fields are mandatory, unless mentioned otherwise.
-> - At any point, before submitting the account creation request, click **Save Draft** to save the specified account details as a draft.
+> - At any point before submitting the account creation request, click **Save draft** to save the specified account details.
 > - You can access the saved draft within 14 days to continue with the account creation request.
 
-
-| **Field Name** | **Description** |
-| :------------------------------------------ | ------------------ |
+| **Field name** | **Description** |
+|---------------|---------------|
 | **Agency name** | Select your agency name from the drop-down list. |
-| **Subscription account name** | Enter the account name.</br>Account names can only contain alphanumeric characters, must not exceed 50 characters, and should include only letters, digits, '.', '&', '_', '*', '@', '/', '-', spaces, and parentheses. Names must begin with a letter or digit and must contain at least one alphabet character. <br><br>A short name will be automatically generated as a unique identifier. The short name can be edited before submission but cannot be changed once submitted.|
-| **Account short name** | An **account shortname** This short name cannot be changed after creation. Your **Account short name** is common across all SGTS Products that your agency has subscribed to under this account. <br><br> **Note:** It is recommended to record your account short name |
+| **Subscription account name** | Enter the account name. Account names can only contain alphanumeric characters and must not exceed 50 characters. Names must begin with a letter or digit and must contain at least one alphabet character. |
+| **Account short name** | An account short name is generated as a unique identifier. It can be edited before submission but cannot be changed after creation. |
 
 2. Enter the **Subscription admins** details.
 
-3. Click **Add another** to add more secondary subscription admins. You can have up to four secondary subscription admins.
-
-<kbd><img src="images/add-sub-admin-new.png" alt="drawing" width="100%"/></kbd>
+3. Click **Add another** to add more secondary subscription admins. You can have up to **five** secondary subscription admins.
 
 > **Notes:**
 > - **Primary subscription admin** and **Secondary subscription admin** must be public officers with a valid organisation email address.
 > - If the public officer does not have a TechPass account, it will be created automatically after the account creation request is approved.
 
-| **Field Name** | **Description** |
-| :------------------------------------------ |:-------------|
-| **Primary subscription admin (Requestor)** | This section allows you to enter the details of the **Primary subscription admin**. The requestor is assigned as the **Primary subscription admin** by default.</br></br>Note: **Primary subscription admin** cannot be the **Secondary subscription admin** or vice-versa. |
-|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email address** | The organisational email address of the requestor is automatically displayed and cannot be edited. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First name** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of the first name. </br></br>If not, the requestor needs to enter them manually. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Last name** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of the last name. </br></br>If not, the requestor needs to enter them manually. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: The details are masked except for the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
-| **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin**. </br></br>**Note**: You can add up to 4 secondary subscription admins. </br></br> |
-|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email address** | Enter the organisation email address of the **Secondary subscription admin**.|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First name** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of the first name. </br></br>If not, the requestor needs to enter them manually. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Last name** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account.</br></br>Note: These details are masked except for the first and last character of the last name. </br></br>If not, the requestor needs to enter them manually. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact number** | The contact number will be automatically displayed if the email address of the requestor is linked to a TechPass account.</br></br>Note: The details are masked except for the last 3 digits of the contact number. </br></br>If not, the requestor needs to enter them manually. |
-
-
+| **Field name** | **Description** |
+|---------------|---------------|
+| **Primary subscription admin (Requestor)** | The requestor is assigned as the **Primary subscription admin** by default. |
+| **Email address** | The organisational email address of the requestor is automatically displayed and cannot be edited. |
+| **First name** | These details will be automatically displayed if the email address is linked to a TechPass account. Otherwise, they must be entered manually. |
+| **Last name** | Same as above. |
+| **Contact number** | Displayed if linked to a TechPass account; otherwise, enter manually. |
+| **Secondary subscription admin** | Enter details for up to **five** secondary subscription admins. |
 
 4. Enter the **Billing details**.
 
-
-
-| **Field Name** | **Description** |
-| :------------------------------------------ |:-------------|
-| **Email address** | Enter the organisational email address of the **Billing admin**. </br></br>Note: **Billing admin** must be a public officer with a valid organisation email address. |
-| **First name** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account.</br></br> Note: These details are masked except for the first and last character of the first name. |
-| **Last name** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br>  Note: These details are masked except for the first and last character of the last name. |
-| **Contact number** | The contact number will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. </br></br> Note: The details are masked except for the last 3 digits of the contact number. </br></br> If not, the requestor needs to enter them manually. |
-| **Agency department**</br></br>**Cost center**</br></br></br>**Fund center** | Enter your department name.</br></br>Enter the **cost center** code for your agency. This code will be used by the Finance team for internal GovTech inter-department charging or journal entry. </br></br>Enter the **fund center** details.</br></br>Note: The above field details are applicable to GovTech accounts only. |
-| **SBU code** | Applicable only for agencies other than GovTech. </br>Select the **Sub business unit** from the dropdown.</br></br>Note: To view the complete list of agency departments and business units, refer to [list of ministries and statutory boards.](https://www.vendors.gov.sg/UsefulReferences/MinStatuaryBoards.aspx) |
-| **Payment mode** | Select the appropiate payment mode. |
-| **Customer ID** | Enter your customer ID |
-| **Related parties** | Enter the details of related parties if applicable. |
+| **Field name** | **Description** |
+|---------------|---------------|
+| **Email address** | Enter the organisational email address of the **Billing admin**. |
+| **First name** | Displayed if linked to a TechPass account; otherwise, enter manually. |
+| **Last name** | Same as above. |
+| **Contact number** | Displayed if linked to a TechPass account; otherwise, enter manually. |
+| **Agency department** | Enter your department name. |
+| **Cost centre** | Enter the cost centre code for your agency. |
+| **Fund centre** | Enter fund centre details (only for GovTech accounts). |
+| **SBU code** | Select the sub business unit (for agencies other than GovTech). |
+| **Payment mode** | Select the appropriate payment mode. |
+| **Customer ID** | Enter your customer ID. |
 
 5. Click **Next**.
 
+## Step 3: Select SGTS products for subscription
 
+1. In **Select products**, choose the required **SGTS product(s)** and click **Next**.
 
-## Step 3: Select SGTS Products for subscription
-
-
-In **Select Product(s)**, choose the required **SGTS Product(s)** and click **Next**.
-
-> **Note**: To get a cost estimate for your subscribed SGTS Products, visit [Pricing calculator](pricing-calculator.md) from and follow the instructions.
+> **Note:** To get a cost estimate, visit the [pricing calculator](pricing-calculator.md).
 
 ## Step 4: Select subscription plans
 
+1. In **Select plan(s)**, choose a subscription plan for each selected SGTS product.
 
-1. In **Select plan(s)**, go to the required Product tab and select subscription plans for the selected SGTS Product(s).
+2. Click **Start date** to select when your agency will begin using the product.
 
-> **Note:** There is a tab for each SGTS Product that you have selected.
+## Step 5: Enter approver details
 
-2. By default, the date displayed is automatically generated. Click **Start date** to select the required date.
-
-> **Note:** For more information, refer to the field description table.
-
-3. In **Select a plan**, provide the subscription plan details.
-
-| **Field Name** | **Description** |
-| :------------------------------------------ | ------------------ |
-| **Select subscription period** | Select the start date of the subscription. </br></br>This is the date when your agency intends to start using the subscribed SGTS Product. |
-| **Product agreement** | Click to view the terms and conditions of the Product. |
-| **Select a plan** | Select the required subscription plan for a Product.</br></br>The displayed subscription plans contain details of the chargeable items in a Product and their charges. |
-
-4. If you are subscribing to more than one SGTS Product, repeat **steps 2-3** and click **Next**.
-
-
-
-## Step 5: Enter approver details 
-
-
-1. In **Approver details**, enter the required information and click **Next**.
+1. Enter the approver’s details.
 
 > **Notes:**
-> - **Approver** must be a public officer with a valid organisation email address.
-> - **Approver** needs to be a Deputy director and above.
-
-| **Field Name** | **Description** |
-| :------------------------------------------ | ------------------ |
-| **Approver name, email, and designation** | Enter the approver's full name, organisation email address, and designation. |
-| **Upload documents** | This field is optional. </br></br>Click **Choose a file** to upload supporting documents. For example, approval email.</br></br>- Total files uploaded can be up to 10 MB. The **total file size** bar indicates the amount of MB consumed.</br>- A maximum of 50 files can be attached for each account creation request.</br>- Multiple files can be selected to do a bulk upload.</br>- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg, and .svg.</br>-  File names can only contain alphanumeric characters and special characters such as space, hyphen, underscore, and period. |
-| **Remarks to Approver** | This field is optional.</br></br> Specify the reasons for submitting this request.|
-
-
+> - The **Approver** must be a public officer with a valid organisational email address.
+> - The **Approver** needs to be a Deputy Director or above.
 
 ## Step 6: Submit subscription account request
 
+1. Review all details in the **Summary** page.
+2. Select all checkboxes to confirm agreement with terms.
+3. Click **Submit**.
 
-1. In **Summary**, verify if the information displayed on this page is correct and click **Submit**.
+A confirmation message will verify that the subscription account request has been submitted for approval.
 
-2. In **Submit for approval** , select all the checkboxes to agree to the terms and conditions and click **Submit**.
-
-A confirmation message is displayed to verify that the subscription account has been submitted for approval.
 
 

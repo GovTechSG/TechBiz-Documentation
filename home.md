@@ -2,6 +2,26 @@
 
 Welcome to the TechBiz documentation!
 
+## Free Access
+
+The Free Access initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows, and reducing barriers to productivity.
+
+Launching in FY24, these tools will be made available to eligible GovTechies (permanent and contract staff) upon onboarding, enabling teams to focus on  building impactful products.
+
+This initiative is centrally funded and led by the CIO Office and the Core Engineering Productivity teams, in partnership with [Open Data Access](https://docs.developer.tech.gov.sg/docs/open-data-access/). 
+
+## Eligibility check 
+
+To  quickly check if you’re eligible, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). 
+
+If you're eligible, the tool will display the group you belong to.
+
+| Group | Role | Tools |
+|---|---|--|
+| Engineering | Engineers  | GitLab, Jira, Confluence |
+| Product | Product Managers, Delivery Managers | Jira, Confluence |
+| Design | Designers | Jira, Confluence |
+
 ## Popular topics
 |  |  | 
 | --- | --- |

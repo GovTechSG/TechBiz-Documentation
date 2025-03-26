@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section guides how subscription admins can edit, manage approved TechBiz account(s) and view approver details and submitted attachments when required..
+This section guides how subscription admins can edit, manage approved TechBiz account(s), and view approver details and submitted attachments when required.
 
 - [Change subscription admins and billing admins](#change-subscription-admins-and-billing-information)
 - [View approver details and submitted attachments](#view-approver-details-and-attachments)
@@ -29,12 +29,12 @@ This section guides how subscription admins can edit, manage approved TechBiz ac
 3. Select the required account.
 4. Click **ACCOUNT DETAILS** tab \> **Edit**.
 
-<kbd><img src="images/acc-det.png" alt="drawing" width="100%"/></kbd>
+   ![Account Details](images/acc-det.png)
 
 5. To change the primary or secondary subscription admin, enter the organisational email address of the new subscription admin.
 6. Click **Add another** to add more secondary subscription admins. You can have up to four secondary subscription admins.
 
-<kbd><img src="images/add-sub-admin-new.png" alt="drawing" width="100%"/></kbd>
+   ![Add Subscription Admin](images/add-sub-admin-new.png)
 
 7. To change the billing admin, go to the **Billing admin section**, and enter the organisational email address of the new billing admin.
 
@@ -56,7 +56,7 @@ A confirmation message is displayed.
 
 The following details are displayed:
 
-![Placeholder for Attachments](/images/view-att.png)
+   ![View Attachments](images/view-att.png)
 
 4. The attachments listed under the **Item** section are the initially approved versions.
    - To download these initially approved attachments, click the attachment link under the **Item** section.

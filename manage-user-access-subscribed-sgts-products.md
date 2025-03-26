@@ -32,25 +32,24 @@ Subscription and technical admins can control user access to the SGTS Products t
 3. Select the required account.
 4. Click **USER MANAGEMENT** tab.
 
-<kbd><img src="images/user-man.png" alt="drawing" width="100%"/></kbd>
+   ![User Management](images/user-man.png)
 
 5. Select the required Product from the **Products** dropdown list to select the SGTS Product tools to manage.
 6. Select the required tool to add users. For example, GitLab.
 
-<kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>
+   ![Manage Users](images/manage-users.png)
 
 7. Click **Manage** \> **Add users**.
 
-<kbd><img src="images/user-manage-add.png" alt="drawing" width="100%"/></kbd>
+   ![User Manage Add](images/user-manage-add.png)
 
 > **Note:**
 > - The usage count is linked to the corresponding subscription plan.
 > - **Usage count** displays the quantity of assigned users and the maximum number of concurrent users authorised. For example, a count of 2/33 indicates that 2 out of the total 33 subscribed users have been assigned.
 
-
 8. Enter the name or email address of the user.
 
-<kbd><img src="images/add-users-mgmt.png" alt="drawing" width="100%"/></kbd>
+   ![Add Users Management](images/add-users-mgmt.png)
 
 > **Note:** 
 > - User needs to have a TechPass account for their names to appear in the dropdown list.
@@ -59,25 +58,25 @@ Subscription and technical admins can control user access to the SGTS Products t
 
 9. Click **Submit**.
 
-<kbd><img src="images/submit-user.png" alt="drawing" width="100%"/></kbd>
+   ![Submit User](images/submit-user.png)
 
 **To add multiple users**
 
 1. Click **Batch add**.
 
-<kbd><img src="images/batch-upload-man.png" alt="drawing" width="100%"/></kbd>
+   ![Batch Upload Management](images/batch-upload-man.png)
 
 2. Download the **excel template**. Enter the required details on the excel sheet and save the file.
 
-<kbd><img src="images/excel-batch.png" alt="drawing" width="100%"/></kbd>
+   ![Excel Batch](images/excel-batch.png)
 
 3. Click **Choose a file**. Select the required file.
 
-<kbd><img src="images/choose-file-batch.png" alt="drawing" width="100%"/></kbd>
+   ![Choose File Batch](images/choose-file-batch.png)
 
 4. Click **Submit**.
 
-<kbd><img src="images/submit-batch.png" alt="drawing" width="100%"/></kbd>
+   ![Submit Batch](images/submit-batch.png)
 
 > **Note**: Admins may encounter common errors such as users already associated with another subscription account, users without a TechPass account, and incorrect email addresses.
 
@@ -90,16 +89,16 @@ Subscription and technical admins can control user access to the SGTS Products t
 5. Select the required Product from the **Products** dropdown list to select the SGTS Product tools to manage.
 6. Select the required tool to remove users. For example, GitLab.
 
-<kbd><img src="images/manage-users.png" alt="drawing" width="100%"/></kbd>
+   ![Manage Users](images/manage-users.png)
 
 7. Click **Manage**.
 8. Click the **delete icon** corresponding to the user's name.
 
-<kbd><img src="images/delete-users.png" alt="drawing" width="100%"/></kbd>
+   ![Delete Users](images/delete-users.png)
 
 9. Click **Confirm** to delete the user.
 
-<kbd><img src="images/confirm-delete-user.png" alt="drawing" width="100%"/></kbd>
+   ![Confirm Delete User](images/confirm-delete-user.png)
 
 The user record is removed from the **Users** list.
 
@@ -107,11 +106,11 @@ The user record is removed from the **Users** list.
 
 1. Select the users.
 
-<kbd><img src="images/remove-selected.png" alt="drawing" width="100%"/></kbd>
+   ![Remove Selected](images/remove-selected.png)
 
 2. Click **Remove selected**.
 
-<kbd><img src="images/remove-selected-confirm.png" alt="drawing" width="100%"/></kbd>
+   ![Remove Selected Confirm](images/remove-selected-confirm.png)
 
 3. Click **Confirm**.
 
@@ -123,11 +122,11 @@ There is now a third user type called *DashboardViewer*. By default, it is open 
   
 The different roles appear under the row/column below: 
   
-![Role Access Configuration](images/dashboardviewer.png)
+   ![Role Access Configuration](images/dashboardviewer.png)
 
 To toggle switch (as shown in the image below) to manage access:
   
-![Toggle Switch](images/um-toggle.png)
+   ![Toggle Switch](images/um-toggle.png)
 
 If switched off, all users cannot access. However, specific users, including vendors, can be added.
-  
+

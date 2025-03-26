@@ -31,19 +31,19 @@ Billing and subscription admins can view the subscription plans and their detail
 3. Select the required account.
 4. Click **SUBSCRIBED Products** tab.
 
-<kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
+   ![Subscription Tab](images/sub-tab.png)
 
 5. Select the required Product(s) to edit. For example, SHIP-HATS.
 
-<kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
+   ![Subscribed Product](images/sub-prod.png)
 
 6. To view the plan details of a SGTS Product, select the required Product and click the **Plan name**.
 
-<kbd><img src="images/view-sub.png" alt="drawing" width="100%"/></kbd>
+   ![View Subscription](images/view-sub.png)
 
 The **Plan details** are displayed.
 
-<kbd><img src="images/sub-det.png" alt="drawing" width="100%"/></kbd>
+   ![Subscription Details](images/sub-det.png)
 
 > **Note:** The **Edit subscription** and **Cancel subscription** options are not available for Billing admins.
 
@@ -58,29 +58,29 @@ The **Plan details** are displayed.
 3. Select the required account.
 4. Click **SUBSCRIBED PRODUCTS** tab.
 
-<kbd><img src="images/sub-tab.png" alt="drawing" width="100%"/></kbd>
+   ![Subscription Tab](images/sub-tab.png)
 
 5. Select the required Product to edit. For example, SHIP-HATS.
 
-<kbd><img src="images/sub-prod.png" alt="drawing" width="100%"/></kbd>
+   ![Subscribed Product](images/sub-prod.png)
 
 6. Click **Edit subscription**.
 
-<kbd><img src="images/edit-sub.png" alt="drawing" width="100%"/></kbd>
+   ![Edit Subscription](images/edit-sub.png)
 
 7. Click **Add another** to add more secondary subscription admins. You can have up to four secondary subscription admins.
 
-<kbd><img src="images/add-sub-admin-new.png" alt="drawing" width="100%"/></kbd>
+   ![Add Subscription Admin](images/add-sub-admin-new.png)
 
 8. You can increase plans and add-ons. To decrease a plan, contact the respective SGTS support team.
    
 9. Click **Next**.
 
-<kbd><img src="images/change-sub-next.png" alt="drawing" width="100%"/></kbd>
+   ![Change Subscription Next](images/change-sub-next.png)
 
 10. Review the changes and click **Submit**.
 
-<kbd><img src="images/change-sub-submit.png" alt="drawing" width="100%"/></kbd>
+   ![Change Subscription Submit](images/change-sub-submit.png)
 
 11. When prompted to confirm the changes, click **Confirm**.
 
@@ -95,7 +95,7 @@ Subscription admins can subscribe to other SGTS Products using TechBiz portal.
 3. Select the required account.
 4. Click **SUBSCRIBED PRODUCTS** tab \> **Add subscription**.
 
-<kbd><img src="images/add-sub.png" alt="drawing" width="100%"/></kbd>
+   ![Add Subscription](images/add-sub.png)
 
 5. Select the required SGTS Products and click **Next**.
 

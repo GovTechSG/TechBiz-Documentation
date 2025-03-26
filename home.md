@@ -22,6 +22,11 @@ If you're eligible, the tool will display the group you belong to.
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
 | Design | Designers | Jira, Confluence |
 
+### Additional resources
+
+- For more details on free access eligibility, refer to the [Free Access documentation](https://docs.developer.tech.gov.sg/docs/free-access/home).
+
+
 ## Popular topics
 |  |  | 
 | --- | --- |

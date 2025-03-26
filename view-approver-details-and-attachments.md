@@ -12,7 +12,7 @@ This section guides how subscription admins can view approver details and submit
 
 - You need a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
 - You need to be logged in to [TechBiz](https://portal.techbiz.suite.gov.sg/) portal.
-- A **TechBiz account** in pending, rejected or approved status.
+- A **TechBiz account** in pending, rejected, or approved status.
 
 **To view approver details and submitted attachments**
 
@@ -21,16 +21,16 @@ This section guides how subscription admins can view approver details and submit
 3. Select the required account.
 4. Click **APPROVED BY** tab to view approver details.
 
-The following details are displayed.
+The following details are displayed:
 
-<kbd><img src="images/approved-by.png" alt="drawing" width="100%"/></kbd>
+   ![Approved By](images/approved-by.png)
 
-> **Note:** Click **View and download summary to** download the details in .pdf file.
+> **Note:** Click **View and download summary** to download the details in a .pdf file.
 
 5. Click **ATTACHMENTS** tab to view the submitted attachments.
 
-The following details are displayed.
+The following details are displayed:
 
-<kbd><img src="images/view-att.png" alt="drawing" width="100%"/></kbd>
+   ![View Attachments](images/view-att.png)
 
 6. Click the attachments in the item list to download the files.

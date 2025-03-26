@@ -22,7 +22,7 @@ This sections guides how subscription admins can create a TechBiz system using a
 2. Go to the required TechBiz account.
 3. Click **SYSTEMS** \> **Create system**.
 
-<kbd><img src="images/create-sys.png" alt="drawing" width="100%"/></kbd>
+![Create System](images/create-sys.png)
 
 5. Enter the following details.
 

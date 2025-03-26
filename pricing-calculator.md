@@ -15,40 +15,38 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 1. From **Create subscription account**, under **Select products**, choose the required product(s).
 
-<kbd><img src="images/select-prod-cal.png" alt="drawing" width="100%"/></kbd>
+   ![Select Product](images/select-prod-cal.png)
 
 > **Note**: If you are exploring SGTS Products, navigate to the sidebar and click **Pricing Calculator**. Choose the product for which you want to estimate costs.
 
 2. Select a **Start date** for when you want to start subscribing.
 
-<kbd><img src="images/select-start-date-cal.png" alt="drawing" width="100%"/></kbd>
+   ![Select Start Date](images/select-start-date-cal.png)
 
 > **Note**: Not required for exploring SGTS products.
 
 Subscriptions will automatically include 3 GitLab Ultimate Users.
 
-<kbd><img src="images/automatic-inclusion.png" alt="drawing" width="100%"/></kbd>
+   ![Automatic Inclusion](images/automatic-inclusion.png)
 
 3. Choose a plan and specify the desired quantity.
 
-<kbd><img src="images/select-cal-plan.png" alt="drawing" width="100%"/></kbd>
+   ![Select Plan](images/select-cal-plan.png)
 
 > **Note**: To select add-ons, you must first choose a plan.
 
 4. Select any necessary add-ons.
 
-<kbd><img src="images/add-ons-cal.png" alt="drawing" width="100%"/></kbd>
+   ![Add-ons](images/add-ons-cal.png)
 
 5. The estimated cost will be displayed on the right-side panel.
 
-<kbd><img src="images/cost-estimate-3.png" alt="drawing" width="100%"/></kbd>
-
+   ![Cost Estimate](images/cost-estimate-3.png)
 
 > **Note**: If you are exploring SGTS products, click **Add to estimate**.
-
 
 **To save the cost estimate as a PDF**:
 
 - Click **Export to PDF**.
 
-<kbd><img src="images/cost-estimate-add.png" alt="drawing" width="100%"/></kbd>
+   ![Export to PDF](images/cost-estimate-add.png)

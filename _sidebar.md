@@ -5,7 +5,7 @@
 - **Getting started**
     - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
     - [Admin roles and permissions](admin-roles-and-permissions.md)
-    - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
+    - **Create subscription account**
         - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
         - [Create system](create-techbiz-system.md)
         - [Create and configure Resources](create-configure-resources.md)

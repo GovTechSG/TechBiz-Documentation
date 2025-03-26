@@ -16,6 +16,11 @@ For GovTech officers eligible for free access, no license purchase is required f
 
 > **Note:** Ensure that the TechBiz subscription account is active before initiating the creation of the SHIP-HATS account to avoid integration issues.
 
+### Additional Resources
+
+- For more details on free access eligibility, refer to the [Free Access documentation](https://docs.developer.tech.gov.sg/docs/free-access/home).
+- Users can verify if they have licenses under SHIP-HATS by checking their profile in the [SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/users-self-help?id=view-your-profile-license-and-subscription-details).
+
 ## Audience
 
 - Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.

@@ -20,24 +20,22 @@ Have the following details of the invitee before proceeding:
 - **Contact number**
 - **Organisation** name and **TechPass username** (only for vendors)
 
-
 ## Email invitation
 
 **To invite public officers**
 
 1. From the sidebar, click **Create TechPass account** > select **Email invitation**.
 
-<kbd><img src="images/invitation-email.png" alt="drawing" width="100%"/></kbd>
-
+   ![Email Invitation](images/invitation-email.png)
 
 2. Enter the required details and click **Submit**.
 
-<kbd><img src="images/email_invite3.png" alt="drawing" width="100%"/></kbd>
+   ![Enter Details](images/email_invite3.png)
 
 Refer to the following for more information on the required details.
 
-| <div style="width:270px">Field Name</div>  | Description |
-| :------------------------------------------ |:-------------|
+| Field Name  | Description |
+| :---------- |:-------------|
 | **Email address** | Enter the email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers.<br> |
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Select **Yes** if the public officer needs SEED provisioning.<br /><br /> **Note**: SEED provisioning is needed to access SGTS Products from the Internet device. |
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account. |
@@ -48,16 +46,16 @@ Refer to the following for more information on the required details.
 
 1. From the sidebar, click **Create TechPass account** > select **Create single account**.
 
-<kbd><img src="images/create-account.png" alt="drawing" width="100%"/></kbd>
+   ![Create Account](images/create-account.png)
 
 2. Enter the required details and click **Submit**.
 
-<kbd><img src="images/create_acct2.png" alt="drawing" width="100%"/></kbd>
+   ![Submit Account](images/create_acct2.png)
 
 Refer to the following for more information on the required details.
 
-| <div style="width:270px">Field Name</div>  | Description |
-| :------------------------------------------ |:-------------|
+| Field Name  | Description |
+| :---------- |:-------------|
 | **Email address**| Enter the organisational email address of the vendor who requires a TechPass account. </br></br> **Note:** The email address must be the email address provided by the vendor. |
 | **TechPass username** | Enter the required username for the TechPass account. </br></br> **Note**: TechPass username is not required for a public officer. |
 | **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />**Note: Department** is optional. |
@@ -70,37 +68,37 @@ Refer to the following for more information on the required details.
 
 1. From the sidebar, click **Create TechPass account** > select **Create multiple accounts**.
 
-<kbd><img src="images/create-multiple-acc.png" alt="drawing" width="100%"/></kbd>
+   ![Create Multiple Accounts](images/create-multiple-acc.png)
 
 2. Click **Download excel template link**.
 
-<kbd><img src="images/download-template.png" alt="drawing" width="100%"/></kbd>
+   ![Download Template](images/download-template.png)
 
 3. Open the downloaded .xlsx file extension, specify the required details and save the file.
 4. In **Upload user list** section, select **Choose a file**.
 
-<kbd><img src="images/choose-file.png" alt="drawing" width="100%"/></kbd>
+   ![Choose File](images/choose-file.png)
 
 5. Select the saved file and upload it.
 6. Click **Submit** > **Confirm**.
 
-> **Note**: Users with an existing TechPass account is flagged as a duplicate entry.
+   > **Note**: Users with an existing TechPass account is flagged as a duplicate entry.
 
-<kbd><img src="images/batch-upload-submit.png" alt="drawing" width="100%"/></kbd>
+   ![Batch Upload Submit](images/batch-upload-submit.png)
 
 A confirmation message is displayed.
 
 - To view or edit user details, click the ellipsis > **View details**.
 
-<kbd><img src="images/view-details.png" alt="drawing" width="100%"/></kbd>
+   ![View Details](images/view-details.png)
 
 - To delete a single user, click **Remove**.
 
-<kbd><img src="images/remove-user.png" alt="drawing" width="100%"/></kbd>
+   ![Remove User](images/remove-user.png)
 
 - To delete all users, click **Reset** > **Confirm**.
 
-<kbd><img src="images/reset.png" alt="drawing" width="100%"/></kbd>
+   ![Reset Users](images/reset.png)
 
 ## User creation status
 
@@ -110,10 +108,11 @@ Public officers can view the status of the users they have invited using TechBiz
 
 1. From the sidebar, click **Create TechPass account** > select **User creation status**.
 
-<kbd><img src="images/invite-stats.png" alt="drawing" width="100%"/></kbd>
+   ![Invite Stats](images/invite-stats.png)
 
-2.  Click **Resend invite** to re-invite users. Invitations can be resubmitted once a day.
+2. Click **Resend invite** to re-invite users. Invitations can be resubmitted once a day.
 
->**Notes:**
-> - Only users invited via TechBiz portal will be displayed on this list. 
-> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create single account](#create-single-account) or [create multiple account](#create-multiple-account). 
+   >**Notes:**
+   > - Only users invited via TechBiz portal will be displayed on this list. 
+   > - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through [create single account](#create-single-account) or [create multiple account](#create-multiple-account). 
+

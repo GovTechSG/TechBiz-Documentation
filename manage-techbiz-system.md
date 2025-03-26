@@ -1,7 +1,6 @@
 # Manage system
 
-This section guides how subscription and technical admins can edit and manage Techbiz system(s).
-
+This section guides how subscription and technical admins can edit and manage TechBiz system(s).
 
 - [Edit TechBiz system details](#edit-techbiz-system-details)
 
@@ -19,7 +18,7 @@ This section guides how subscription and technical admins can edit and manage Te
 
 ## Edit TechBiz system details
 
-**Subscription admins and technical admins** can edit system description, update the status of your DGP sub-system and add sub-system ID, remove and add new technical admins.
+**Subscription admins and technical admins** can edit system description, update the status of your DGP sub-system, and add sub-system ID, remove, and add new technical admins.
 
 **To edit system details**
 
@@ -34,7 +33,7 @@ This section guides how subscription and technical admins can edit and manage Te
 
 7. To update the status of your Digital Governance Platform (DGP) ID, select the option button required.
 
-<kbd><img src="images/dgp-button.png" alt="drawing" width="100%"/></kbd>
+   ![DGP Button](images/dgp-button.png)
 
 > **Note:** The **DGP sub-system ID** dropdown list appears when **Yes, I have a DGP ID** is selected.
 
@@ -48,7 +47,6 @@ This section guides how subscription and technical admins can edit and manage Te
 
 10. Click **Submit**.
 
-<kbd><img src="images/edit-sys-det.png" alt="drawing" width="100%"/></kbd>
+   ![Edit System Details](images/edit-sys-det.png)
 
 A confirmation message is displayed.
-

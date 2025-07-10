@@ -16,16 +16,17 @@ For GovTech officers eligible for free access, no license purchase is required f
 
 > **Note:** Ensure that the TechBiz subscription account is active before initiating the creation of the SHIP-HATS account to avoid integration issues.
 
-### Additional Resources
+### Additional resources
 
 - For more details on free access eligibility, refer to the [Free Access documentation](https://docs.developer.tech.gov.sg/docs/free-access/home).
 - Users can verify if they have licenses under SHIP-HATS by checking their profile in the [SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/users-self-help?id=view-your-profile-license-and-subscription-details).
 
 ## Audience
 
-- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
+- Public officers using a Comet, non-SE GSIB, or GMD (Government Managed Device) can create a subscription account.
 
-The following table tells you the different types of admins in TechBiz portal.
+
+The following table outlines the different types of admins in the TechBiz portal:
 
 | Role  | Request for TechBiz subscription account | Manage TechBiz subscription account | Add TechBiz system | Configure TechBiz system | View subscription account details and download information |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:|
@@ -47,7 +48,7 @@ Have the following information ready before proceeding:
   - **Additional subscription admins (up to 5)**
   - **Billing admin**
 - Name, organisational email address, and designation:
-  - **Approver** (Deputy Director or above)
+  - **Approver** (CIO or delegate)
 - Subscription account name
 - Billing details:
   - **Sub business unit (SBU)**
@@ -55,13 +56,13 @@ Have the following information ready before proceeding:
 - Subscription plans for the required SGTS product(s)
 - Supporting documents (optional)
 
-## Step 1: Agree to the terms and conditions of the GovTech Universal Product Terms and SGTS Product Sheet
+## Step 1: Prerequisites
 
 1. From the sidebar, click **Subscription accounts** > **Create subscription account**.
-2. Ensure the above information in prerequisites is ready and click **Next**.
-3. To download the agreement, click **Download the SGTS agreement** link.
-4. Agree to the terms and conditions of the **GovTech Universal Product Terms** and **SGTS Product Sheet**.
-5. Click **Next**.
+2. Ensure the information listed in **Prerequisites** above is ready.
+3. Click **Next** to proceed.
+
+> **Note:** Any product agreement(s) will be shown later in Step 6, depending on the product(s) selected. You may download and review them before submitting your request.
 
 ## Step 2: Enter subscription account details
 
@@ -112,17 +113,19 @@ Have the following information ready before proceeding:
 
 5. Click **Next**.
 
-## Step 3: Select SGTS products for subscription
+## Step 3: Select products for subscription
 
-1. In **Select products**, choose the required **SGTS product(s)** and click **Next**.
+1. In **Select products**, choose the required **SGTS or non-SGTS product(s)** and click **Next**.
 
 > **Note:** To get a cost estimate, visit the [pricing calculator](pricing-calculator.md).
 
 ## Step 4: Select subscription plans
 
-1. In **Select plan(s)**, choose a subscription plan for each selected SGTS product.
+1. In **Select plan(s)**, choose a subscription plan for each selected product.
 
-2. Click **Start date** to select when your agency will begin using the product.
+2. If applicable, select a **Start date** to indicate when your agency will begin using the product.
+
+> **Note:** For products where date selection is not relevant, this step may be skipped automatically.
 
 ## Step 5: Enter approver details
 
@@ -130,15 +133,17 @@ Have the following information ready before proceeding:
 
 > **Notes:**
 > - The **Approver** must be a public officer with a valid organisational email address.
-> - The **Approver** needs to be a Deputy Director or above.
+> - The **Approver** needs to be a **CIO or delegate**.
 
-## Step 6: Submit subscription account request
+## Step 6: Review agreements and submit
 
-1. Review all details in the **Summary** page.
-2. Select all checkboxes to confirm agreement with terms.
-3. Click **Submit**.
+1. A list of product agreements will appear, based on the selected products:
+   - SGTS products will be grouped under a shared SGTS agreement.
+   - Non-SGTS products will be listed individually with their respective agreements.
+2. Click **Download the product agreement(s)**. If there is more than one agreement, the files will be downloaded as a zip.
+3. Review all details in the **Summary** page.
+4. Select the checkboxes to confirm that you have reviewed and agree to the product agreement(s).
+5. Click **Submit**.
 
 A confirmation message will verify that the subscription account request has been submitted for approval.
-
-
 

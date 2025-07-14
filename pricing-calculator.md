@@ -11,9 +11,8 @@ You may want to generate a cost estimate if you are:
 
 This Pricing calculator is designed to provide you with a quick and accurate estimation of subscription costs.
 
-> **Note:** For StackOps, you can refer to the [official pricing documentation](https://go.gov.sg/stackops-pricing).
-
-> **Important:** For other products like APEX and CFT, pricing details may not be publicly available. Please check directly in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/) after logging in.
+> **Note:** For StackOps, you can refer to the [official pricing documentation](https://go.gov.sg/stackops-pricing).  
+> For other products such as APEX and CFT, pricing details may not be publicly available. Please check the **Pricing calculator** in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/) for the most up-to-date pricing.
 
 ## To generate cost estimate
 

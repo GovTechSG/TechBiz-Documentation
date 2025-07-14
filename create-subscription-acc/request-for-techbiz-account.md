@@ -23,21 +23,21 @@ For GovTech officers eligible for free access, no license purchase is required f
 
 ## Audience
 
-- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) or [GMD](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/additional-resources/glossary?id=gmd) device.
+- Public officers with a valid organisational email address. For example, *your_name@agency.gov.sg,* using a **COMET (non-SE)** or **GMD (Government Managed Device)**.
 
 The following table tells you the different types of admins in TechBiz portal.
 
-| Role  | Request for TechBiz subscription account | Manage TechBiz subscription account | Add TechBiz system | Configure TechBiz system | View subscription account details and download information |
-| ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:|
-| Primary subscription admin (1 required) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Role                               | Request for TechBiz subscription account | Manage TechBiz subscription account | Add TechBiz system | Configure TechBiz system | View subscription account details and download information |
+|------------------------------------|:----------------------------------------:|:-----------------------------------:|:------------------:|:-------------------------:|:----------------------------------------------------------:|
+| Primary subscription admin (1 required)   | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Secondary subscription admin (1 required) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Additional subscription admins (up to 5) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Billing admin | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Technical admin | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Additional subscription admins (up to 5)  | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Billing admin                             | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Technical admin                           | ❌ | ❌ | ❌ | ✅ | ✅ |
 
 ## Prerequisites
 
-- Public officers using a [non-SE GSIB](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/glossary) device can create a subscription account.
+- Public officers using a **COMET (non-SE)** or **GMD** device can create a subscription account.
 
 Have the following information ready before proceeding:
 
@@ -52,7 +52,7 @@ Have the following information ready before proceeding:
 - Billing details:
   - **Sub business unit (SBU)**
   - **Agency department** name, **Cost centre** and **Fund centre** (only for GovTech)
-- Subscription plans for the required SGTS product(s)
+  - Subscription plans for the required SGTS product(s)
 - Supporting documents (optional)
 
 ## Step 1: Agree to the terms and conditions of the GovTech Universal Product Terms and SGTS Product Sheet
@@ -72,11 +72,11 @@ Have the following information ready before proceeding:
 > - At any point before submitting the account creation request, click **Save draft** to save the specified account details.
 > - You can access the saved draft within 14 days to continue with the account creation request.
 
-| **Field name** | **Description** |
-|---------------|---------------|
-| **Agency name** | Select your agency name from the drop-down list. |
+| **Field name**               | **Description** |
+|-----------------------------|-----------------|
+| **Agency name**             | Select your agency name from the drop-down list. |
 | **Subscription account name** | Enter the account name. Account names can only contain alphanumeric characters and must not exceed 50 characters. Names must begin with a letter or digit and must contain at least one alphabet character. |
-| **Account short name** | An account short name is generated as a unique identifier. It can be edited before submission but cannot be changed after creation. |
+| **Account short name**      | An account short name is generated as a unique identifier. It can be edited before submission but cannot be changed after creation. |
 
 2. Enter the **Subscription admins** details.
 
@@ -86,29 +86,29 @@ Have the following information ready before proceeding:
 > - **Primary subscription admin** and **Secondary subscription admin** must be public officers with a valid organisation email address.
 > - If the public officer does not have a TechPass account, it will be created automatically after the account creation request is approved.
 
-| **Field name** | **Description** |
-|---------------|---------------|
+| **Field name**                          | **Description** |
+|----------------------------------------|-----------------|
 | **Primary subscription admin (Requestor)** | The requestor is assigned as the **Primary subscription admin** by default. |
-| **Email address** | The organisational email address of the requestor is automatically displayed and cannot be edited. |
-| **First name** | These details will be automatically displayed if the email address is linked to a TechPass account. Otherwise, they must be entered manually. |
-| **Last name** | Same as above. |
-| **Contact number** | Displayed if linked to a TechPass account; otherwise, enter manually. |
-| **Secondary subscription admin** | Enter details for up to **five** secondary subscription admins. |
+| **Email address**                       | The organisational email address of the requestor is automatically displayed and cannot be edited. |
+| **First name**                          | These details will be automatically displayed if the email address is linked to a TechPass account. Otherwise, they must be entered manually. |
+| **Last name**                           | Same as above. |
+| **Contact number**                      | Displayed if linked to a TechPass account; otherwise, enter manually. |
+| **Secondary subscription admin**        | Enter details for up to **five** secondary subscription admins. |
 
 4. Enter the **Billing details**.
 
-| **Field name** | **Description** |
-|---------------|---------------|
-| **Email address** | Enter the organisational email address of the **Billing admin**. |
-| **First name** | Displayed if linked to a TechPass account; otherwise, enter manually. |
-| **Last name** | Same as above. |
-| **Contact number** | Displayed if linked to a TechPass account; otherwise, enter manually. |
-| **Agency department** | Enter your department name. |
-| **Cost centre** | Enter the cost centre code for your agency. |
-| **Fund centre** | Enter fund centre details (only for GovTech accounts). |
-| **SBU code** | Select the sub business unit (for agencies other than GovTech). |
-| **Payment mode** | Select the appropriate payment mode. |
-| **Customer ID** | Enter your customer ID. |
+| **Field name**       | **Description** |
+|----------------------|-----------------|
+| **Email address**    | Enter the organisational email address of the **Billing admin**. |
+| **First name**       | Displayed if linked to a TechPass account; otherwise, enter manually. |
+| **Last name**        | Same as above. |
+| **Contact number**   | Displayed if linked to a TechPass account; otherwise, enter manually. |
+| **Agency department**| Enter your department name. |
+| **Cost centre**      | Enter the cost centre code for your agency. |
+| **Fund centre**      | Enter fund centre details (only for GovTech accounts). |
+| **SBU code**         | Select the sub business unit (for agencies other than GovTech). |
+| **Payment mode**     | Select the appropriate payment mode. |
+| **Customer ID**      | Enter your customer ID. |
 
 5. Click **Next**.
 

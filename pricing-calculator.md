@@ -13,8 +13,9 @@ This Pricing calculator is designed to provide you with a quick and accurate est
 
 > **Note:** For StackOps, you can refer to the [official pricing documentation](https://go.gov.sg/stackops-pricing).
 
+> **Important:** For other products like APEX and CFT, pricing details may not be publicly available. Please check directly in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/) after logging in.
 
-**To generate cost estimate**:
+## To generate cost estimate
 
 1. From **Create subscription account**, under **Select products**, choose the required product(s).
 
@@ -48,7 +49,7 @@ Subscriptions will automatically include 3 GitLab Ultimate Users.
 
 > **Note**: If you are exploring SGTS products, click **Add to estimate**.
 
-**To save the cost estimate as a PDF**:
+## To save the cost estimate as a PDF
 
 - Click **Export to PDF**.
 

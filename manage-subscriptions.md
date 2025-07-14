@@ -101,3 +101,6 @@ For more information, go to [**Create subscription account**](request-for-techbi
 ## Cancel subscription
 
 Contact the respective SGTS support team for more information.
+
+> **Note:** To cancel your APEX Cloud subscription, visit [go.gov.sg/techbiz-sr](https://go.gov.sg/techbiz-sr).
+

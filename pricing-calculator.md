@@ -11,6 +11,9 @@ You may want to generate a cost estimate if you are:
 
 This Pricing calculator is designed to provide you with a quick and accurate estimation of subscription costs.
 
+> **Note:** For StackOps, you can refer to the [official pricing documentation](https://go.gov.sg/stackops-pricing).
+
+
 **To generate cost estimate**:
 
 1. From **Create subscription account**, under **Select products**, choose the required product(s).

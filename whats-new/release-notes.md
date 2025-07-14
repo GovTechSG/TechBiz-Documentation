@@ -119,6 +119,129 @@
 | **Fix** | **Incorrect amount shown after applying promo code** | The Summary page now shows the correct discounted total after a promotion is applied. |
 | **Fix** | **Subscription admin update now works without billing info** | Users can now update subscription admins even if the billing section is empty for older accounts. |
 | **Fix** | **Summary PDF resource section now displays correctly** | Fixed layout issues where the resource section was missing or displayed incorrectly in the summary PDF. |
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **Clearer message and weekly reminders for missing admins** | Users now see a warning if a subscription or technical admin was deleted in TechPass, along with weekly email reminders to update admin info. |
+
+## June 2025
+
+**20 Jun 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **StackOps pricing now links to official documentation** | Users can now click the external link on the StackOps product card to access the official sizing and pricing guide on the StackOps documentation site. |
+
+**6 Jun 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **Visual pricing display for products without plan cards** | Some products now show a pricing image instead of selectable plan cards to better explain complex pricing structures. This image also appears on the summary page. |
+| **Change** | **Updated approval step description** | The label in the approval step now reads "CIO and delegates" instead of "Deputy Director and above" for clarity. |
+
+## May 2025
+
+**23 May 2025**
+
+| Type | Fix | Description |
+| --- | --- | --- |
+| **Fix** | **Service month and billing period now shown correctly** | The monthly billing report now accurately shows the billing and service periods in the correct format, reducing manual updates. |
+
+**17 May 2025**
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **Preliminary invoice email now includes dispute window** | Email notifications now remind Subscription and Billing Admins to raise billing disputes within 14 days of receiving their preliminary invoice. |
+
+**14 May 2025**
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **Clearer guidance for cancelling APEX Cloud subscriptions** | Users now see a note explaining how to cancel APEX Cloud subscriptions by submitting a support request at go.gov.sg/techbiz-sr. |
+
+**10 May 2025**
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **Simplified plan selection during onboarding** | Sections with no available plans are now hidden during onboarding, making the experience cleaner and more intuitive. |
+
+**9 May 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **Add and manage tags for systems and resources** | Agencies and products can now tag their resources to organise and track them more easily. Tags can be edited, removed, or kept hidden depending on access. |
+
+## April 2025
+
+**25 Apr 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **APEX billing format now supported** | The new APEX invoice format is now reflected in the preliminary invoice for improved clarity and consistency with APEX billing needs. |
+
+| Type | Fix | Description |
+| --- | --- | --- |
+| **Fix** | **Role switching no longer exposes restricted actions** | Users who switch roles during a session can no longer access actions tied to higher privileges in other accounts. |
+
+**11 Apr 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **Improved onboarding for non-SGTS products** | Products that do not follow SGTS now show customised product agreements and remove SGTS-specific steps, providing a clearer onboarding flow. |
+| **Change** | **'Audit logs' renamed to 'Activity logs' across the portal** | We have renamed audit log references to “activity logs” to better reflect the content and improve consistency across screens and emails. |
+
+## March 2025
+
+**28 Mar 2025**
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **Activity log now includes historical account approvals** | The activity log now shows past approvals and rejections that were previously only listed in the old activity feed, giving users a more complete view of their account history. |
+| **Fix** | **Blank screen issue resolved for users accessing via GMD** | TechBiz now loads correctly when accessed on SEED-enabled (GMD) devices. Users will no longer encounter a blank screen. |
+| **Fix** | **History log now shows correct subscription quantities** | The quantity displayed in the history log now reflects the highest value used within the billing period, ensuring consistency with invoices. |
+| **Fix** | **Cost estimate now updates after trial ends** | After a trial ends, the cost estimate in the subscription screen now shows actual charges instead of $0, helping users avoid billing surprises. |
+
+**21 Mar 2025**
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **More details now included in resource activity logs** | The resource activity log now includes requestor and approver information, providing clearer traceability for changes made. |
+
+**17 Mar 2025**
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change** | **Banner added to guide offshore TechPass account creation** | A banner now appears when creating users to guide you to the TechPass Portal for offshore vendor accounts. Includes links to step-by-step instructions. |
+
+**14 Mar 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **New activity log to track account changes** | A new activity log section is now available under “History Logs,” showing a record of actions performed on your account. It includes filters and CSV download options. |
+
+**7 Mar 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **User mailing list download now available** | Admins can now download mailing lists for all users, not just other admins. This makes it easier to communicate with the full team involved in each account. |
+
+## January 2025
+
+**24 Jan 2025**
+
+| Type | Fix | Description |
+| --- | --- | --- |
+| **Fix** | **PDF export button display issue resolved** | Fixed a display issue where the “Export to PDF” button on the Edit Subscription page appeared incorrectly. |
+
+**10 Jan 2025**
+
+| Type | Fix | Description |
+| --- | --- | --- |
+| **Fix** | **Fixed error when searching for group name** | Searching for group names under account user management now works as expected, even with unusual inputs. |
+| **Fix** | **Notification error resolved for “Mark all as read”** | Users can now mark all notifications as read without encountering errors. |
+| **Fix** | **Fix for promotional code not appearing after creation** | Newly created promotional codes now appear immediately in the table, without needing a page refresh. |
+| **Fix** | **Incorrect amount shown after applying promo code** | The Summary page now shows the correct discounted total after a promotion is applied. |
+| **Fix** | **Subscription admin update now works without billing info** | Users can now update subscription admins even if the billing section is empty for older accounts. |
+| **Fix** | **Summary PDF resource section now displays correctly** | Fixed layout issues where the resource section was missing or displayed incorrectly in the summary PDF. |
 | 
 ## November 2024
 

@@ -1,74 +1,111 @@
-# Create and configure Resources
+# Create and configure **Resources**
 
-Agencies are required to create and configure their resources required for their systems within the TechBiz.
+Agencies must create and configure their **Resources** in TechBiz for their subscribed products. Each product may use different terms for what a **Resource** means, so the labels and descriptions will change depending on the product you select.
 
-You need to create your system before creating your resources.
+> **Note:** Field names such as **Resource name**, **type**, or **description** will automatically reflect the terminology specific to the product you choose (e.g. *Organisation* for APEX, *Deployment* for StackOps, *Project* for CFT).
 
-**To create and configure subscribed Resources**:
+You must create a **System** before creating a **Resource**.
+
+---
+
+## To create and configure a **Resource**:
 
 1. From the sidebar, click **Accounts**.
-2. Go to the required TechBiz account.
-3. Click **RESOURCES**.
+2. Go to the relevant TechBiz account.
+3. Click the **RESOURCES** tab.
 4. Click **Create Resource**.
 
 ![res](images/create-resource.png)
 
-5. Select the required product.
-6. Select the required **resource type**.
-> **Note**: Currently, this selection is not applicable for SHIP-HATS.
-7. Enter a resource name. Resource names can only contain alphanumeric characters, must not exceed 50 characters, and should include only letters, digits, '.', '&', '_', '*', '@', '/', '-', spaces, and parentheses. Names must begin with a letter or digit and must contain at least one alphabet character.
+5. Select the **Product**.
+6. Select the **Resource type**, if applicable.
 
-Resource names cannot consist solely of the following words:
-- default
-- dev
-- local
-- prod
-- production
-- stackops
+> **Note:** This selection is not applicable for SHIP-HATS.
 
-However, these words can be included as part of a longer name. For example, *prod-server1* or *development-environment*.
+7. Enter a **Resource name**:
+   - Must begin with a letter or digit.
+   - Must include at least one letter.
+   - Allowed characters: `.`, `&`, `_`, `*`, `@`, `/`, `-`, spaces, and parentheses.
+   - Maximum 50 characters.
+   - Cannot consist only of the following words:  
+     `default`, `dev`, `local`, `prod`, `production`, `stackops`  
+   - These words are allowed as part of longer names (e.g. `prod-server1`).
 
-A short name will be automatically generated as a unique identifier. The short name can be edited before submission but cannot be changed once submitted.
+8. A **Resource short name** will be automatically generated. You can edit it before submission but not after.
 
-8. Provide a resource description.
+9. Provide a **Resource description** (max 255 characters).
 
-9. Select the required system(s) for the resource, and if required, tag multiple systems for resource provisioning.
+10. Fill in any other fields shown on screen (e.g. contact email).
 
-![cr](images/cr.png)
-> **Note**: StackOps currently can only tag one system to one resource.
+11. Select one or more **Systems** to tag to this **Resource**.
 
-Each SGTS Product will have different requirements for Resource configuration. Click the triangle icon below to view Resource configuration instructions for the required SGTS Product.
+> **Note:** StackOps only allows tagging one System per **Resource**.
+
+12. (Optional) Add **Tags** to categorise and filter your **Resources**:
+   - Tags are case-insensitive.
+   - Tags cannot contain colons `:`.
+   - Maximum 255 characters each.
+
+13. Click **Submit**.
+
+A success message will confirm your **Resource** has been created.
+
+---
+
+## Product-specific instructions
+
+Some products will show extra fields depending on what they require.
 
 <details>
-  <summary>SHIP-HATS</summary>
+  <summary><strong>SHIP-HATS</strong></summary>
 
-This step is currently not applicable for SHIP-HATS. To configure resources, please proceed to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
+This step is not applicable for SHIP-HATS.  
+To manage **Resources**, go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 
-  </details>
+</details>
 
 <details>
-  <summary>StackOps</summary>
+  <summary><strong>StackOps</strong></summary>
 
-10. Specify the required information for your Elastic deployment.
+You will be asked to fill in additional deployment details:
 
-![image](images/stakops-add-prod.png)
-
-| Field name | Description |
+| Field | Description |
 | --- | --- |
-| **This is a system in production**	| Select this checkbox to indicate if this deployment is for a system that is currently in production. |
-| **Cloud Service Provider** | Select your cloud service provider for the deployment. |
-| **Elastic Version Number** | Depending on the selected cloud Product provider, this dropdown lists all the supported versions of ElasticSearch. |
-| **Deployment Size**	| Depending on your daily data ingestion rate, choose the required size from the following options. The options are listed in alphabetical order. <br><br>**extra small**<br>**medium**<br>**small**<br>**large** |
-| **Sizing Details** | This section is displayed only when you specify the **Deployment Size**. When you select the required size, you can see the **Memory Size (MB)** and **Storage Size (GB)** that will be provisioned for this deployment under Sizing Details. It also displays the **Instance Type** and **Number of Zones** that are available for a particular **Instance**. <br><br> **Note**: If you need a custom size, you are required to raise a [service request](https://go.gov.sg/stackops-support). |
+| **This is a system in production** | Tick if the deployment is for a live system. |
+| **Cloud Service Provider** | Select your cloud provider. |
+| **Elastic Version Number** | Lists available versions based on your provider. |
+| **Deployment Size** | Choose from: `extra small`, `small`, `medium`, or `large`. |
+| **Sizing Details** | Appears once a size is selected. Includes memory, storage, instance type, and number of zones. <br><br>**Need a custom size?** [Raise a service request](https://go.gov.sg/stackops-support). |
 
-11. Click **Submit**.
+</details>
 
+<details>
+  <summary><strong>Cloud File Transfer (CFT)</strong></summary>
 
-12. A success message will be displayed. 
+You will be asked to fill in the following fields:
 
+| Field | Description |
+| --- | --- |
+| **Project name** | Enter the name for your CFT Project. |
+| **Project short name** | Auto-generated. You may edit before submission. |
+| **Project description** | Briefly describe the purpose of this Project. |
+| **Existing Project ID (Migration)** | *(Optional)* Enter if you are migrating from a previous setup. |
 
+</details>
 
-  </details>
+<details>
+  <summary><strong>APEX</strong></summary>
 
+You will be asked to fill in the following fields:
+
+| Field | Description |
+| --- | --- |
+| **Organisation name** | Enter the organisation name. |
+| **Short name** | Auto-generated. You may edit before submission. |
+| **Organisation description** | Brief description of the organisation’s purpose. |
+| **Primary Contact Email** | Enter the main point of contact. |
+| **Secondary Contact Email** | (Optional) Enter an additional contact. |
+
+</details>
 
 

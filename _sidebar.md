@@ -20,6 +20,7 @@
     - [Approve or reject account request](approve-or-reject-techbiz-account.md)
     - [Manage user access](manage-user-access-subscribed-sgts-products.md)
     - [View approver details](view-approver-details-and-attachments.md)
+    - [View activity logs](activity-logs.md)
     - [Pricing calculator](pricing-calculator.md)
     - [Preliminary invoice](preliminary-invoice.md)
     - [Notifications](notifications.md)

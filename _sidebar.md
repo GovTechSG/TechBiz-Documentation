@@ -7,7 +7,7 @@
     - [Admin roles and permissions](admin-roles-and-permissions.md)
     - **Create subscription account**
         - [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)
-        - [Create subscription account - Vendors](create-subscription-acc/ats-flow.md)
+        <!--- [Create subscription account - Vendors](create-subscription-acc/ats-flow.md)-->
         - [Create system](create-techbiz-system.md)
         - [Resource terminology by product](create-subscription-acc/resource-terminology-by-product.md)
         - [Create and configure Resources](create-configure-resources.md)

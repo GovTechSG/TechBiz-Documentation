@@ -3,6 +3,8 @@
 Agencies must create and configure their **Resources** in TechBiz for their subscribed products. Each product may use different terms for what a **Resource** means, so the labels and descriptions will change depending on the product you select.
 
 > **Note:** Field names such as **Resource name**, **type**, or **description** will automatically reflect the terminology specific to the product you choose (e.g. *Organisation* for APEX, *Deployment* for StackOps, *Project* for CFT).
+> **Note:** Field names such as **Resource name**, **type**, or **description** will automatically reflect the terminology specific to the product you choose (e.g. *Organisation* for APEX, *Deployment* for StackOps, *Project* for CFT).  
+> [View the full list of product-specific resource terminology →](/create-subscription-acc/resource-terminology-by-product))
 
 You must create a **System** before creating a **Resource**.
 

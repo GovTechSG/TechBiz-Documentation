@@ -6,12 +6,14 @@ Each product may use different terms to describe a resource and its type. The fo
 
 ## Terminology reference
 
+## Terminology reference
+
 | Field | APEX | StackOps | CFT |
 |---|---|---|---|
-| Resource | Organisation | Deployment | Project |
-| Resource type | – | Deployment | – |
-| Resource name | Name of organisation | Name of deployment | Name of project |
-| Resource shortname | Organisation code | Deployment ID | Project ID |
+| Resource             | Organisation            | Deployment  | Project   |
+| Resource type        | Stg access / Prod access | Deployment  | Project   |
+| Resource name        | Name of organisation    | Name of deployment | Name of project |
+| Resource shortname   | Organisation code       | Deployment ID | Project ID |
 | Resource description | Purpose of organisation | Purpose of deployment | Purpose of project |
 
 > **Note**  

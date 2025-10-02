@@ -2,7 +2,7 @@
 
 When a public officer submits a request to create an account, the **Approver** receives an email and a notification on the TechBiz portal to process the request. **Subscription admins** and **Billing admin** will also be notified.
 
-> **Note:** Only a Deputy director or above can approve the account request.
+> **Note:** Only CIOs or delegates can approve the account request.
 
 ## Approve or reject an account request on TechBiz portal
 

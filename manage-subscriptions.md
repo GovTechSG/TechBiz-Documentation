@@ -49,14 +49,14 @@ The **Plan details** are displayed.
 
 ## Edit subscription details
 
-**Subscription admins** can edit subscription details such as start date and subscription plans. You can also [add other SGTS Products to the existing subscriptions](#subscribe-to-other-sgts-products).
+**Subscription admins** can edit subscription details such as start date and subscription plans. You can also add other products to the existing subscriptions.
 
 **To edit subscription details of a TechBiz account**
 
 1. From the sidebar, click **Accounts**.
 2. Select **APPROVED** from the **Status** dropdown list to view all the approved accounts.
 3. Select the required account.
-4. Click **SUBSCRIBED PRODUCTS** tab.
+4. Click **SUBSCRIBED PRODUCTS** tab > Subscribe new products
 
    ![Subscription Tab](images/sub-tab.png)
 
@@ -68,9 +68,8 @@ The **Plan details** are displayed.
 
    ![Edit Subscription](images/edit-sub.png)
 
-7. You can increase plans and add-ons.  
-   > **Note:** To decrease a plan, contact the respective SGTS support team.
-
+7. You can adjust plans and add-ons.  
+   
 8. Click **Next**.
 
    ![Change Subscription Next](images/change-sub-next.png)
@@ -96,11 +95,9 @@ Subscription admins can subscribe to other SGTS Products using the TechBiz porta
 
 5. Select the required SGTS Products and click **Next**.
 
-For more information, go to [**Create subscription account**](request-for-techbiz-account.md) and follow from Step 4 onwards to complete the subscription.
+For more information, go to [**Create subscription account**](create-subscription-acc/request-for-techbiz-account.md) and follow from Step 4 onwards to complete the subscription.
 
 ## Cancel subscription
 
-Contact the respective SGTS support team for more information.
-
-> **Note:** To cancel your APEX Cloud subscription, visit [go.gov.sg/techbiz-sr](https://go.gov.sg/techbiz-sr).
+To cancel your  subscription, raise a [Service Request](https://go.gov.sg/techbiz-sr).
 

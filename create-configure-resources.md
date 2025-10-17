@@ -93,6 +93,20 @@ You will be asked to fill in the following fields:
 | **Project description** | Briefly describe the purpose of this Project. |
 | **Existing Project ID (Migration)** | *(Optional)* Enter if you are migrating from a previous setup. |
 
+The **Project name** can only include the following characters:
+
+- Uppercase letters: `A–Z`  
+- Lowercase letters: `a–z`  
+- Digits: `0–9`  
+- Space  
+- Underscore (`_`)  
+- Hyphen (dash) (`-`)  
+- Period (dot) (`.`)  
+- Forward slash (`/`)  
+- Parentheses: `(` and `)`  
+
+> **Note:** Avoid using other special characters (such as `@`, `#`, `!`, `*`) in the project name.
+
 
 </details>
 

@@ -11,7 +11,7 @@ The Activity logs provide a detailed breakdown of events related to your subscri
 - **Event type** (for example, account created, resource updated)  
 - **Description** of the action taken  
 
-![Activity log example](../images/techbiz-activity-log.png)
+![Activity log example](/images/techbiz-activity-log.png)
 
 ## Types of tracked activity
 

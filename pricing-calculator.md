@@ -6,50 +6,51 @@ The Pricing calculator in TechBiz allows subscription administrators to estimate
 
 You may want to generate a cost estimate if you are:
 
-1. Subscribing to SGTS Products
-2. Exploring SGTS Products
+1. Subscribing to Central Products  
+2. Exploring Central Products  
 
 This Pricing calculator is designed to provide you with a quick and accurate estimation of subscription costs.
 
 > **Note:** For StackOps, you can refer to the [official pricing documentation](https://go.gov.sg/stackops-pricing).  
 > For other products such as APEX and CFT, pricing details may not be publicly available. Please check the **Pricing calculator** in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/) for the most up-to-date pricing.
 
-## To generate cost estimate
+---
 
-1. From **Create subscription account**, under **Select products**, choose the required product(s).
+## Ways to generate a cost estimate
 
-   ![Select Product](images/select-prod-cal.png)
+There are two ways to generate a cost estimate:
 
-> **Note**: If you are exploring SGTS Products, navigate to the sidebar and click **Pricing Calculator**. Choose the product for which you want to estimate costs.
+### 1. Using the Pricing Calculator from the left navigation bar
 
-2. Select a **Start date** for when you want to start subscribing.
+1. From the left sidebar, select **Pricing Calculator**.  
+   ![Pricing Calculator Nav](pc1.png)
 
-   ![Select Start Date](images/select-start-date-cal.png)
+2. On the **Select Product** page, choose the product you want to estimate.  
+   ![Select Product](pc2.png)
 
-> **Note**: Not required for exploring SGTS products.
+3. Review the automatically included items.  
+   ![Automatic Inclusion](pc3.png)
 
-Subscriptions will automatically include 3 GitLab Ultimate Users.
+4. Select the desired plan(s) and quantity.  
+   ![Select Plan](pc4.png)
 
-   ![Automatic Inclusion](images/automatic-inclusion.png)
+5. Add-ons can be selected after choosing a plan.  
+   ![Add-ons](pc5.png)
 
-3. Choose a plan and specify the desired quantity.
+6. The estimated cost will appear in the **Cost Estimate** panel on the right.  
+   ![Cost Estimate](pc6.png)
 
-   ![Select Plan](images/select-cal-plan.png)
+> **Tip:** You can export the cost estimate as a PDF by clicking **Export to PDF**.
 
-> **Note**: To select add-ons, you must first choose a plan.
+---
 
-4. Select any necessary add-ons.
+### 2. Using the Create Subscription Account flow
 
-   ![Add-ons](images/add-ons-cal.png)
+1. Go to **Create subscription account**.  
+2. Under **Select products**, choose the required product(s).  
+3. Continue to the **Select plan(s)** step. The **Cost Estimate** panel on the right will display the monthly estimate.  
+   ![Cost Estimate in Subscription Flow](Screenshot-2025-10-17-at-11.14.57-AM.png)
 
-5. The estimated cost will be displayed on the right-side panel.
+---
 
-   ![Cost Estimate](images/cost-estimate-3.png)
-
-> **Note**: If you are exploring SGTS products, click **Add to estimate**.
-
-## To save the cost estimate as a PDF
-
-- Click **Export to PDF**.
-
-   ![Export to PDF](images/cost-estimate-add.png)
+You can either explore costs quickly via the **Pricing Calculator** or generate an estimate as part of the **Create subscription account** workflow.

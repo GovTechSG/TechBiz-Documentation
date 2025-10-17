@@ -2,7 +2,8 @@
 
 In TechBiz, the preliminary invoice provides an interim snapshot of billing details, offering insight before the finalisation of the bill. It now supports both **APEX** and **CFT** billing formats.
 
-> **Note**: Preliminary invoice emails now include a reminder to raise disputes within **14 days** of receiving the invoice.
+> **Important:** Raise disputes by the **14th of the month** in which you receive the invoice. Disputes raised after this date may not be processed in the same billing cycle.
+
 
 ## To access this information, follow these steps:
 

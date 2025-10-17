@@ -1,9 +1,36 @@
-# Additional details for Free Access (SHIP-HATS)
+# Free Access
 
-For govtech officers eligible for Free Access , no license purchase is required for Jira or Confluence. However, note the following important points regarding the integration between TechBiz and SHIP-HATS:
+Free Access is now rolled out to all GovTech officers. It provides access to common engineering tools through TechBiz and SHIP-HATS without direct cost to your agency.
 
-- **TechhBiz subscription requirement:** Although Free Access users do not need a license for Jira or Confluence, a TechBiz subscription account is still required. You must first create a TechBiz subscription account.
-- **Account creation sequence:** The SHIP-HATS account can only be created after a TechBiz subscription account is in place. This sequence is essential to enable the creation of Jira or Confluence accounts.
-- **SHIP-HATS namespace:** For SHIP -ATS Free Access, one namespace is available without having to subscribe separately.
+> **Note:** Free Access does not include Figma. For Figma accounts, please refer to your agency’s internal software request process.
 
-> **Note:** Ensure that the TechBiz subscription account is active before initiating the creation of the SHIP-HATS account to avoid integration issues.
+---
+
+## Steps to use Free Access
+
+1. **Request software accounts**  
+   Go to [go.gov.sg/ciooffice-software-request](https://go.gov.sg/ciooffice-software-request) to submit a request for JIRA, Confluence, or GitLab.  
+   - You will receive an email notification once your request is successful.
+
+2. **Create a TechBiz subscription account**  
+   - Log in to TechBiz and create a subscription account.  
+   - Billing details must still be completed as usual.
+
+3. **Subscribe to SHIP-HATS**  
+   - At the **Select plans** stage, simply click **Next**. You do not need to choose any add-ons.
+
+4. **Complete the onboarding flow**  
+   - Enter your agency approver details.  
+   - Acknowledge the required agreements.  
+   - Continue through the standard subscription onboarding steps.
+
+5. **Onboard to SHIP-HATS portal**  
+   - Once your TechBiz subscription is approved and active, proceed to onboard to the SHIP-HATS portal by following the [Free Access documentation](https://docs.developer.tech.gov.sg/docs/free-access/getting-started).  
+   - ⚠️ You must have an **active TechBiz account** before you can access the SHIP-HATS portal.
+
+---
+
+## Related links
+
+- [Create subscription account](create-subscription-acc/request-for-techbiz-account.md)  
+- [SHIP-HATS Free Access docs](https://docs.developer.tech.gov.sg/docs/free-access/getting-started)  

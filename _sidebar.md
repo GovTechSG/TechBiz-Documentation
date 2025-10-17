@@ -2,7 +2,7 @@
     - [Home](home.md)
     - [Overview](techBiz-overview.md)
     - [What's new](whats-new/release-notes.md)
-     - [Free Access](free-access.md)
+    - [Free Access](free-access.md)
 - **Getting started**
     - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
     - [Admin roles and permissions](admin-roles-and-permissions.md)

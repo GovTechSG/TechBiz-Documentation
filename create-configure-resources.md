@@ -88,7 +88,7 @@ You will be asked to fill in the following fields:
 
 | Field | Description |
 | --- | --- |
-| **Project name** | Enter the name for your CFT Project. |
+| **Project name** | Enter the name for your CFT Project. <br><br>**Allowed characters:** <br>- Uppercase letters: A–Z <br>- Lowercase letters: a–z <br>- Digits: 0–9 <br>- Space <br>- Underscore ( _ ) <br>- Hyphen ( - ) <br>- Period ( . ) <br>- Forward slash ( / ) <br>- Parentheses: ( ) |
 | **Project short name** | Auto-generated. You may edit before submission. |
 | **Project description** | Briefly describe the purpose of this Project. |
 | **Existing Project ID (Migration)** | *(Optional)* Enter if you are migrating from a previous setup. |

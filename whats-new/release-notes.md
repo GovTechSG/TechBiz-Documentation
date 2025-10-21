@@ -1,5 +1,39 @@
 # Release notes
 
+## August 2025
+
+**29 Aug 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **Plan descriptions in billing invoices for SHIP-HATS** | Billing invoices for SHIP-HATS now include plan descriptions. If a plan has extra information that becomes available after resource provisioning, this description will appear in the invoice for clearer billing details. |
+
+**15 Aug 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **Correct pricing calculator for APEX** | The pricing calculator for APEX now allows you to input both G2G and G2B transactions and automatically tabulates the cost, similar to SHIP-HATS. This includes free transaction blocks as part of your subscription. |
+| **Feature** | **Migration flag for CFT resources** | When creating a CFT resource, you are now asked if it is an existing CFT project undergoing migration. This prevents users from missing the migration field and ensures smoother resource setup. |
+
+**1 Aug 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **GASSP ID uploads** | TechBiz now automatically collects unique GASSP IDs used in provisioned resources for Cerberus. A scheduled job uploads these IDs to S3 for audit and compliance purposes. |
+| **Feature** | **Custom descriptions in plan details** | Plan cards now show a custom description instead of item details, which is especially useful for usage-based products. You can now add and manage plan descriptions during plan creation. The pricing calculator and onboarding screens have been updated to remove item counts. |
+| **Feature** | **Multiple email recipients in product catalogue** | Product catalogues now support up to 10 email recipients (previously only one). This allows more stakeholders to be included for updates and notifications. |
+
+## July 2025
+
+**18 Jul 2025**
+
+| Type | Feature | Description |
+| --- | --- | --- |
+| **Feature** | **Resource-updated webhook with `updatedBy`** | The resource-updated webhook now includes the `updatedBy` field, so you can see who made changes to a resource. |
+| **Change** | **StackOps deployment config details hidden** | Deployment configuration details for StackOps are no longer visible to end users, improving security and reducing unnecessary exposure. |
+| **Change** | **Updated DevConsole URLs for StackOps resources** | All provisioned StackOps resources now point to the updated DevConsole URL:<br>`https://console.developer.tech.gov.sg/stackops/deployments/{accountId}/{resourceId}` |
+
+
 ## June 2025
 
 **20 Jun 2025**

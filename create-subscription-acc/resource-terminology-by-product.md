@@ -4,7 +4,6 @@ When creating resources in TechBiz, it is important to understand how each produ
 
 Each product may use different terms to describe a resource and its type. The form labels and email templates will automatically adapt based on the selected product.
 
-## Terminology reference
 
 ## Terminology reference
 

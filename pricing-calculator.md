@@ -23,22 +23,22 @@ There are two ways to generate a cost estimate:
 ### 1. Using the Pricing Calculator from the left navigation bar
 
 1. From the left sidebar, select **Pricing Calculator**.  
-   ![Pricing Calculator Nav](pc1.png)
+   ![Pricing Calculator Nav](/images/pc1.png)
 
 2. On the **Select Product** page, choose the product you want to estimate.  
-   ![Select Product](pc2.png)
+   ![Select Product](/images/pc2.png)
 
 3. Review the automatically included items.  
-   ![Automatic Inclusion](pc3.png)
+   ![Automatic Inclusion](/images/pc3.png)
 
 4. Select the desired plan(s) and quantity.  
-   ![Select Plan](pc4.png)
+   ![Select Plan](/images/pc4.png)
 
 5. Add-ons can be selected after choosing a plan.  
-   ![Add-ons](pc5.png)
+   ![Add-ons](/images/pc5.png)
 
 6. The estimated cost will appear in the **Cost Estimate** panel on the right.  
-   ![Cost Estimate](pc6.png)
+   ![Cost Estimate](/images/pc6.png)
 
 > **Tip:** You can export the cost estimate as a PDF by clicking **Export to PDF**.
 

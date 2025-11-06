@@ -30,6 +30,7 @@
 - **Support**
     - [FAQs](faq.md)
     - [Raise a service request](support-request.md)
+    - [Billing policies](billing-policies.md)
     - [Glossary](glossary.md)
     - [Terms and policies](tnp.md)
     - [Service status](service-status.md)

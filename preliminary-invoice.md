@@ -1,6 +1,9 @@
 # Generate preliminary invoice
 
-In TechBiz, the preliminary invoice provides an interim snapshot of billing details, offering insight before the finalisation of the bill. It now supports both **APEX** and **CFT** billing formats.
+The preliminary invoice provides an interim snapshot of billing details, offering insight before the finalisation of the bill. It now supports both **APEX** and **CFT** billing formats.
+
+The preliminary invoice and the official invoice will both reflect a **consolidated total for all products included under a single subscription**.
+
 
 > **Important:** Raise disputes by the **14th of the month** in which you receive the invoice. Disputes raised after this date may not be processed in the same billing cycle.
 

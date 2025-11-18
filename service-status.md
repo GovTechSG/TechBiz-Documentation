@@ -13,7 +13,9 @@ This page provides the following Information:
 
 ## Ongoing incidents
 
-No ongoing incident!
+| Date | 18 November 2025 |
+| --- | --- |
+| **Issue summary** | Some users may encounter **intermittent access issues** on the TechBiz portal.<br><br>**Impact:** Users may face difficulties loading the portal or performing account or billing-related actions.<br><br>**Current status:** The issue is due to Cloudflare access disruptions. The TechBiz team is monitoring and awaiting resolution.<br><br>**For assistance:** please create an [incident support request](https://go.gov.sg/seed-techpass-support).<br><br>*Updated at 9:12 PM* |
 
 ## Previous incidents
 

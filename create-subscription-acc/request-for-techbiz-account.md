@@ -1,5 +1,4 @@
 > **Looking for a StackOps trial?**  
-> StackOps trial subscriptions are not available in TechBiz.  
 > To request a trial, go to the StackOps documentation.  
 > [View StackOps documentation](https://stackops.tech.gov.sg)
 
@@ -98,12 +97,17 @@ Have the following information ready before proceeding:
 | **First name** | Displayed if linked to a TechPass account; otherwise, enter manually. |
 | **Last name** | Same as above. |
 | **Contact number** | Displayed if linked to a TechPass account; otherwise, enter manually. |
-| **Agency department**| Enter your department name. |
+| **Agency department** | Enter your department name. |
 | **Cost centre** | Enter the cost centre code for your agency. |
-| **Fund centre** | Enter fund centre details (only for GovTech accounts). |
-| **SBU code** | Select the sub business unit (for agencies other than GovTech). |
-| **Payment mode** | Select the appropriate payment mode. |
-| **Customer ID**  | Enter your customer ID. |
+| **SBU code** | Select the sub business unit from the dropdown list (for agencies other than GovTech). |
+
+> **If you cannot find your SBU code**
+>
+> - Use the link provided in the hint text within the TechBiz portal to request the creation of a new SBU code.
+> - Newly created SBU codes are **not available immediately**.
+> - The creation process typically takes **about 5 working days**, as it requires processing by the finance team.
+>
+> Once the SBU code has been created and synced, it will appear in the dropdown list for selection.
 
 5. Click **Next**.
 

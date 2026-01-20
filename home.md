@@ -1,5 +1,4 @@
 > **StackOps trial subscriptions**  
-> StackOps trial subscriptions are not managed in TechBiz.  
 > To request a trial, go to the StackOps documentation.  
 > [View StackOps documentation](https://stackops.tech.gov.sg)
 

@@ -1,6 +1,6 @@
 > **Looking for a StackOps trial?**  
 > To request a trial, go to the StackOps documentation.  
-> [View StackOps documentation](https://stackops.tech.gov.sg)
+> [View StackOps documentation](https://docs.developer.tech.gov.sg/docs/stackops-documentation/subscription/subscribe-trial?product=StackOps)
 
 
 # Create subscription account

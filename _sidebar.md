@@ -17,7 +17,6 @@
 - [Resubmit account request](create-subscription-acc/resubmit-techbiz-account-application.md)
 - [Manage system](manage-techbiz-system.md)
 - [Manage account](manage-techbiz-account.md)
-- [Billing process](billing-process.md)
 - [Manage subscriptions](manage-subscriptions.md)
 - **Billing**
     - [Billing process](billing-process.md)

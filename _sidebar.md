@@ -17,7 +17,12 @@
 - [Resubmit account request](create-subscription-acc/resubmit-techbiz-account-application.md)
 - [Manage system](manage-techbiz-system.md)
 - [Manage account](manage-techbiz-account.md)
+- [Billing process](billing-process.md)
 - [Manage subscriptions](manage-subscriptions.md)
+- **Billing**
+    - [Billing process](billing-process.md)
+    - [Preliminary invoice](preliminary-invoice.md)
+    - [Billing policies](billing-policies.md)
 - **Additional features**
     - [Create TechPass accounts](invite-users.md)
     - [Approve or reject account request](approve-or-reject-techbiz-account.md)
@@ -30,7 +35,6 @@
 - **Support**
     - [FAQs](faq.md)
     - [Raise a service request](support-request.md)
-    - [Billing policies](billing-policies.md)
     - [Glossary](glossary.md)
     - [Terms and policies](tnp.md)
     - [Service status](service-status.md)

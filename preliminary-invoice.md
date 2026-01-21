@@ -25,7 +25,11 @@ Charges for **ad-hoc professional services** and **SHIP-HATS JSM plugins** are r
 
 ![Preliminary invoice screenshot](/images/prelim-bill-new-3.png)
 
+
 > **Note**: Only the last 12 months of invoices are available for viewing.
+
+For an overview of how preliminary invoices fit into the overall billing cycle, see [Billing process](billing-process.md).
+
 
 ## Related links
 

@@ -2,7 +2,6 @@
 
 The preliminary invoice provides an interim snapshot of billing details, offering insight before the finalisation of the bill. It now supports both **APEX** and **CFT** billing formats.
 
-The preliminary invoice and the official invoice will both reflect a **consolidated total for all products included under a single subscription**.
 
 The preliminary invoice and the official invoice will both reflect a **consolidated total for all products included under a single subscription**.
 

@@ -1,5 +1,62 @@
 # Release notes
 
+## January 2026
+
+**16 January 2026**
+
+| Type | Feature | Description |
+|---|---|---|
+| **Enhancement** | **Vendor payment insights on dashboard (Cerberus)** | Vendors can now view the **monthly cost of Cerberus subscriptions** on the TechBiz dashboard. The dashboard shows the number of servers per resource, total servers per resource, and a breakdown table including GASSPID, server name, start date, and cost. |
+| **Enhancement** | **QR code support for vendor invoice payments** | Vendors now receive invoices in TechBiz with a **QR code** to simplify payment. |
+
+
+## December 2025
+
+**19 December 2025**
+
+| Type | Feature | Description |
+|---|---|---|
+| **Fix** | **Invoice and to-do emails sent to removed contacts** | Fixed an issue where invoice and to-do emails were still sent to account contacts after they had been removed. |
+| **Fix** | **Email attachments blocked by SGMail** | Fixed an issue that caused SGMail to block emails sent from TechBiz by changing attachment extensions from `.json` to `.txt`. |
+| **Enhancement** | **Improved promo code application flow** | Implemented a **sticky stepper** in the promotional code flow to make the final **Submit** action more visible. |
+| **Enhancement** | **Trial to paid account conversion** | Trial users can now convert their trial account to a paid account **before the trial period ends**. |
+
+---
+
+## November 2025
+
+**21 November 2025**
+
+| Type | Feature | Description |
+|---|---|---|
+| **Enhancement** | **Update subscription admin during APEX migration** | APEX consumers migrating to TechBiz can now update their **primary subscription admin** while their account is still in draft. |
+| **Enhancement** | **Billing policy links in documentation** | Links to billing policies from different products are now available in the [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/billing-policies). |
+| **Update** | **DGP system tagging restriction** | Newly created systems can now tag **only one DGP system** to one TechBiz system. |
+| **Feature** | **Cerberus for Servers billing** | Billing support for **Cerberus for Servers** has been implemented. |
+
+**7 November 2025**
+
+| Type | Feature | Description |
+|---|---|---|
+| **Fix** | **OTP login failure** | Fixed an issue that caused OTP login attempts to fail. |
+| **Enhancement** | **Billing contacts for deleted accounts** | Billing contacts for deleted accounts are now included in product reports and invoices. |
+| **Enhancement** | **Project ID dropdown** | [The **Project ID** field in billing details](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/create-subscription-acc/request-for-techbiz-account?id=step-2-enter-subscription-account-details) and during account creation is now a dropdown instead of free text. |
+| **Enhancement** | **Conditional approval form display** | The approval form is now shown only if the selected product requires approval. |
+
+---
+
+## October 2025
+
+**24 October 2025**
+
+| Type | Feature | Description |
+|---|---|---|
+| **Enhancement** | **Expanded CFT resource configuration details** | Additional details have been added to the CFT resource configuration page for better clarity. |
+| **Enhancement** | **Direct links to product portals** | After completing actions, users now see **direct links to relevant product pages and portals**, allowing quicker access to subscribed or updated services. |
+| **Enhancement** | **Product portal links in user management** | URL links to relevant product portals are now displayed on the **user management** page for easier access. |
+| **Feature** | **User management via APIs** | Agencies can now manage user assignment and removal in their accounts using APIs. |
+
+
 ## August 2025
 
 **29 Aug 2025**

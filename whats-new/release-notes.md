@@ -1,15 +1,5 @@
 # Release notes
 
-## January 2026
-
-**16 January 2026**
-
-| Type | Feature | Description |
-|---|---|---|
-| **Enhancement** | **Vendor payment insights on dashboard (Cerberus)** | Vendors can now view the **monthly cost of Cerberus subscriptions** on the TechBiz dashboard. The dashboard shows the number of servers per resource, total servers per resource, and a breakdown table including GASSPID, server name, start date, and cost. |
-| **Enhancement** | **QR code support for vendor invoice payments** | Vendors now receive invoices in TechBiz with a **QR code** to simplify payment. |
-
-
 ## December 2025
 
 **19 December 2025**
